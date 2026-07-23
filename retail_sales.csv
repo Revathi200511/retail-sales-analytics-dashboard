@@ -1,0 +1,1501 @@
+Order ID,Order Date,Ship Date,Customer Name,Region,State,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+CA-2023-10001,2023-06-18,2023-06-21,Elizabeth Robinson,East,Pennsylvania,Furniture,Chairs,Task Chair Armless,287.98,4,0.4,31.72
+CA-2026-10002,2023-07-10,2023-07-11,Nicole Garcia,East,Connecticut,Furniture,Chairs,Task Chair Armless,71.99,1,0.4,1.54
+CA-2026-10003,2025-03-30,2025-03-31,Jeffrey Morris,East,New Jersey,Office Supplies,Storage,Plastic Storage Tote 10 Gal,13.59,1,0.15,5.01
+CA-2026-10004,2023-11-29,2023-12-02,Donna Roberts,Central,Texas,Furniture,Furnishings,Acoustic Desk Divider,63.99,1,0.2,21.39
+CA-2025-10005,2025-09-14,2025-09-19,Samantha Young,East,New York,Technology,Smartphones,Google Pixel 8,5984.91,9,0.05,1835.55
+CA-2026-10006,2024-07-16,2024-07-19,Daniel Harris,Central,Ohio,Technology,Accessories,Logitech MX Master 3S,299.97,3,0.0,118.35
+CA-2024-10007,2024-03-07,2024-03-11,Megan Rodriguez,East,Massachusetts,Technology,Smartphones,iPhone 15 Pro,3999.96,5,0.2,1185.8
+CA-2024-10008,2025-12-06,2025-12-11,Laura Collins,Central,Illinois,Furniture,Furnishings,Anti-Fatigue Floor Mat,167.96,6,0.3,37.71
+CA-2024-10009,2024-06-14,2024-06-19,George Nelson,Central,Wisconsin,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,11.99,1,0.0,4.78
+CA-2023-10010,2025-07-19,2025-07-20,Ashley White,East,New Jersey,Furniture,Chairs,Gaming Chair High-Back,349.99,2,0.3,47.67
+CA-2023-10011,2025-05-30,2025-05-31,Michelle Evans,Central,Ohio,Technology,Accessories,Sony WH-1000XM5,399.99,1,0.0,130.95
+CA-2025-10012,2026-03-04,2026-03-06,Donald Baker,West,Oregon,Furniture,Tables,"Adjustable Standing Desk 55""",900.0,2,0.0,354.33
+CA-2023-10013,2025-04-06,2025-04-10,Michael Smith,West,Oregon,Office Supplies,Binders,"Heavy-Duty 3-Ring Binder 2""",8.99,1,0.0,4.19
+CA-2026-10014,2025-09-03,2025-09-08,Amy Rogers,East,Pennsylvania,Furniture,Furnishings,Acoustic Desk Divider,47.99,1,0.4,-4.77
+CA-2026-10015,2026-02-18,2026-02-23,Jeffrey Morris,East,Massachusetts,Office Supplies,Storage,Desktop File Organizer,96.56,6,0.3,22.16
+CA-2024-10016,2023-09-28,2023-09-29,Kevin Perez,East,Connecticut,Technology,Laptops,"MacBook Pro 16""",7999.96,4,0.0,3546.94
+CA-2023-10017,2025-10-11,2025-10-12,Donald Baker,East,Massachusetts,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,96.58,3,0.3,19.47
+CA-2026-10018,2025-08-27,2025-08-29,Christopher Anderson,West,Arizona,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,23.98,2,0.0,8.93
+CA-2023-10019,2023-09-20,2023-09-23,Christopher Anderson,East,Pennsylvania,Technology,Monitors,"Dell UltraSharp 27""",899.98,2,0.1,305.97
+CA-2023-10020,2024-12-11,2024-12-16,Christopher Anderson,West,Nevada,Technology,Laptops,Dell XPS 15,1049.99,1,0.3,154.47
+CA-2026-10021,2025-11-23,2025-11-25,Thomas Hernandez,West,Arizona,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,14.39,2,0.4,-0.62
+CA-2026-10022,2024-02-25,2024-02-28,Nicole Garcia,West,Nevada,Furniture,Chairs,Task Chair Armless,239.98,2,0.0,92.76
+CA-2024-10023,2023-09-12,2023-09-17,Jessica Taylor,East,New York,Furniture,Chairs,Task Chair Armless,479.96,5,0.2,156.48
+CA-2024-10024,2025-03-23,2025-03-24,Jason Turner,West,Arizona,Furniture,Bookcases,3-Tier Industrial Metal Shelf,118.99,1,0.15,40.85
+CA-2026-10025,2024-01-22,2024-01-25,Barbara Scott,Central,Texas,Technology,Monitors,Samsung Odyssey G7,5999.9,10,0.0,2809.62
+CA-2024-10026,2025-01-29,2025-01-31,Charles Allen,West,Washington,Office Supplies,Storage,Plastic Storage Tote 10 Gal,19.19,2,0.4,-1.04
+CA-2023-10027,2025-05-22,2025-05-27,Jennifer Lee,West,Washington,Office Supplies,Paper,Multipurpose Copy Paper 500 Sheets,51.96,4,0.0,22.68
+CA-2024-10028,2025-06-23,2025-06-25,Michelle Evans,Central,Wisconsin,Office Supplies,Storage,Plastic Storage Tote 10 Gal,12.79,1,0.2,2.35
+CA-2023-10029,2023-03-05,2023-03-07,Brian Phillips,Central,Illinois,Furniture,Furnishings,Acoustic Desk Divider,191.98,4,0.4,25.11
+CA-2023-10030,2026-01-17,2026-01-19,George Nelson,West,Oregon,Furniture,Tables,Conference Table 8-ft,719.99,1,0.1,257.32
+CA-2023-10031,2025-11-19,2025-11-21,Michelle Evans,East,New York,Office Supplies,Art & Writing,Highlighter Pack,30.36,4,0.05,9.32
+CA-2024-10032,2025-11-01,2025-11-02,Stephanie Martin,Central,Michigan,Furniture,Tables,Conference Table 8-ft,799.99,1,0.0,335.03
+CA-2023-10033,2025-10-10,2025-10-12,Robert Thompson,South,Georgia,Office Supplies,Binders,"Heavy-Duty 3-Ring Binder 2""",8.54,1,0.05,3.29
+CA-2025-10034,2025-10-15,2025-10-18,Charles Allen,South,Tennessee,Office Supplies,Paper,Multipurpose Copy Paper 500 Sheets,58.46,5,0.1,22.83
+CA-2025-10035,2023-07-28,2023-08-02,Linda Lopez,Central,Ohio,Office Supplies,Paper,Premium Heavyweight Cardstock,113.94,6,0.05,46.68
+CA-2026-10036,2023-02-13,2023-02-18,Michelle Evans,East,Massachusetts,Office Supplies,Paper,Recycled Printer Paper,73.9,6,0.15,19.46
+CA-2023-10037,2025-06-25,2025-06-28,Donald Baker,Central,Michigan,Office Supplies,Art & Writing,Highlighter Pack,15.98,2,0.0,7.18
+CA-2026-10038,2025-05-28,2025-05-30,Jason Turner,Central,Michigan,Furniture,Chairs,Gaming Chair High-Back,399.98,2,0.2,77.13
+CA-2025-10039,2024-12-28,2025-01-01,Michelle Evans,East,Connecticut,Office Supplies,Binders,"Zipper Binder 3""",14.99,1,0.4,-0.66
+CA-2025-10040,2023-11-23,2023-11-25,Michelle Evans,Central,Illinois,Technology,Smartphones,iPhone 15 Pro,699.99,1,0.3,82.19
+CA-2023-10041,2024-12-21,2024-12-26,Robert Thompson,South,Virginia,Office Supplies,Binders,"Heavy-Duty 3-Ring Binder 2""",26.97,3,0.0,9.09
+CA-2023-10042,2025-08-05,2025-08-07,Stephanie Martin,South,Florida,Furniture,Tables,"Adjustable Standing Desk 55""",630.0,2,0.3,65.87
+CA-2025-10043,2026-01-24,2026-01-28,Jason Turner,South,Tennessee,Office Supplies,Binders,"Zipper Binder 3""",87.46,5,0.3,17.3
+CA-2024-10044,2025-09-23,2025-09-26,Amy Rogers,South,North Carolina,Office Supplies,Art & Writing,Gel Pen Set 12-Pack,56.96,4,0.05,23.17
+CA-2025-10045,2025-11-13,2025-11-14,Matthew Jackson,East,Pennsylvania,Office Supplies,Binders,"Zipper Binder 3""",19.99,1,0.2,5.37
+CA-2026-10046,2024-11-19,2024-11-21,Steven Wright,South,Tennessee,Furniture,Chairs,Task Chair Armless,239.98,2,0.0,78.99
+CA-2025-10047,2025-07-17,2025-07-21,George Nelson,East,New Jersey,Technology,Accessories,Sony WH-1000XM5,639.98,2,0.2,180.97
+CA-2026-10048,2025-06-27,2025-07-01,Matthew Jackson,West,Arizona,Furniture,Chairs,Ergonomic Executive Mesh Chair,899.97,3,0.0,307.16
+CA-2024-10049,2023-08-28,2023-09-01,Anthony Walker,East,New Jersey,Office Supplies,Storage,Desktop File Organizer,36.78,2,0.2,11.01
+CA-2023-10050,2025-01-02,2025-01-07,Sarah Davis,Central,Illinois,Furniture,Chairs,Task Chair Armless,119.99,1,0.0,39.36
+CA-2024-10051,2025-09-22,2025-09-27,Ashley White,East,Pennsylvania,Office Supplies,Paper,Recycled Printer Paper,71.0,7,0.3,6.9
+CA-2025-10052,2024-03-13,2024-03-18,Sarah Sanchez,West,Washington,Office Supplies,Paper,Recycled Printer Paper,13.04,1,0.1,4.17
+CA-2026-10053,2024-11-03,2024-11-05,James Wilson,East,New York,Furniture,Bookcases,Corner Bookshelf,299.97,3,0.0,105.77
+CA-2023-10054,2024-09-21,2024-09-25,Ronald Parker,Central,Texas,Furniture,Bookcases,5-Shelf Wooden Bookcase,664.97,5,0.3,154.95
+CA-2025-10055,2025-05-01,2025-05-05,Laura Collins,East,New Jersey,Technology,Accessories,Sony WH-1000XM5,719.98,2,0.1,262.74
+CA-2024-10056,2025-09-15,2025-09-16,Megan Rodriguez,South,North Carolina,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,10.19,1,0.15,3.61
+CA-2024-10057,2024-09-27,2024-09-30,Rachel Hall,Central,Wisconsin,Furniture,Bookcases,Corner Bookshelf,94.99,1,0.05,41.63
+CA-2026-10058,2025-01-16,2025-01-18,Timothy Edwards,South,Virginia,Office Supplies,Paper,Multipurpose Copy Paper 500 Sheets,20.78,2,0.2,4.39
+CA-2025-10059,2025-05-19,2025-05-22,Mark Green,Central,Michigan,Furniture,Bookcases,3-Tier Industrial Metal Shelf,503.96,4,0.1,185.31
+CA-2024-10060,2024-01-06,2024-01-08,Anthony Walker,West,Nevada,Furniture,Tables,"Adjustable Standing Desk 55""",315.0,1,0.3,61.09
+CA-2025-10061,2026-03-24,2026-03-26,Joseph Lewis,East,Massachusetts,Technology,Accessories,Logitech MX Master 3S,399.96,4,0.0,174.43
+CA-2023-10062,2025-03-05,2025-03-07,Brian Phillips,South,Florida,Technology,Accessories,Sony WH-1000XM5,679.98,2,0.15,240.39
+CA-2023-10063,2024-06-20,2024-06-24,Amanda Thomas,West,Arizona,Office Supplies,Paper,Recycled Printer Paper,43.47,3,0.0,19.81
+CA-2025-10064,2023-11-08,2023-11-10,Amanda Thomas,South,Tennessee,Furniture,Tables,Side Table Wooden,125.99,2,0.3,23.84
+CA-2026-10065,2024-08-12,2024-08-17,Sarah Davis,West,Washington,Furniture,Tables,Conference Table 8-ft,2399.97,3,0.0,1059.88
+CA-2023-10066,2024-02-27,2024-03-02,Paul Hill,South,Georgia,Technology,Smartphones,Google Pixel 8,1959.97,4,0.3,472.1
+CA-2024-10067,2025-12-19,2025-12-24,Ronald Parker,East,New Jersey,Technology,Smartphones,Samsung Galaxy S24,5399.94,6,0.0,2530.27
+CA-2024-10068,2025-08-15,2025-08-20,Sarah Sanchez,Central,Michigan,Technology,Monitors,Samsung Odyssey G7,959.98,2,0.2,155.0
+CA-2026-10069,2024-12-07,2024-12-12,David Brown,South,Georgia,Furniture,Bookcases,5-Shelf Wooden Bookcase,189.99,1,0.0,60.81
+CA-2025-10070,2025-03-21,2025-03-23,Mark Green,South,Georgia,Technology,Monitors,Samsung Odyssey G7,2999.95,5,0.0,1214.37
+CA-2026-10071,2024-09-08,2024-09-09,Daniel Harris,Central,Michigan,Furniture,Furnishings,Anti-Fatigue Floor Mat,95.98,3,0.2,17.98
+CA-2023-10072,2024-12-20,2024-12-23,William Clark,Central,Texas,Office Supplies,Paper,Recycled Printer Paper,50.71,5,0.3,8.25
+CA-2024-10073,2025-02-07,2025-02-12,Jeffrey Morris,South,Virginia,Technology,Smartphones,Google Pixel 8,1889.97,3,0.1,650.78
+CA-2026-10074,2024-01-08,2024-01-13,Elizabeth Robinson,East,Massachusetts,Furniture,Chairs,Task Chair Armless,227.98,2,0.05,65.09
+CA-2023-10075,2024-12-26,2024-12-27,Carol Campbell,East,New Jersey,Furniture,Bookcases,Corner Bookshelf,319.97,4,0.2,58.57
+CA-2026-10076,2024-06-11,2024-06-16,Ashley White,South,North Carolina,Furniture,Tables,"Adjustable Standing Desk 55""",720.0,2,0.2,203.06
+CA-2025-10077,2025-09-06,2025-09-09,Jason Stewart,Central,Wisconsin,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,64.39,2,0.3,11.48
+CA-2026-10078,2024-12-21,2024-12-24,Robert Thompson,East,Connecticut,Office Supplies,Binders,"Presentation Binder 1""",3.84,1,0.3,0.37
+CA-2026-10079,2024-10-25,2024-10-27,Laura Adams,West,Washington,Furniture,Bookcases,5-Shelf Wooden Bookcase,664.97,5,0.3,155.84
+CA-2026-10080,2023-05-13,2023-05-15,Steven Wright,East,New York,Office Supplies,Storage,Desktop File Organizer,55.18,3,0.2,12.14
+CA-2025-10081,2025-10-04,2025-10-09,Thomas Hernandez,Central,Michigan,Furniture,Chairs,Task Chair Armless,107.99,1,0.1,26.45
+CA-2023-10082,2024-12-04,2024-12-05,Jeffrey Morris,West,Arizona,Technology,Accessories,Logitech MX Master 3S,99.99,1,0.0,43.3
+CA-2025-10083,2024-12-01,2024-12-03,Kimberly Gonzalez,South,Tennessee,Furniture,Tables,"Adjustable Standing Desk 55""",360.0,1,0.2,81.38
+CA-2024-10084,2025-01-23,2025-01-28,Ashley White,East,New Jersey,Furniture,Bookcases,3-Tier Industrial Metal Shelf,279.98,2,0.0,94.12
+CA-2026-10085,2025-11-22,2025-11-27,Daniel Harris,West,Arizona,Office Supplies,Storage,Archive Storage Boxes 10-Pack,251.93,8,0.1,85.91
+CA-2025-10086,2024-04-21,2024-04-25,Mark Green,West,Washington,Office Supplies,Storage,Archive Storage Boxes 10-Pack,62.98,2,0.1,26.34
+CA-2026-10087,2024-07-13,2024-07-18,Michelle Evans,West,Nevada,Furniture,Furnishings,Anti-Fatigue Floor Mat,151.96,4,0.05,53.24
+CA-2025-10088,2024-05-14,2024-05-16,Jason Turner,Central,Illinois,Furniture,Chairs,Task Chair Armless,323.97,3,0.1,91.37
+CA-2023-10089,2025-03-23,2025-03-25,Jessica Taylor,Central,Ohio,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,27.59,1,0.4,-2.77
+CA-2025-10090,2025-02-16,2025-02-19,Daniel Harris,Central,Michigan,Office Supplies,Storage,Plastic Storage Tote 10 Gal,31.98,2,0.0,14.63
+CA-2024-10091,2025-10-11,2025-10-15,Edward Carter,Central,Texas,Office Supplies,Paper,Premium Heavyweight Cardstock,41.98,3,0.3,7.26
+CA-2025-10092,2025-03-27,2025-03-30,Christopher Anderson,East,New Jersey,Technology,Accessories,Anker USB-C Hub,104.98,3,0.3,5.17
+CA-2025-10093,2025-05-10,2025-05-11,Matthew Jackson,West,California,Office Supplies,Art & Writing,Gel Pen Set 12-Pack,8.99,1,0.4,0.87
+CA-2026-10094,2024-10-12,2024-10-17,Steven Wright,East,New Jersey,Furniture,Chairs,Gaming Chair High-Back,674.97,3,0.1,281.06
+CA-2025-10095,2024-05-12,2024-05-16,Elizabeth Robinson,Central,Texas,Furniture,Bookcases,Corner Bookshelf,509.95,6,0.15,192.17
+CA-2025-10096,2024-04-10,2024-04-11,Barbara Scott,West,Washington,Furniture,Chairs,Ergonomic Executive Mesh Chair,1139.96,4,0.05,326.13
+CA-2024-10097,2023-10-07,2023-10-12,Nicole Garcia,East,Pennsylvania,Office Supplies,Binders,"Zipper Binder 3""",24.99,1,0.0,8.05
+CA-2025-10098,2025-08-20,2025-08-21,Ronald Parker,West,Washington,Technology,Accessories,Anker USB-C Hub,149.97,3,0.0,67.8
+CA-2023-10099,2024-01-16,2024-01-20,Kimberly Gonzalez,West,California,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,35.97,3,0.0,14.66
+CA-2024-10100,2026-01-17,2026-01-18,Jason Stewart,Central,Michigan,Furniture,Chairs,Ergonomic Executive Mesh Chair,2399.92,10,0.2,635.37
+CA-2023-10101,2025-01-17,2025-01-21,James Wilson,West,Oregon,Furniture,Tables,"Adjustable Standing Desk 55""",270.0,1,0.4,-15.28
+CA-2026-10102,2026-05-09,2026-05-14,Joseph Lewis,South,Tennessee,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,183.96,4,0.0,63.2
+CA-2024-10103,2024-12-01,2024-12-03,Steven Wright,Central,Michigan,Office Supplies,Art & Writing,Highlighter Pack,6.39,1,0.2,1.84
+CA-2025-10104,2024-10-15,2024-10-17,Michelle Evans,South,Florida,Technology,Laptops,"MacBook Pro 16""",3399.98,2,0.15,800.46
+CA-2023-10105,2025-03-28,2025-04-02,Edward Carter,Central,Texas,Office Supplies,Storage,Archive Storage Boxes 10-Pack,195.94,7,0.2,34.56
+CA-2023-10106,2026-02-25,2026-03-02,Jennifer Lee,Central,Texas,Furniture,Tables,"Adjustable Standing Desk 55""",1282.5,3,0.05,397.49
+CA-2025-10107,2025-09-28,2025-10-01,Amanda Thomas,Central,Wisconsin,Technology,Monitors,Samsung Odyssey G7,2879.95,8,0.4,363.83
+CA-2025-10108,2023-07-01,2023-07-04,Timothy Edwards,Central,Ohio,Office Supplies,Paper,Multipurpose Copy Paper 500 Sheets,51.96,5,0.2,17.46
+CA-2023-10109,2023-11-20,2023-11-25,Nicole Garcia,South,Virginia,Office Supplies,Storage,Plastic Storage Tote 10 Gal,27.18,2,0.15,6.58
+CA-2023-10110,2025-11-03,2025-11-05,Daniel Harris,West,California,Office Supplies,Art & Writing,Highlighter Pack,11.19,2,0.3,1.82
+CA-2024-10111,2025-07-19,2025-07-20,Charles Allen,South,Florida,Office Supplies,Art & Writing,Highlighter Pack,23.97,3,0.0,10.66
+CA-2023-10112,2023-04-04,2023-04-07,Nicole Garcia,East,Massachusetts,Office Supplies,Storage,Plastic Storage Tote 10 Gal,12.79,1,0.2,4.03
+CA-2026-10113,2025-02-18,2025-02-20,Donald Baker,Central,Texas,Office Supplies,Paper,Premium Heavyweight Cardstock,19.99,1,0.0,6.84
+CA-2026-10114,2025-03-19,2025-03-23,Joseph Lewis,West,Arizona,Technology,Accessories,Anker USB-C Hub,174.97,5,0.3,11.72
+CA-2025-10115,2023-11-13,2023-11-14,Elizabeth Robinson,South,Tennessee,Office Supplies,Paper,Premium Heavyweight Cardstock,84.96,5,0.15,29.44
+CA-2024-10116,2023-10-23,2023-10-24,Kimberly Gonzalez,East,Massachusetts,Office Supplies,Binders,"Heavy-Duty 3-Ring Binder 2""",8.09,1,0.1,3.13
+CA-2024-10117,2025-07-22,2025-07-23,Stephanie Martin,South,Virginia,Furniture,Furnishings,Acoustic Desk Divider,407.95,6,0.15,92.02
+CA-2025-10118,2024-02-19,2024-02-20,Mark Green,South,Georgia,Office Supplies,Paper,Premium Heavyweight Cardstock,53.97,3,0.1,18.36
+CA-2023-10119,2023-09-12,2023-09-15,James Wilson,West,Nevada,Furniture,Furnishings,Anti-Fatigue Floor Mat,119.97,3,0.0,48.95
+CA-2024-10120,2024-08-28,2024-09-01,Donald Baker,East,New York,Office Supplies,Paper,Premium Heavyweight Cardstock,179.91,9,0.0,71.83
+CA-2024-10121,2023-07-31,2023-08-04,Paul Hill,East,Massachusetts,Office Supplies,Storage,Desktop File Organizer,39.08,2,0.15,10.18
+CA-2023-10122,2025-08-13,2025-08-16,James Wilson,Central,Texas,Furniture,Furnishings,Anti-Fatigue Floor Mat,79.98,2,0.0,34.12
+CA-2024-10123,2025-12-10,2025-12-13,Carol Campbell,South,North Carolina,Furniture,Chairs,Gaming Chair High-Back,637.47,3,0.15,149.91
+CA-2023-10124,2025-05-08,2025-05-12,Donald Baker,Central,Texas,Office Supplies,Storage,Plastic Storage Tote 10 Gal,95.14,7,0.15,19.96
+CA-2026-10125,2024-04-12,2024-04-14,Ashley White,West,Oregon,Technology,Laptops,Lenovo ThinkPad X1,6499.95,5,0.0,2498.84
+CA-2024-10126,2024-03-06,2024-03-11,Daniel Harris,South,Florida,Office Supplies,Storage,Archive Storage Boxes 10-Pack,97.97,4,0.3,11.52
+CA-2026-10127,2024-05-31,2024-06-02,Jennifer Lee,South,North Carolina,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,38.37,4,0.2,9.57
+CA-2026-10128,2026-02-21,2026-02-23,Donna Roberts,East,Massachusetts,Technology,Monitors,"LG UltraGear 34""",2099.97,3,0.0,768.96
+CA-2023-10129,2024-07-23,2024-07-25,Megan Rodriguez,South,Tennessee,Technology,Monitors,"Dell UltraSharp 27""",3324.93,7,0.05,1047.62
+CA-2025-10130,2025-12-27,2025-12-31,Sarah Davis,South,Tennessee,Office Supplies,Binders,"Presentation Binder 1""",46.67,10,0.15,16.15
+CA-2025-10131,2025-12-28,2025-12-31,Ashley White,East,New York,Office Supplies,Art & Writing,Highlighter Pack,27.96,5,0.3,4.32
+CA-2023-10132,2025-11-27,2025-11-28,William Clark,East,Pennsylvania,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,174.76,4,0.05,70.24
+CA-2023-10133,2024-06-05,2024-06-10,Barbara Scott,West,California,Office Supplies,Paper,Recycled Printer Paper,41.3,3,0.05,13.7
+CA-2025-10134,2024-11-30,2024-12-05,Charles Allen,East,Connecticut,Office Supplies,Binders,"Zipper Binder 3""",44.98,3,0.4,-5.7
+CA-2023-10135,2026-01-30,2026-02-04,Donald Baker,West,Arizona,Office Supplies,Paper,Recycled Printer Paper,24.63,2,0.15,8.38
+CA-2023-10136,2024-09-29,2024-09-30,Charles Allen,East,New York,Furniture,Bookcases,5-Shelf Wooden Bookcase,113.99,1,0.4,4.9
+CA-2024-10137,2025-09-15,2025-09-19,Timothy Edwards,South,North Carolina,Technology,Laptops,HP Spectre x360,1139.99,1,0.05,507.58
+CA-2024-10138,2025-11-05,2025-11-08,Jennifer Lee,South,Tennessee,Office Supplies,Storage,Plastic Storage Tote 10 Gal,60.76,4,0.05,24.57
+CA-2023-10139,2025-10-16,2025-10-19,Megan Rodriguez,West,Oregon,Office Supplies,Art & Writing,Highlighter Pack,12.78,2,0.2,3.6
+CA-2024-10140,2025-01-22,2025-01-26,Samantha Young,Central,Texas,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,91.98,2,0.0,36.12
+CA-2025-10141,2023-12-08,2023-12-11,Ronald Parker,Central,Ohio,Office Supplies,Art & Writing,Gel Pen Set 12-Pack,38.22,3,0.15,11.62
+CA-2025-10142,2025-04-17,2025-04-21,Megan Rodriguez,West,California,Furniture,Furnishings,Anti-Fatigue Floor Mat,119.97,3,0.0,39.3
+CA-2024-10143,2025-10-01,2025-10-05,David Brown,East,New York,Technology,Accessories,Apple AirPods Pro,499.98,2,0.0,191.58
+CA-2026-10144,2026-01-22,2026-01-25,Paul Hill,West,Nevada,Technology,Accessories,Sony WH-1000XM5,719.98,2,0.1,272.04
+CA-2023-10145,2023-06-21,2023-06-23,Laura Adams,South,Tennessee,Technology,Accessories,Apple AirPods Pro,949.96,4,0.05,270.57
+CA-2025-10146,2025-06-08,2025-06-12,Robert Thompson,West,Washington,Technology,Monitors,"Dell UltraSharp 27""",2099.96,6,0.3,61.31
+CA-2025-10147,2025-05-22,2025-05-23,Edward Carter,Central,Ohio,Technology,Smartphones,Google Pixel 8,2099.97,3,0.0,676.99
+CA-2024-10148,2024-06-03,2024-06-07,Michael Smith,Central,Wisconsin,Furniture,Bookcases,3-Tier Industrial Metal Shelf,419.97,5,0.4,41.46
+CA-2023-10149,2023-10-01,2023-10-05,Laura Collins,South,Tennessee,Office Supplies,Art & Writing,Highlighter Pack,6.79,1,0.15,1.81
+CA-2026-10150,2024-12-29,2025-01-03,Charles Allen,East,Connecticut,Furniture,Tables,"Adjustable Standing Desk 55""",900.0,2,0.0,312.28
+CA-2024-10151,2024-08-11,2024-08-13,Anthony Walker,East,Massachusetts,Furniture,Bookcases,5-Shelf Wooden Bookcase,227.99,2,0.4,13.71
+CA-2025-10152,2025-04-16,2025-04-17,Donald Baker,East,Connecticut,Furniture,Tables,"Adjustable Standing Desk 55""",1147.5,3,0.15,263.51
+CA-2023-10153,2025-09-10,2025-09-11,Jessica Taylor,West,Nevada,Office Supplies,Binders,"Zipper Binder 3""",49.98,2,0.0,20.01
+CA-2025-10154,2025-05-05,2025-05-08,Mark Green,East,New Jersey,Office Supplies,Art & Writing,Gel Pen Set 12-Pack,44.97,3,0.0,18.42
+CA-2026-10155,2024-12-28,2024-12-31,Donna Roberts,East,Massachusetts,Furniture,Bookcases,Corner Bookshelf,764.92,9,0.15,156.53
+CA-2024-10156,2025-07-23,2025-07-28,Edward Carter,West,Oregon,Technology,Monitors,"Dell UltraSharp 27""",949.98,2,0.05,407.45
+CA-2023-10157,2024-07-29,2024-08-02,Jason Turner,South,North Carolina,Technology,Accessories,Apple AirPods Pro,249.99,1,0.0,100.07
+CA-2026-10158,2025-01-23,2025-01-26,Laura Adams,West,California,Office Supplies,Art & Writing,Gel Pen Set 12-Pack,12.74,1,0.15,4.83
+CA-2025-10159,2025-01-21,2025-01-25,Joseph Lewis,West,California,Office Supplies,Binders,"Presentation Binder 1""",17.57,4,0.2,4.87
+CA-2026-10160,2023-08-30,2023-09-04,Robert Thompson,Central,Wisconsin,Office Supplies,Paper,Premium Heavyweight Cardstock,35.98,3,0.4,2.11
+CA-2023-10161,2024-01-18,2024-01-19,Patricia King,Central,Ohio,Furniture,Bookcases,5-Shelf Wooden Bookcase,113.99,1,0.4,2.99
+CA-2023-10162,2023-08-16,2023-08-18,Laura Collins,Central,Michigan,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,82.78,3,0.4,7.95
+CA-2025-10163,2024-03-06,2024-03-11,Sarah Sanchez,Central,Wisconsin,Office Supplies,Art & Writing,Highlighter Pack,16.78,3,0.3,1.19
+CA-2025-10164,2024-09-06,2024-09-07,Steven Wright,Central,Texas,Furniture,Furnishings,Anti-Fatigue Floor Mat,303.92,8,0.05,100.64
+CA-2026-10165,2024-03-16,2024-03-21,Amy Rogers,South,North Carolina,Furniture,Tables,"Adjustable Standing Desk 55""",1350.0,3,0.0,606.79
+CA-2026-10166,2024-08-20,2024-08-22,Steven Wright,East,New Jersey,Furniture,Furnishings,Acoustic Desk Divider,319.96,4,0.0,127.03
+CA-2025-10167,2026-05-30,2026-06-03,Kimberly Gonzalez,South,Georgia,Technology,Monitors,Samsung Odyssey G7,1019.98,2,0.15,266.23
+CA-2025-10168,2025-04-13,2025-04-15,Elizabeth Robinson,Central,Wisconsin,Office Supplies,Binders,"Presentation Binder 1""",20.86,4,0.05,7.02
+CA-2026-10169,2024-08-24,2024-08-27,Edward Carter,Central,Ohio,Technology,Monitors,"LG UltraGear 34""",3499.95,5,0.0,1517.32
+CA-2025-10170,2026-02-02,2026-02-03,Charles Allen,South,Georgia,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,27.59,1,0.4,1.68
+CA-2025-10171,2024-01-31,2024-02-05,Sarah Sanchez,East,Pennsylvania,Technology,Smartphones,Samsung Galaxy S24,719.99,1,0.2,204.43
+CA-2026-10172,2023-12-05,2023-12-07,Emily Johnson,East,New Jersey,Furniture,Furnishings,Anti-Fatigue Floor Mat,107.97,3,0.1,39.42
+CA-2023-10173,2025-11-29,2025-11-30,Carol Campbell,East,Connecticut,Furniture,Chairs,Ergonomic Executive Mesh Chair,599.98,2,0.0,198.34
+CA-2023-10174,2026-05-23,2026-05-27,Laura Adams,East,Massachusetts,Technology,Laptops,Lenovo ThinkPad X1,3899.97,3,0.0,1292.63
+CA-2025-10175,2024-07-23,2024-07-28,Kimberly Gonzalez,South,North Carolina,Furniture,Furnishings,Anti-Fatigue Floor Mat,39.99,1,0.0,17.08
+CA-2026-10176,2025-05-09,2025-05-11,Emily Johnson,Central,Ohio,Furniture,Tables,"Adjustable Standing Desk 55""",1080.0,3,0.2,199.37
+CA-2025-10177,2023-11-11,2023-11-12,Stephanie Martin,East,New Jersey,Office Supplies,Binders,"Heavy-Duty 3-Ring Binder 2""",17.08,2,0.05,6.45
+CA-2025-10178,2026-01-31,2026-02-03,Kevin Perez,West,Oregon,Furniture,Bookcases,Corner Bookshelf,99.99,1,0.0,40.55
+CA-2024-10179,2024-11-10,2024-11-15,Laura Collins,Central,Texas,Furniture,Bookcases,3-Tier Industrial Metal Shelf,398.97,3,0.05,116.26
+CA-2026-10180,2024-02-22,2024-02-27,Samantha Young,South,Tennessee,Office Supplies,Binders,"Heavy-Duty 3-Ring Binder 2""",26.97,3,0.0,10.68
+CA-2025-10181,2023-10-26,2023-10-31,Amanda Thomas,West,Nevada,Furniture,Tables,Side Table Wooden,269.97,3,0.0,115.41
+CA-2026-10182,2023-12-30,2024-01-01,Laura Collins,South,Florida,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,55.19,2,0.4,1.25
+CA-2023-10183,2025-03-09,2025-03-12,Jason Stewart,West,Arizona,Office Supplies,Paper,Recycled Printer Paper,14.49,1,0.0,6.85
+CA-2025-10184,2025-06-12,2025-06-17,Sarah Davis,West,Arizona,Technology,Accessories,Sony WH-1000XM5,399.99,1,0.0,142.98
+CA-2026-10185,2024-10-15,2024-10-19,Paul Hill,South,Virginia,Technology,Smartphones,Google Pixel 8,419.99,1,0.4,11.97
+CA-2024-10186,2025-06-30,2025-07-02,Emily Johnson,West,Oregon,Office Supplies,Art & Writing,Highlighter Pack,15.18,2,0.05,6.24
+CA-2025-10187,2024-02-25,2024-02-27,Jason Stewart,West,California,Furniture,Furnishings,Acoustic Desk Divider,319.96,4,0.0,141.26
+CA-2023-10188,2023-12-06,2023-12-07,Paul Hill,West,Washington,Furniture,Chairs,Gaming Chair High-Back,299.99,2,0.4,22.62
+CA-2023-10189,2024-02-04,2024-02-07,Brian Martinez,Central,Wisconsin,Furniture,Bookcases,5-Shelf Wooden Bookcase,379.98,2,0.0,122.46
+CA-2024-10190,2024-11-17,2024-11-20,Sarah Davis,East,New Jersey,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,294.34,8,0.2,56.76
+CA-2025-10191,2025-06-09,2025-06-13,Ashley White,Central,Michigan,Technology,Monitors,"Dell UltraSharp 27""",2249.95,5,0.1,606.97
+CA-2024-10192,2025-08-25,2025-08-26,Edward Carter,South,Virginia,Furniture,Tables,Conference Table 8-ft,759.99,1,0.05,301.72
+CA-2023-10193,2025-12-17,2025-12-20,Jessica Taylor,East,New York,Office Supplies,Art & Writing,Highlighter Pack,23.97,3,0.0,8.16
+CA-2024-10194,2025-08-25,2025-08-30,Jason Stewart,East,New Jersey,Technology,Accessories,Apple AirPods Pro,1749.93,7,0.0,780.66
+CA-2024-10195,2026-02-13,2026-02-14,Sarah Sanchez,South,North Carolina,Furniture,Tables,Conference Table 8-ft,2879.96,6,0.4,136.99
+CA-2025-10196,2024-10-20,2024-10-25,Carol Campbell,Central,Ohio,Office Supplies,Storage,Archive Storage Boxes 10-Pack,146.96,6,0.3,34.48
+CA-2026-10197,2025-07-23,2025-07-26,Nicole Garcia,Central,Ohio,Office Supplies,Paper,Recycled Printer Paper,72.45,5,0.0,34.59
+CA-2026-10198,2024-08-03,2024-08-05,Rachel Hall,East,New Jersey,Furniture,Tables,Conference Table 8-ft,2039.97,3,0.15,693.17
+CA-2026-10199,2026-02-22,2026-02-26,Barbara Scott,East,Massachusetts,Technology,Smartphones,OnePlus 12,479.99,1,0.4,-62.76
+CA-2023-10200,2025-02-11,2025-02-12,Ronald Parker,West,California,Office Supplies,Binders,"Zipper Binder 3""",24.99,1,0.0,11.96
+CA-2026-10201,2024-10-14,2024-10-19,Brian Phillips,South,Virginia,Technology,Laptops,HP Spectre x360,719.99,1,0.4,-42.66
+CA-2025-10202,2023-05-20,2023-05-24,Stephanie Martin,West,California,Furniture,Tables,"Adjustable Standing Desk 55""",270.0,1,0.4,17.83
+CA-2025-10203,2024-07-05,2024-07-09,Jessica Taylor,Central,Michigan,Office Supplies,Binders,"Zipper Binder 3""",24.99,1,0.0,9.38
+CA-2023-10204,2023-11-23,2023-11-27,Thomas Hernandez,South,Florida,Furniture,Chairs,Task Chair Armless,83.99,1,0.3,5.37
+CA-2025-10205,2025-03-14,2025-03-15,Kimberly Gonzalez,West,Washington,Technology,Monitors,"LG UltraGear 34""",699.99,1,0.0,259.34
+CA-2025-10206,2025-11-20,2025-11-25,Ronald Parker,West,Washington,Office Supplies,Paper,Multipurpose Copy Paper 500 Sheets,31.18,3,0.2,5.12
+CA-2025-10207,2024-03-06,2024-03-08,Helen Mitchell,South,Tennessee,Office Supplies,Art & Writing,Highlighter Pack,7.99,1,0.0,3.19
+CA-2025-10208,2023-09-05,2023-09-09,Brian Martinez,West,Oregon,Furniture,Furnishings,Anti-Fatigue Floor Mat,35.99,1,0.1,10.18
+CA-2026-10209,2025-01-17,2025-01-20,Edward Carter,South,Virginia,Technology,Monitors,"Dell UltraSharp 27""",1799.96,4,0.1,504.61
+CA-2023-10210,2023-11-02,2023-11-04,Thomas Hernandez,East,New Jersey,Office Supplies,Storage,Plastic Storage Tote 10 Gal,14.39,1,0.1,4.94
+CA-2025-10211,2023-12-08,2023-12-09,Stephanie Martin,South,Virginia,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,39.09,1,0.15,11.1
+CA-2025-10212,2025-10-14,2025-10-15,Joseph Lewis,South,Virginia,Technology,Smartphones,Samsung Galaxy S24,2699.97,3,0.0,1236.01
+CA-2025-10213,2024-07-07,2024-07-09,James Wilson,East,New Jersey,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,23.98,2,0.0,10.12
+CA-2024-10214,2025-06-25,2025-06-29,Donna Roberts,East,New Jersey,Technology,Smartphones,Google Pixel 8,559.99,1,0.2,158.79
+CA-2026-10215,2025-08-24,2025-08-27,Paul Hill,Central,Michigan,Furniture,Tables,Conference Table 8-ft,1519.98,2,0.05,565.37
+CA-2024-10216,2026-02-18,2026-02-21,Joseph Lewis,South,Tennessee,Technology,Accessories,Sony WH-1000XM5,639.98,2,0.2,177.27
+CA-2024-10217,2025-04-01,2025-04-06,Stephanie Martin,West,Arizona,Furniture,Tables,Conference Table 8-ft,3199.96,4,0.0,1116.68
+CA-2026-10218,2025-05-25,2025-05-27,Brian Phillips,Central,Illinois,Office Supplies,Binders,"Zipper Binder 3""",39.98,2,0.2,13.4
+CA-2026-10219,2025-03-25,2025-03-30,Donald Baker,South,Tennessee,Technology,Accessories,Logitech MX Master 3S,94.99,1,0.05,32.47
+CA-2025-10220,2024-03-11,2024-03-16,David Brown,South,Georgia,Office Supplies,Paper,Multipurpose Copy Paper 500 Sheets,12.34,1,0.05,4.52
+CA-2024-10221,2024-12-13,2024-12-17,Barbara Scott,East,Massachusetts,Technology,Monitors,"Dell UltraSharp 27""",999.98,2,0.0,461.42
+CA-2024-10222,2024-09-22,2024-09-25,Barbara Scott,East,Connecticut,Office Supplies,Storage,Desktop File Organizer,16.09,1,0.3,2.96
+CA-2025-10223,2023-08-14,2023-08-15,Michael Smith,Central,Texas,Furniture,Tables,Side Table Wooden,89.99,1,0.0,35.25
+CA-2025-10224,2025-03-09,2025-03-13,Brian Martinez,South,North Carolina,Technology,Monitors,"LG UltraGear 34""",664.99,1,0.05,250.64
+CA-2026-10225,2024-10-27,2024-10-29,Nicole Garcia,Central,Texas,Furniture,Chairs,Task Chair Armless,101.99,1,0.15,35.81
+CA-2023-10226,2024-06-30,2024-07-04,Kimberly Gonzalez,Central,Wisconsin,Office Supplies,Art & Writing,Highlighter Pack,6.79,1,0.15,1.55
+CA-2024-10227,2025-09-01,2025-09-04,Jason Turner,West,Washington,Office Supplies,Paper,Multipurpose Copy Paper 500 Sheets,25.98,2,0.0,10.92
+CA-2024-10228,2025-02-02,2025-02-06,Donna Roberts,East,Connecticut,Office Supplies,Art & Writing,Gel Pen Set 12-Pack,17.99,2,0.4,-0.93
+CA-2024-10229,2025-03-06,2025-03-10,Joseph Lewis,East,Pennsylvania,Office Supplies,Art & Writing,Highlighter Pack,6.79,1,0.15,1.42
+CA-2026-10230,2024-01-30,2024-02-03,Edward Carter,South,Virginia,Furniture,Furnishings,Anti-Fatigue Floor Mat,111.97,4,0.3,16.28
+CA-2023-10231,2025-03-13,2025-03-15,Joseph Lewis,West,Oregon,Technology,Accessories,Anker USB-C Hub,139.97,4,0.3,18.4
+CA-2023-10232,2025-03-18,2025-03-21,Amy Rogers,Central,Wisconsin,Technology,Monitors,Samsung Odyssey G7,479.99,1,0.2,158.16
+CA-2024-10233,2024-08-05,2024-08-06,Paul Hill,Central,Ohio,Technology,Monitors,"Dell UltraSharp 27""",1899.96,4,0.05,792.82
+CA-2025-10234,2025-10-12,2025-10-17,Brian Phillips,South,North Carolina,Furniture,Tables,"Adjustable Standing Desk 55""",2250.0,5,0.0,874.77
+CA-2025-10235,2025-04-04,2025-04-06,Anthony Walker,Central,Ohio,Furniture,Bookcases,Corner Bookshelf,899.91,9,0.0,412.43
+CA-2026-10236,2025-12-12,2025-12-15,Carol Campbell,East,Pennsylvania,Technology,Smartphones,Google Pixel 8,2799.96,5,0.2,705.89
+CA-2025-10237,2025-04-25,2025-04-29,Paul Hill,West,California,Office Supplies,Storage,Archive Storage Boxes 10-Pack,208.19,7,0.15,63.01
+CA-2026-10238,2024-09-02,2024-09-03,Amy Rogers,West,Arizona,Furniture,Bookcases,5-Shelf Wooden Bookcase,607.97,4,0.2,186.3
+CA-2026-10239,2025-09-10,2025-09-14,Megan Rodriguez,Central,Ohio,Office Supplies,Binders,"Zipper Binder 3""",106.21,5,0.15,23.36
+CA-2023-10240,2023-08-17,2023-08-21,Michael Smith,West,Washington,Office Supplies,Art & Writing,Gel Pen Set 12-Pack,119.92,10,0.2,37.12
+CA-2024-10241,2025-11-02,2025-11-05,Daniel Harris,Central,Texas,Furniture,Bookcases,3-Tier Industrial Metal Shelf,139.99,1,0.0,66.04
+CA-2025-10242,2025-06-29,2025-07-01,Linda Lopez,West,California,Technology,Smartphones,OnePlus 12,759.99,1,0.05,277.51
+CA-2026-10243,2023-04-13,2023-04-16,Amanda Thomas,South,North Carolina,Office Supplies,Paper,Multipurpose Copy Paper 500 Sheets,25.98,2,0.0,12.04
+CA-2025-10244,2025-10-31,2025-11-02,Thomas Hernandez,East,Pennsylvania,Technology,Laptops,Dell XPS 15,2849.98,2,0.05,988.51
+CA-2024-10245,2025-12-14,2025-12-19,Michelle Evans,South,North Carolina,Technology,Laptops,Dell XPS 15,4799.97,4,0.2,1342.52
+CA-2026-10246,2024-08-21,2024-08-23,Elizabeth Robinson,Central,Texas,Technology,Accessories,Logitech MX Master 3S,449.95,5,0.1,173.54
+CA-2024-10247,2025-07-14,2025-07-17,Carol Campbell,West,Washington,Office Supplies,Art & Writing,Gel Pen Set 12-Pack,14.99,1,0.0,5.93
+CA-2023-10248,2026-04-10,2026-04-13,Matthew Jackson,South,Tennessee,Office Supplies,Storage,Archive Storage Boxes 10-Pack,73.48,3,0.3,2.87
+CA-2023-10249,2023-05-18,2023-05-19,Emily Johnson,Central,Illinois,Technology,Laptops,HP Spectre x360,2159.98,3,0.4,-153.86
+CA-2026-10250,2025-06-13,2025-06-14,Brian Phillips,East,Massachusetts,Technology,Accessories,Logitech MX Master 3S,284.97,3,0.05,82.22
+CA-2024-10251,2025-02-20,2025-02-24,Kevin Perez,West,Oregon,Furniture,Furnishings,Acoustic Desk Divider,531.93,7,0.05,235.58
+CA-2023-10252,2025-12-20,2025-12-21,Barbara Scott,West,Oregon,Furniture,Tables,"Adjustable Standing Desk 55""",450.0,1,0.0,165.49
+CA-2024-10253,2025-01-22,2025-01-25,Kimberly Gonzalez,Central,Illinois,Office Supplies,Binders,"Zipper Binder 3""",89.96,4,0.1,26.26
+CA-2023-10254,2025-07-30,2025-07-31,Rachel Hall,South,Georgia,Furniture,Chairs,Gaming Chair High-Back,999.96,4,0.0,400.6
+CA-2025-10255,2023-09-09,2023-09-14,Daniel Harris,Central,Illinois,Office Supplies,Paper,Recycled Printer Paper,43.47,3,0.0,19.28
+CA-2023-10256,2023-08-13,2023-08-14,Elizabeth Robinson,West,Arizona,Office Supplies,Art & Writing,Gel Pen Set 12-Pack,14.99,1,0.0,5.87
+CA-2026-10257,2024-05-20,2024-05-22,Steven Wright,Central,Ohio,Technology,Accessories,Logitech MX Master 3S,299.97,3,0.0,135.38
+CA-2023-10258,2026-01-31,2026-02-01,Barbara Scott,Central,Ohio,Office Supplies,Paper,Recycled Printer Paper,24.63,2,0.15,8.63
+CA-2025-10259,2025-07-08,2025-07-10,Barbara Scott,Central,Wisconsin,Office Supplies,Binders,"Zipper Binder 3""",142.44,6,0.05,60.86
+CA-2026-10260,2023-06-15,2023-06-20,Charles Allen,West,Oregon,Technology,Monitors,Samsung Odyssey G7,2399.96,4,0.0,1073.19
+CA-2024-10261,2024-11-22,2024-11-23,Ashley White,Central,Texas,Technology,Smartphones,OnePlus 12,2719.97,4,0.15,821.26
+CA-2023-10262,2025-03-24,2025-03-29,Matthew Jackson,South,Florida,Furniture,Chairs,Gaming Chair High-Back,749.97,3,0.0,331.57
+CA-2025-10263,2025-10-03,2025-10-07,Timothy Edwards,Central,Ohio,Office Supplies,Storage,Plastic Storage Tote 10 Gal,15.19,1,0.05,6.53
+CA-2023-10264,2024-02-25,2024-02-27,Paul Hill,South,Georgia,Office Supplies,Paper,Recycled Printer Paper,27.53,2,0.05,10.36
+CA-2026-10265,2024-07-03,2024-07-04,Jessica Taylor,East,Massachusetts,Furniture,Chairs,Ergonomic Executive Mesh Chair,1274.96,5,0.15,459.39
+CA-2024-10266,2026-02-25,2026-03-01,Donald Baker,West,Oregon,Office Supplies,Binders,"Heavy-Duty 3-Ring Binder 2""",44.05,7,0.3,5.73
+CA-2024-10267,2023-11-25,2023-11-26,Matthew Jackson,West,California,Technology,Smartphones,Samsung Galaxy S24,719.99,1,0.2,198.39
+CA-2023-10268,2025-03-25,2025-03-28,James Wilson,West,California,Technology,Monitors,"Dell UltraSharp 27""",424.99,1,0.15,155.19
+CA-2026-10269,2023-08-29,2023-09-03,Linda Lopez,South,Virginia,Technology,Monitors,Samsung Odyssey G7,1019.98,2,0.15,354.77
+CA-2024-10270,2024-07-13,2024-07-17,Ashley White,West,Nevada,Furniture,Tables,Side Table Wooden,143.98,2,0.2,24.97
+CA-2026-10271,2023-09-21,2023-09-24,Thomas Hernandez,East,New Jersey,Technology,Smartphones,iPhone 15 Pro,7649.92,9,0.15,2279.23
+CA-2026-10272,2024-09-18,2024-09-23,Donald Baker,Central,Michigan,Office Supplies,Binders,"Heavy-Duty 3-Ring Binder 2""",17.08,2,0.05,7.65
+CA-2025-10273,2023-09-16,2023-09-20,Kimberly Gonzalez,Central,Wisconsin,Technology,Smartphones,iPhone 15 Pro,949.99,1,0.05,387.35
+CA-2023-10274,2025-07-25,2025-07-27,Helen Mitchell,South,Georgia,Technology,Smartphones,Samsung Galaxy S24,2294.97,3,0.15,496.15
+CA-2023-10275,2025-06-14,2025-06-17,Helen Mitchell,East,Connecticut,Technology,Monitors,Samsung Odyssey G7,839.99,2,0.3,208.71
+CA-2023-10276,2024-05-29,2024-05-31,Michael Smith,South,Florida,Office Supplies,Binders,"Heavy-Duty 3-Ring Binder 2""",17.98,2,0.0,5.99
+CA-2025-10277,2023-09-18,2023-09-20,Kevin Perez,East,New York,Furniture,Bookcases,5-Shelf Wooden Bookcase,303.98,2,0.2,70.76
+CA-2025-10278,2024-08-09,2024-08-11,Daniel Harris,South,Virginia,Furniture,Bookcases,5-Shelf Wooden Bookcase,455.98,4,0.4,-23.53
+CA-2025-10279,2024-05-19,2024-05-24,Stephanie Martin,South,Georgia,Furniture,Bookcases,5-Shelf Wooden Bookcase,189.99,1,0.0,62.35
+CA-2026-10280,2025-10-03,2025-10-08,David Brown,East,Connecticut,Office Supplies,Binders,"Zipper Binder 3""",52.48,3,0.3,11.81
+CA-2023-10281,2024-06-04,2024-06-07,Daniel Harris,West,Oregon,Office Supplies,Paper,Premium Heavyweight Cardstock,19.99,1,0.0,8.47
+CA-2023-10282,2025-06-25,2025-06-26,Thomas Hernandez,South,Virginia,Technology,Monitors,"LG UltraGear 34""",3569.95,6,0.15,1019.06
+CA-2023-10283,2025-09-13,2025-09-18,Carol Campbell,East,Pennsylvania,Office Supplies,Paper,Multipurpose Copy Paper 500 Sheets,22.08,2,0.15,7.48
+CA-2023-10284,2023-10-18,2023-10-20,Thomas Hernandez,East,New York,Furniture,Chairs,Gaming Chair High-Back,524.98,3,0.3,50.46
+CA-2026-10285,2026-01-13,2026-01-15,Donna Roberts,South,North Carolina,Technology,Laptops,Lenovo ThinkPad X1,1234.99,1,0.05,473.87
+CA-2025-10286,2025-05-17,2025-05-20,Elizabeth Robinson,West,California,Office Supplies,Art & Writing,Gel Pen Set 12-Pack,14.99,1,0.0,6.17
+CA-2025-10287,2025-09-09,2025-09-14,Mark Green,East,New York,Technology,Smartphones,Samsung Galaxy S24,2699.97,3,0.0,1091.41
+CA-2023-10288,2024-08-15,2024-08-19,Mark Green,South,Georgia,Technology,Monitors,"Dell UltraSharp 27""",799.98,2,0.2,220.89
+CA-2026-10289,2023-08-14,2023-08-18,Barbara Scott,Central,Illinois,Office Supplies,Paper,Multipurpose Copy Paper 500 Sheets,51.96,4,0.0,24.23
+CA-2025-10290,2025-08-27,2025-08-31,Jeffrey Morris,East,Connecticut,Technology,Monitors,Samsung Odyssey G7,719.99,2,0.4,-35.91
+CA-2026-10291,2025-03-18,2025-03-20,Mark Green,Central,Texas,Office Supplies,Paper,Recycled Printer Paper,26.08,3,0.4,-2.09
+CA-2024-10292,2024-01-06,2024-01-10,Stephanie Martin,East,Pennsylvania,Technology,Smartphones,iPhone 15 Pro,1599.98,2,0.2,495.38
+CA-2024-10293,2025-09-18,2025-09-21,Anthony Walker,West,California,Office Supplies,Art & Writing,Highlighter Pack,14.38,2,0.1,4.74
+CA-2023-10294,2025-08-11,2025-08-16,Kevin Perez,South,Florida,Office Supplies,Binders,"Heavy-Duty 3-Ring Binder 2""",26.97,3,0.0,8.95
+CA-2023-10295,2025-08-10,2025-08-15,Charles Allen,South,Georgia,Office Supplies,Art & Writing,Highlighter Pack,23.97,3,0.0,10.85
+CA-2026-10296,2024-02-09,2024-02-14,Michelle Evans,South,Florida,Office Supplies,Storage,Archive Storage Boxes 10-Pack,24.49,1,0.3,1.14
+CA-2025-10297,2023-06-01,2023-06-04,Jennifer Lee,Central,Michigan,Furniture,Chairs,Ergonomic Executive Mesh Chair,209.99,1,0.3,16.84
+CA-2025-10298,2024-07-08,2024-07-12,Donna Roberts,West,Washington,Office Supplies,Binders,"Presentation Binder 1""",13.18,4,0.4,-1.29
+CA-2023-10299,2025-02-05,2025-02-07,James Wilson,Central,Wisconsin,Office Supplies,Binders,"Zipper Binder 3""",124.95,5,0.0,56.5
+CA-2024-10300,2025-09-20,2025-09-22,David Brown,South,Florida,Office Supplies,Binders,"Presentation Binder 1""",7.69,2,0.3,1.09
+CA-2023-10301,2025-05-31,2025-06-02,Samantha Young,South,Tennessee,Office Supplies,Binders,"Presentation Binder 1""",14.0,3,0.15,4.53
+CA-2025-10302,2025-07-14,2025-07-15,Joseph Lewis,West,Arizona,Technology,Smartphones,Samsung Galaxy S24,4274.95,5,0.05,1447.04
+CA-2025-10303,2025-05-11,2025-05-16,Michael Smith,West,Arizona,Technology,Smartphones,iPhone 15 Pro,899.99,1,0.1,265.96
+CA-2025-10304,2024-11-25,2024-11-29,Charles Allen,South,Georgia,Technology,Monitors,"LG UltraGear 34""",1679.98,3,0.2,391.61
+CA-2023-10305,2025-02-02,2025-02-05,Edward Carter,Central,Ohio,Furniture,Chairs,Gaming Chair High-Back,224.99,1,0.1,69.37
+CA-2025-10306,2024-06-29,2024-07-02,Robert Thompson,East,Connecticut,Technology,Laptops,HP Spectre x360,3599.97,3,0.0,1312.53
+CA-2026-10307,2026-05-25,2026-05-28,Steven Wright,South,Virginia,Furniture,Chairs,Task Chair Armless,455.96,4,0.05,180.03
+CA-2024-10308,2025-06-03,2025-06-07,Ronald Parker,Central,Wisconsin,Office Supplies,Binders,"Zipper Binder 3""",124.95,5,0.0,54.1
+CA-2026-10309,2024-01-17,2024-01-20,Jason Stewart,East,Massachusetts,Furniture,Chairs,Ergonomic Executive Mesh Chair,539.98,2,0.1,187.63
+CA-2025-10310,2024-10-12,2024-10-17,Joseph Lewis,South,Florida,Office Supplies,Paper,Recycled Printer Paper,43.47,3,0.0,17.58
+CA-2024-10311,2025-01-25,2025-01-29,Kimberly Gonzalez,Central,Michigan,Technology,Smartphones,Samsung Galaxy S24,7649.91,10,0.15,2380.73
+CA-2026-10312,2024-02-09,2024-02-11,Amy Rogers,West,Arizona,Office Supplies,Binders,"Presentation Binder 1""",16.47,3,0.0,6.71
+CA-2024-10313,2025-07-23,2025-07-25,Helen Mitchell,East,New Jersey,Technology,Smartphones,OnePlus 12,1919.98,3,0.2,507.25
+CA-2026-10314,2024-10-22,2024-10-23,George Nelson,East,Massachusetts,Technology,Accessories,Anker USB-C Hub,49.99,1,0.0,18.98
+CA-2024-10315,2024-05-22,2024-05-25,Jennifer Lee,East,New York,Office Supplies,Storage,Plastic Storage Tote 10 Gal,15.99,1,0.0,6.91
+CA-2025-10316,2024-12-21,2024-12-26,Donna Roberts,Central,Michigan,Furniture,Tables,Conference Table 8-ft,5599.93,10,0.3,980.15
+CA-2024-10317,2024-03-09,2024-03-13,Michael Smith,East,Pennsylvania,Furniture,Tables,"Adjustable Standing Desk 55""",1080.0,4,0.4,95.33
+CA-2025-10318,2025-06-19,2025-06-20,Thomas Hernandez,Central,Wisconsin,Furniture,Chairs,Task Chair Armless,1199.9,10,0.0,450.48
+CA-2023-10319,2023-08-23,2023-08-24,Steven Wright,South,Virginia,Technology,Accessories,Sony WH-1000XM5,1519.96,4,0.05,510.02
+CA-2023-10320,2024-08-08,2024-08-09,Ronald Parker,Central,Wisconsin,Furniture,Tables,Conference Table 8-ft,3999.95,5,0.0,1592.57
+CA-2023-10321,2024-07-21,2024-07-22,Laura Adams,East,Connecticut,Technology,Accessories,Anker USB-C Hub,79.98,2,0.2,23.27
+CA-2023-10322,2025-03-01,2025-03-03,Timothy Edwards,South,Georgia,Technology,Laptops,"MacBook Pro 16""",5999.97,3,0.0,2078.17
+CA-2026-10323,2024-02-17,2024-02-18,Amy Rogers,West,California,Office Supplies,Binders,"Presentation Binder 1""",44.47,9,0.1,16.69
+CA-2023-10324,2023-12-04,2023-12-06,David Brown,Central,Ohio,Furniture,Bookcases,3-Tier Industrial Metal Shelf,559.96,4,0.0,192.51
+CA-2023-10325,2023-04-15,2023-04-17,Ronald Parker,East,Massachusetts,Office Supplies,Art & Writing,Highlighter Pack,15.98,2,0.0,6.72
+CA-2025-10326,2024-04-01,2024-04-05,Patricia King,South,Georgia,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,35.97,3,0.0,16.61
+CA-2023-10327,2026-03-27,2026-03-29,Christopher Anderson,South,Tennessee,Office Supplies,Art & Writing,Gel Pen Set 12-Pack,38.22,3,0.15,10.44
+CA-2024-10328,2025-01-12,2025-01-16,Amanda Thomas,South,Virginia,Technology,Laptops,Lenovo ThinkPad X1,3899.97,3,0.0,1432.34
+CA-2024-10329,2026-03-18,2026-03-21,Kimberly Gonzalez,West,Arizona,Furniture,Tables,Conference Table 8-ft,1279.98,2,0.2,409.94
+CA-2023-10330,2023-04-26,2023-04-28,Donald Baker,South,Virginia,Technology,Laptops,HP Spectre x360,2039.98,2,0.15,419.46
+CA-2023-10331,2025-01-30,2025-02-04,Carol Campbell,South,Virginia,Technology,Laptops,HP Spectre x360,1679.99,2,0.3,398.2
+CA-2026-10332,2024-12-14,2024-12-15,Laura Adams,West,California,Office Supplies,Art & Writing,Gel Pen Set 12-Pack,44.97,3,0.0,15.64
+CA-2025-10333,2025-11-10,2025-11-15,Nicole Garcia,South,Georgia,Office Supplies,Paper,Multipurpose Copy Paper 500 Sheets,55.21,5,0.15,15.61
+CA-2026-10334,2025-06-22,2025-06-25,Laura Collins,South,Florida,Technology,Smartphones,iPhone 15 Pro,1799.98,2,0.1,584.73
+CA-2025-10335,2025-06-13,2025-06-14,Daniel Harris,South,North Carolina,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,87.38,2,0.05,36.79
+CA-2026-10336,2024-05-10,2024-05-12,Laura Collins,Central,Texas,Office Supplies,Paper,Recycled Printer Paper,72.45,5,0.0,25.83
+CA-2026-10337,2024-12-23,2024-12-28,Donald Baker,East,New Jersey,Technology,Laptops,HP Spectre x360,4199.96,5,0.3,192.6
+CA-2024-10338,2025-06-06,2025-06-08,Jason Stewart,East,New York,Office Supplies,Storage,Archive Storage Boxes 10-Pack,167.95,6,0.2,25.88
+CA-2024-10339,2024-07-12,2024-07-15,Joseph Lewis,South,North Carolina,Technology,Monitors,Samsung Odyssey G7,1439.98,4,0.4,77.22
+CA-2025-10340,2025-06-19,2025-06-24,Brian Phillips,East,Pennsylvania,Technology,Accessories,Apple AirPods Pro,1499.94,6,0.0,484.46
+CA-2024-10341,2025-01-27,2025-01-30,Laura Collins,West,Oregon,Furniture,Furnishings,Acoustic Desk Divider,191.98,3,0.2,41.31
+CA-2025-10342,2025-10-28,2025-11-01,Emily Johnson,West,California,Office Supplies,Binders,"Heavy-Duty 3-Ring Binder 2""",25.62,3,0.05,10.44
+CA-2024-10343,2026-04-01,2026-04-04,Ashley White,West,Oregon,Technology,Laptops,Lenovo ThinkPad X1,6499.95,5,0.0,2479.23
+CA-2024-10344,2025-07-10,2025-07-15,Thomas Hernandez,East,Connecticut,Furniture,Bookcases,Corner Bookshelf,239.98,3,0.2,65.39
+CA-2025-10345,2026-02-20,2026-02-21,Emily Johnson,Central,Illinois,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,234.55,6,0.15,57.72
+CA-2024-10346,2025-08-03,2025-08-05,Joseph Lewis,South,North Carolina,Furniture,Chairs,Ergonomic Executive Mesh Chair,1439.95,8,0.4,146.16
+CA-2023-10347,2024-11-29,2024-12-04,William Clark,East,Pennsylvania,Furniture,Bookcases,5-Shelf Wooden Bookcase,379.98,2,0.0,179.96
+CA-2025-10348,2025-04-04,2025-04-09,Ronald Parker,Central,Michigan,Furniture,Bookcases,5-Shelf Wooden Bookcase,645.97,4,0.15,186.91
+CA-2024-10349,2025-02-09,2025-02-14,Daniel Harris,South,Tennessee,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,87.38,2,0.05,29.79
+CA-2025-10350,2024-10-03,2024-10-05,Jeffrey Morris,South,Tennessee,Furniture,Chairs,Ergonomic Executive Mesh Chair,629.98,3,0.3,127.39
+CA-2024-10351,2026-02-08,2026-02-11,Thomas Hernandez,West,Arizona,Office Supplies,Storage,Plastic Storage Tote 10 Gal,81.55,6,0.15,23.77
+CA-2026-10352,2025-01-14,2025-01-17,Carol Campbell,East,Massachusetts,Furniture,Chairs,Ergonomic Executive Mesh Chair,179.99,1,0.4,-1.6
+CA-2023-10353,2024-05-05,2024-05-07,Michelle Evans,South,Florida,Technology,Monitors,Samsung Odyssey G7,2999.95,5,0.0,1081.47
+CA-2024-10354,2023-06-14,2023-06-17,David Brown,West,California,Technology,Smartphones,Google Pixel 8,1994.97,3,0.05,596.9
+CA-2026-10355,2024-10-27,2024-10-31,Linda Lopez,Central,Texas,Office Supplies,Paper,Recycled Printer Paper,14.49,1,0.0,5.2
+CA-2023-10356,2025-06-12,2025-06-13,Charles Allen,West,Oregon,Furniture,Bookcases,Corner Bookshelf,69.99,1,0.3,11.89
+CA-2023-10357,2025-01-04,2025-01-09,Brian Martinez,East,New Jersey,Furniture,Bookcases,Corner Bookshelf,84.99,1,0.15,17.68
+CA-2023-10358,2025-03-05,2025-03-10,Ashley White,West,California,Technology,Monitors,Samsung Odyssey G7,1799.97,3,0.0,776.24
+CA-2025-10359,2024-05-06,2024-05-11,Ashley White,East,Pennsylvania,Technology,Accessories,Anker USB-C Hub,49.99,1,0.0,17.19
+CA-2026-10360,2025-05-07,2025-05-08,Joseph Lewis,West,Oregon,Technology,Smartphones,OnePlus 12,4759.94,7,0.15,1733.1
+CA-2024-10361,2023-12-04,2023-12-09,James Wilson,East,Massachusetts,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,32.37,3,0.1,9.67
+CA-2024-10362,2025-03-13,2025-03-16,Anthony Walker,South,North Carolina,Technology,Accessories,Anker USB-C Hub,159.97,4,0.2,47.14
+CA-2025-10363,2024-01-27,2024-01-30,Mark Green,South,Virginia,Office Supplies,Storage,Desktop File Organizer,68.97,3,0.0,25.98
+CA-2023-10364,2025-09-25,2025-09-27,George Nelson,East,Massachusetts,Furniture,Chairs,Task Chair Armless,119.99,1,0.0,41.28
+CA-2023-10365,2025-08-31,2025-09-05,Patricia King,East,New York,Furniture,Bookcases,Corner Bookshelf,359.96,6,0.4,2.67
+CA-2024-10366,2024-10-07,2024-10-09,Amy Rogers,Central,Illinois,Office Supplies,Paper,Premium Heavyweight Cardstock,39.98,2,0.0,14.95
+CA-2024-10367,2025-07-20,2025-07-22,Paul Hill,East,Pennsylvania,Furniture,Tables,Side Table Wooden,305.97,4,0.15,116.46
+CA-2026-10368,2024-05-28,2024-05-31,Samantha Young,East,New York,Furniture,Tables,Side Table Wooden,458.95,6,0.15,144.65
+CA-2026-10369,2025-11-01,2025-11-02,Carol Campbell,Central,Texas,Furniture,Bookcases,Corner Bookshelf,119.99,2,0.4,-2.24
+CA-2026-10370,2025-05-13,2025-05-16,Kevin Perez,West,Nevada,Office Supplies,Art & Writing,Gel Pen Set 12-Pack,38.22,3,0.15,8.96
+CA-2025-10371,2025-01-14,2025-01-18,Donna Roberts,West,Nevada,Technology,Monitors,"Dell UltraSharp 27""",299.99,1,0.4,-11.48
+CA-2024-10372,2024-02-18,2024-02-20,Samantha Young,West,Washington,Office Supplies,Storage,Archive Storage Boxes 10-Pack,24.49,1,0.3,3.61
+CA-2024-10373,2025-05-08,2025-05-12,Michael Smith,East,New York,Technology,Smartphones,Samsung Galaxy S24,2699.97,3,0.0,911.17
+CA-2024-10374,2023-09-10,2023-09-13,Stephanie Martin,South,Tennessee,Furniture,Chairs,Task Chair Armless,431.96,4,0.1,109.64
+CA-2024-10375,2024-12-16,2024-12-20,Mark Green,East,Pennsylvania,Office Supplies,Binders,"Zipper Binder 3""",124.95,5,0.0,47.52
+CA-2025-10376,2024-03-13,2024-03-16,Barbara Scott,West,Washington,Office Supplies,Art & Writing,Gel Pen Set 12-Pack,14.24,1,0.05,5.19
+CA-2026-10377,2025-09-11,2025-09-16,Christopher Anderson,East,New Jersey,Furniture,Chairs,Task Chair Armless,359.97,3,0.0,167.42
+CA-2024-10378,2025-11-23,2025-11-28,Emily Johnson,South,Tennessee,Office Supplies,Storage,Plastic Storage Tote 10 Gal,38.38,3,0.2,11.67
+CA-2026-10379,2025-08-13,2025-08-17,Charles Allen,West,Arizona,Technology,Accessories,Sony WH-1000XM5,1599.96,4,0.0,695.47
+CA-2026-10380,2024-06-26,2024-06-27,Laura Collins,West,Nevada,Furniture,Chairs,Task Chair Armless,113.99,1,0.05,38.39
+CA-2025-10381,2024-11-13,2024-11-14,Ashley White,South,Tennessee,Office Supplies,Storage,Archive Storage Boxes 10-Pack,59.48,2,0.15,16.24
+CA-2026-10382,2025-07-19,2025-07-23,Edward Carter,South,North Carolina,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,91.72,9,0.15,22.24
+CA-2026-10383,2025-07-05,2025-07-06,Sarah Sanchez,East,New Jersey,Furniture,Tables,"Adjustable Standing Desk 55""",360.0,1,0.2,69.4
+CA-2023-10384,2024-03-04,2024-03-05,Jessica Taylor,East,New Jersey,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,43.69,1,0.05,17.05
+CA-2023-10385,2025-06-28,2025-07-02,Jason Turner,Central,Wisconsin,Technology,Smartphones,OnePlus 12,1519.98,2,0.05,470.25
+CA-2025-10386,2024-04-16,2024-04-21,Donald Baker,East,Connecticut,Technology,Laptops,Lenovo ThinkPad X1,1299.99,1,0.0,421.06
+CA-2023-10387,2026-05-21,2026-05-25,Charles Allen,South,Virginia,Furniture,Tables,Side Table Wooden,89.99,1,0.0,29.96
+CA-2025-10388,2025-06-29,2025-07-04,Kevin Perez,Central,Ohio,Office Supplies,Binders,"Zipper Binder 3""",139.94,8,0.3,6.24
+CA-2023-10389,2024-06-29,2024-07-03,Donald Baker,West,Nevada,Technology,Accessories,Apple AirPods Pro,1049.96,7,0.4,-127.87
+CA-2025-10390,2025-06-08,2025-06-12,Helen Mitchell,South,North Carolina,Office Supplies,Art & Writing,Highlighter Pack,15.98,2,0.0,6.44
+CA-2025-10391,2023-10-05,2023-10-07,Michelle Evans,East,Massachusetts,Office Supplies,Storage,Archive Storage Boxes 10-Pack,94.47,3,0.1,35.72
+CA-2023-10392,2024-11-05,2024-11-08,James Wilson,East,New Jersey,Office Supplies,Storage,Plastic Storage Tote 10 Gal,86.35,6,0.1,33.66
+CA-2024-10393,2025-01-24,2025-01-26,Elizabeth Robinson,East,Massachusetts,Technology,Smartphones,Samsung Galaxy S24,3824.96,5,0.15,1372.67
+CA-2023-10394,2024-01-05,2024-01-06,Michelle Evans,South,Tennessee,Technology,Laptops,HP Spectre x360,2039.98,2,0.15,602.93
+CA-2025-10395,2025-01-17,2025-01-22,Megan Rodriguez,South,North Carolina,Furniture,Tables,"Adjustable Standing Desk 55""",1080.0,3,0.2,274.68
+CA-2023-10396,2025-01-26,2025-01-30,Michelle Evans,East,New Jersey,Technology,Monitors,"LG UltraGear 34""",2099.97,3,0.0,781.49
+CA-2026-10397,2025-03-24,2025-03-27,Samantha Young,Central,Illinois,Furniture,Bookcases,5-Shelf Wooden Bookcase,322.98,2,0.15,103.14
+CA-2026-10398,2024-11-26,2024-11-30,Timothy Edwards,Central,Ohio,Office Supplies,Storage,Desktop File Organizer,22.99,1,0.0,7.43
+CA-2024-10399,2025-09-01,2025-09-04,Elizabeth Robinson,South,Virginia,Technology,Smartphones,Samsung Galaxy S24,1799.98,2,0.0,813.13
+CA-2026-10400,2024-01-27,2024-02-01,George Nelson,Central,Michigan,Office Supplies,Storage,Archive Storage Boxes 10-Pack,174.95,5,0.0,72.82
+CA-2024-10401,2023-09-19,2023-09-22,Mark Green,West,Arizona,Furniture,Bookcases,3-Tier Industrial Metal Shelf,167.99,2,0.4,-2.57
+CA-2025-10402,2024-09-18,2024-09-22,Amanda Thomas,Central,Wisconsin,Technology,Smartphones,Google Pixel 8,839.99,2,0.4,2.8
+CA-2026-10403,2025-11-09,2025-11-13,Jason Turner,Central,Michigan,Furniture,Tables,"Adjustable Standing Desk 55""",1147.5,3,0.15,354.39
+CA-2026-10404,2025-10-01,2025-10-02,Jessica Taylor,East,Massachusetts,Technology,Accessories,Apple AirPods Pro,674.97,3,0.1,212.34
+CA-2026-10405,2024-07-10,2024-07-14,Amy Rogers,Central,Wisconsin,Furniture,Furnishings,Anti-Fatigue Floor Mat,39.99,1,0.0,18.4
+CA-2024-10406,2025-05-18,2025-05-19,Nicole Garcia,East,New Jersey,Technology,Laptops,"MacBook Pro 16""",9799.95,7,0.3,1291.5
+CA-2023-10407,2025-07-30,2025-08-04,Jeffrey Morris,West,California,Office Supplies,Binders,"Heavy-Duty 3-Ring Binder 2""",21.58,3,0.2,6.22
+CA-2024-10408,2025-07-06,2025-07-10,Brian Phillips,East,Pennsylvania,Furniture,Tables,"Adjustable Standing Desk 55""",382.5,1,0.15,86.55
+CA-2025-10409,2025-10-15,2025-10-19,George Nelson,Central,Wisconsin,Office Supplies,Binders,"Zipper Binder 3""",52.48,3,0.3,5.93
+CA-2026-10410,2025-02-11,2025-02-16,Jennifer Lee,Central,Michigan,Furniture,Tables,"Adjustable Standing Desk 55""",765.0,2,0.15,237.64
+CA-2024-10411,2024-08-11,2024-08-12,Kimberly Gonzalez,East,Massachusetts,Office Supplies,Art & Writing,Highlighter Pack,5.59,1,0.3,0.22
+CA-2026-10412,2024-08-07,2024-08-11,Joseph Lewis,East,New York,Furniture,Bookcases,5-Shelf Wooden Bookcase,227.99,2,0.4,3.83
+CA-2024-10413,2024-03-07,2024-03-11,Thomas Hernandez,East,Massachusetts,Technology,Monitors,Samsung Odyssey G7,539.99,1,0.1,200.67
+CA-2025-10414,2024-11-17,2024-11-18,Stephanie Martin,East,Massachusetts,Technology,Monitors,Samsung Odyssey G7,839.99,2,0.3,179.95
+CA-2023-10415,2024-02-21,2024-02-26,Michael Smith,East,New York,Office Supplies,Storage,Plastic Storage Tote 10 Gal,63.96,4,0.0,28.32
+CA-2024-10416,2023-05-10,2023-05-12,Rachel Hall,South,Georgia,Office Supplies,Storage,Desktop File Organizer,68.97,3,0.0,29.46
+CA-2024-10417,2023-09-10,2023-09-14,James Wilson,South,North Carolina,Technology,Accessories,Sony WH-1000XM5,1999.95,5,0.0,648.11
+CA-2024-10418,2024-10-24,2024-10-28,Elizabeth Robinson,West,Washington,Office Supplies,Paper,Recycled Printer Paper,41.3,3,0.05,15.41
+CA-2025-10419,2026-01-04,2026-01-06,Brian Phillips,West,Nevada,Furniture,Chairs,Gaming Chair High-Back,449.98,2,0.1,174.09
+CA-2023-10420,2025-10-14,2025-10-16,Amanda Thomas,East,New Jersey,Office Supplies,Paper,Multipurpose Copy Paper 500 Sheets,51.96,4,0.0,21.65
+CA-2024-10421,2023-04-11,2023-04-12,Kevin Perez,South,Tennessee,Technology,Accessories,Logitech MX Master 3S,69.99,1,0.3,16.53
+CA-2025-10422,2025-12-28,2025-12-29,Sarah Davis,Central,Illinois,Furniture,Chairs,Ergonomic Executive Mesh Chair,509.98,2,0.15,103.75
+CA-2025-10423,2025-08-25,2025-08-29,Jason Stewart,East,New York,Furniture,Furnishings,Anti-Fatigue Floor Mat,143.96,4,0.1,37.78
+CA-2026-10424,2025-06-16,2025-06-21,Joseph Lewis,South,North Carolina,Furniture,Tables,Side Table Wooden,125.99,2,0.3,24.47
+CA-2024-10425,2023-10-08,2023-10-10,Paul Hill,Central,Ohio,Furniture,Bookcases,3-Tier Industrial Metal Shelf,83.99,1,0.4,2.71
+CA-2024-10426,2025-11-02,2025-11-07,Samantha Young,East,Massachusetts,Furniture,Chairs,Task Chair Armless,767.94,8,0.2,239.62
+CA-2026-10427,2025-07-26,2025-07-28,Jason Turner,Central,Ohio,Office Supplies,Storage,Plastic Storage Tote 10 Gal,15.99,1,0.0,7.56
+CA-2024-10428,2024-03-27,2024-03-28,Robert Thompson,West,Arizona,Technology,Laptops,"MacBook Pro 16""",4799.98,3,0.2,1048.39
+CA-2025-10429,2023-08-25,2023-08-27,Donna Roberts,West,California,Technology,Monitors,"Dell UltraSharp 27""",999.98,2,0.0,422.24
+CA-2026-10430,2025-09-08,2025-09-09,Jason Turner,Central,Wisconsin,Technology,Laptops,Lenovo ThinkPad X1,1234.99,1,0.05,359.19
+CA-2023-10431,2023-12-06,2023-12-08,George Nelson,South,North Carolina,Technology,Smartphones,Samsung Galaxy S24,1619.98,3,0.4,36.64
+CA-2023-10432,2025-07-27,2025-08-01,Charles Allen,South,Virginia,Technology,Smartphones,Samsung Galaxy S24,1619.98,3,0.4,70.19
+CA-2024-10433,2025-02-19,2025-02-24,Paul Hill,Central,Ohio,Furniture,Bookcases,3-Tier Industrial Metal Shelf,223.98,2,0.2,41.38
+CA-2025-10434,2025-04-12,2025-04-17,George Nelson,East,New Jersey,Furniture,Bookcases,3-Tier Industrial Metal Shelf,783.94,8,0.3,29.59
+CA-2023-10435,2025-06-29,2025-07-02,Donna Roberts,West,Nevada,Technology,Accessories,Logitech MX Master 3S,189.98,2,0.05,79.12
+CA-2025-10436,2023-06-07,2023-06-10,Edward Carter,East,New York,Technology,Monitors,"LG UltraGear 34""",629.99,1,0.1,224.88
+CA-2024-10437,2024-05-30,2024-06-02,Jessica Taylor,South,Tennessee,Technology,Laptops,Lenovo ThinkPad X1,5199.96,4,0.0,2089.74
+CA-2023-10438,2025-04-03,2025-04-06,David Brown,South,Florida,Technology,Accessories,Apple AirPods Pro,999.96,5,0.2,266.68
+CA-2023-10439,2025-10-20,2025-10-22,Sarah Sanchez,West,Arizona,Technology,Accessories,Logitech MX Master 3S,199.98,2,0.0,85.53
+CA-2024-10440,2024-02-22,2024-02-26,Paul Hill,West,Washington,Office Supplies,Storage,Desktop File Organizer,19.54,1,0.15,7.28
+CA-2023-10441,2025-03-01,2025-03-04,Jessica Taylor,South,Tennessee,Office Supplies,Binders,"Heavy-Duty 3-Ring Binder 2""",17.08,2,0.05,6.33
+CA-2024-10442,2025-03-10,2025-03-15,Elizabeth Robinson,East,New York,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,35.97,3,0.0,16.62
+CA-2026-10443,2024-11-25,2024-11-28,Robert Thompson,Central,Ohio,Furniture,Chairs,Gaming Chair High-Back,212.49,1,0.15,57.85
+CA-2026-10444,2025-04-22,2025-04-26,David Brown,East,Pennsylvania,Furniture,Bookcases,5-Shelf Wooden Bookcase,759.96,4,0.0,351.12
+CA-2023-10445,2024-06-10,2024-06-15,Ashley White,Central,Texas,Office Supplies,Paper,Premium Heavyweight Cardstock,39.98,2,0.0,17.07
+CA-2024-10446,2024-04-26,2024-05-01,Jeffrey Morris,Central,Wisconsin,Office Supplies,Binders,"Zipper Binder 3""",74.97,3,0.0,31.47
+CA-2023-10447,2024-06-23,2024-06-24,Joseph Lewis,East,Connecticut,Office Supplies,Paper,Premium Heavyweight Cardstock,59.97,3,0.0,28.15
+CA-2025-10448,2025-05-19,2025-05-22,Christopher Anderson,West,Oregon,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,220.75,8,0.4,-28.06
+CA-2023-10449,2025-11-25,2025-11-29,Donna Roberts,West,Washington,Technology,Monitors,Samsung Odyssey G7,3599.94,6,0.0,1705.07
+CA-2025-10450,2024-09-08,2024-09-12,Sarah Sanchez,East,New York,Office Supplies,Storage,Desktop File Organizer,65.52,3,0.05,18.66
+CA-2025-10451,2025-08-30,2025-09-02,Thomas Hernandez,West,Nevada,Office Supplies,Binders,"Heavy-Duty 3-Ring Binder 2""",14.38,2,0.2,3.14
+CA-2023-10452,2025-07-01,2025-07-06,Michelle Evans,East,New Jersey,Technology,Smartphones,OnePlus 12,5439.93,8,0.15,1652.03
+CA-2024-10453,2024-04-30,2024-05-02,Kevin Perez,East,Pennsylvania,Office Supplies,Binders,"Presentation Binder 1""",54.9,10,0.0,20.59
+CA-2024-10454,2024-08-24,2024-08-29,George Nelson,West,Washington,Office Supplies,Binders,"Zipper Binder 3""",21.24,1,0.15,4.73
+CA-2026-10455,2026-02-12,2026-02-15,Paul Hill,Central,Illinois,Technology,Laptops,Dell XPS 15,1349.99,1,0.1,424.65
+CA-2024-10456,2025-04-04,2025-04-06,Michelle Evans,West,Oregon,Technology,Monitors,"Dell UltraSharp 27""",1049.98,3,0.3,99.11
+CA-2025-10457,2024-04-02,2024-04-06,Laura Adams,South,North Carolina,Technology,Smartphones,Samsung Galaxy S24,899.99,1,0.0,298.73
+CA-2026-10458,2024-05-18,2024-05-20,Jeffrey Morris,East,New York,Technology,Monitors,Samsung Odyssey G7,1019.98,2,0.15,229.57
+CA-2024-10459,2024-11-29,2024-11-30,Donna Roberts,South,Georgia,Office Supplies,Paper,Recycled Printer Paper,10.14,1,0.3,0.69
+CA-2023-10460,2025-10-28,2025-10-30,Kimberly Gonzalez,South,Florida,Furniture,Furnishings,Acoustic Desk Divider,319.96,4,0.0,143.86
+CA-2026-10461,2024-11-04,2024-11-07,Amy Rogers,Central,Michigan,Technology,Monitors,"LG UltraGear 34""",2099.97,3,0.0,776.16
+CA-2024-10462,2024-12-27,2024-12-31,Jessica Taylor,West,Washington,Furniture,Tables,Conference Table 8-ft,1119.99,2,0.3,281.62
+CA-2026-10463,2025-03-31,2025-04-02,Barbara Scott,West,Oregon,Office Supplies,Binders,"Zipper Binder 3""",99.96,4,0.0,46.15
+CA-2026-10464,2025-04-30,2025-05-01,Kimberly Gonzalez,South,Tennessee,Furniture,Tables,Conference Table 8-ft,2399.97,3,0.0,856.98
+CA-2025-10465,2025-03-13,2025-03-15,Daniel Harris,East,Pennsylvania,Furniture,Chairs,Gaming Chair High-Back,349.99,2,0.3,66.9
+CA-2024-10466,2024-01-02,2024-01-04,Robert Thompson,West,Nevada,Office Supplies,Paper,Premium Heavyweight Cardstock,27.99,2,0.3,3.72
+CA-2023-10467,2025-04-12,2025-04-16,Elizabeth Robinson,East,Connecticut,Furniture,Furnishings,Anti-Fatigue Floor Mat,79.98,2,0.0,30.7
+CA-2023-10468,2024-06-12,2024-06-17,Megan Rodriguez,East,New York,Technology,Smartphones,iPhone 15 Pro,2999.97,3,0.0,1370.21
+CA-2023-10469,2025-05-21,2025-05-26,Jennifer Lee,Central,Texas,Technology,Laptops,HP Spectre x360,11999.9,10,0.0,4469.55
+CA-2024-10470,2026-02-21,2026-02-26,Samantha Young,West,California,Office Supplies,Storage,Desktop File Organizer,137.94,6,0.0,49.47
+CA-2023-10471,2024-07-31,2024-08-02,Amanda Thomas,Central,Ohio,Furniture,Furnishings,Acoustic Desk Divider,75.99,1,0.05,26.56
+CA-2023-10472,2025-03-17,2025-03-22,Jessica Taylor,South,Tennessee,Furniture,Bookcases,3-Tier Industrial Metal Shelf,356.97,3,0.15,121.14
+CA-2025-10473,2025-12-23,2025-12-28,Helen Mitchell,South,Tennessee,Furniture,Furnishings,Anti-Fatigue Floor Mat,189.95,5,0.05,63.31
+CA-2024-10474,2023-02-12,2023-02-13,Barbara Scott,West,Washington,Furniture,Furnishings,Anti-Fatigue Floor Mat,33.99,1,0.15,9.61
+CA-2024-10475,2023-04-24,2023-04-26,Timothy Edwards,Central,Ohio,Technology,Accessories,Apple AirPods Pro,637.47,3,0.15,155.45
+CA-2023-10476,2025-06-03,2025-06-06,Patricia King,West,Washington,Technology,Accessories,Apple AirPods Pro,1049.96,6,0.3,50.12
+CA-2023-10477,2025-05-07,2025-05-11,Ashley White,South,Tennessee,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,71.94,6,0.0,24.92
+CA-2025-10478,2025-03-13,2025-03-16,Edward Carter,West,Washington,Furniture,Bookcases,3-Tier Industrial Metal Shelf,139.99,1,0.0,60.91
+CA-2023-10479,2024-09-13,2024-09-17,Brian Phillips,East,Connecticut,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,124.17,3,0.1,36.86
+CA-2025-10480,2025-06-18,2025-06-21,Steven Wright,West,Arizona,Technology,Accessories,Sony WH-1000XM5,1799.96,5,0.1,690.82
+CA-2025-10481,2024-03-22,2024-03-25,David Brown,East,New York,Office Supplies,Paper,Premium Heavyweight Cardstock,119.94,6,0.0,53.92
+CA-2026-10482,2025-07-03,2025-07-08,Jennifer Lee,Central,Illinois,Technology,Smartphones,Samsung Galaxy S24,2519.97,4,0.3,424.74
+CA-2023-10483,2023-03-10,2023-03-11,Michelle Evans,West,Oregon,Office Supplies,Paper,Multipurpose Copy Paper 500 Sheets,35.07,3,0.1,14.67
+CA-2025-10484,2025-05-03,2025-05-05,Anthony Walker,East,Pennsylvania,Office Supplies,Storage,Archive Storage Boxes 10-Pack,48.99,2,0.3,5.09
+CA-2025-10485,2024-02-17,2024-02-20,Amanda Thomas,West,Nevada,Furniture,Chairs,Ergonomic Executive Mesh Chair,539.98,3,0.4,26.14
+CA-2024-10486,2026-01-14,2026-01-17,Helen Mitchell,East,Pennsylvania,Technology,Accessories,Apple AirPods Pro,749.97,3,0.0,344.38
+CA-2026-10487,2025-11-24,2025-11-25,Christopher Anderson,South,Florida,Technology,Monitors,"LG UltraGear 34""",489.99,1,0.3,56.97
+CA-2025-10488,2024-09-07,2024-09-09,Laura Collins,West,Arizona,Furniture,Tables,"Adjustable Standing Desk 55""",1575.0,5,0.3,369.99
+CA-2025-10489,2025-06-02,2025-06-06,Mark Green,East,Pennsylvania,Technology,Accessories,Apple AirPods Pro,424.98,2,0.15,101.89
+CA-2025-10490,2024-12-19,2024-12-20,James Wilson,South,Florida,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,53.96,5,0.1,15.42
+CA-2024-10491,2025-01-30,2025-02-03,Laura Collins,West,Oregon,Furniture,Chairs,Gaming Chair High-Back,599.98,3,0.2,139.13
+CA-2024-10492,2025-04-21,2025-04-26,Daniel Harris,South,Virginia,Technology,Accessories,Anker USB-C Hub,199.96,5,0.2,38.62
+CA-2026-10493,2025-03-15,2025-03-18,George Nelson,East,Pennsylvania,Furniture,Chairs,Task Chair Armless,587.95,7,0.3,135.82
+CA-2026-10494,2024-08-31,2024-09-01,Paul Hill,East,Massachusetts,Office Supplies,Paper,Recycled Printer Paper,11.59,1,0.2,3.3
+CA-2023-10495,2023-11-18,2023-11-20,Kevin Perez,West,Washington,Furniture,Tables,Conference Table 8-ft,1919.98,3,0.2,435.62
+CA-2026-10496,2024-04-17,2024-04-20,Jennifer Lee,Central,Michigan,Furniture,Bookcases,5-Shelf Wooden Bookcase,341.98,3,0.4,8.73
+CA-2024-10497,2025-10-04,2025-10-05,Samantha Young,West,California,Furniture,Bookcases,5-Shelf Wooden Bookcase,949.95,5,0.0,420.22
+CA-2026-10498,2025-04-24,2025-04-28,Patricia King,South,Virginia,Furniture,Tables,Side Table Wooden,89.99,1,0.0,40.49
+CA-2026-10499,2025-09-26,2025-09-29,Steven Wright,East,Massachusetts,Furniture,Tables,"Adjustable Standing Desk 55""",450.0,1,0.0,205.63
+CA-2026-10500,2025-05-15,2025-05-17,Jessica Taylor,East,New Jersey,Office Supplies,Art & Writing,Highlighter Pack,4.79,1,0.4,0.09
+CA-2026-10501,2024-10-24,2024-10-26,Stephanie Martin,South,Tennessee,Technology,Monitors,Samsung Odyssey G7,359.99,1,0.4,22.15
+CA-2025-10502,2023-07-15,2023-07-16,Helen Mitchell,South,Georgia,Technology,Monitors,Samsung Odyssey G7,359.99,1,0.4,-46.43
+CA-2025-10503,2024-12-28,2024-12-29,Kimberly Gonzalez,West,Washington,Office Supplies,Paper,Recycled Printer Paper,39.12,3,0.1,12.25
+CA-2025-10504,2025-02-19,2025-02-20,Mark Green,South,Tennessee,Office Supplies,Storage,Desktop File Organizer,41.38,2,0.1,15.34
+CA-2023-10505,2025-06-09,2025-06-14,Sarah Sanchez,Central,Wisconsin,Office Supplies,Paper,Recycled Printer Paper,28.98,2,0.0,11.25
+CA-2025-10506,2025-08-28,2025-09-02,Michael Smith,Central,Michigan,Technology,Smartphones,iPhone 15 Pro,4499.95,5,0.1,1698.34
+CA-2025-10507,2024-07-14,2024-07-17,Emily Johnson,West,Nevada,Technology,Smartphones,OnePlus 12,1599.98,2,0.0,701.11
+CA-2024-10508,2025-01-13,2025-01-18,David Brown,Central,Texas,Technology,Smartphones,OnePlus 12,2559.97,4,0.2,501.57
+CA-2024-10509,2025-05-17,2025-05-19,Nicole Garcia,Central,Texas,Furniture,Bookcases,5-Shelf Wooden Bookcase,132.99,1,0.3,22.07
+CA-2025-10510,2025-01-06,2025-01-11,Brian Martinez,South,Virginia,Office Supplies,Storage,Plastic Storage Tote 10 Gal,38.38,3,0.2,13.34
+CA-2026-10511,2024-10-21,2024-10-24,Kimberly Gonzalez,West,California,Furniture,Bookcases,3-Tier Industrial Metal Shelf,377.97,3,0.1,137.08
+CA-2025-10512,2025-08-23,2025-08-26,Carol Campbell,South,Virginia,Furniture,Tables,Side Table Wooden,256.47,3,0.05,93.63
+CA-2024-10513,2024-08-20,2024-08-21,Michelle Evans,West,California,Technology,Monitors,"Dell UltraSharp 27""",1049.98,3,0.3,185.63
+CA-2025-10514,2024-06-19,2024-06-20,Michael Smith,West,California,Furniture,Tables,Side Table Wooden,269.97,3,0.0,125.85
+CA-2024-10515,2024-10-16,2024-10-21,Stephanie Martin,West,Washington,Office Supplies,Storage,Desktop File Organizer,68.97,3,0.0,26.06
+CA-2025-10516,2025-07-29,2025-08-01,William Clark,East,New York,Office Supplies,Paper,Premium Heavyweight Cardstock,39.98,2,0.0,17.54
+CA-2025-10517,2024-03-26,2024-03-27,Laura Adams,East,Connecticut,Office Supplies,Binders,"Zipper Binder 3""",49.98,2,0.0,19.67
+CA-2026-10518,2024-05-13,2024-05-14,Paul Hill,Central,Texas,Technology,Laptops,"MacBook Pro 16""",5399.97,3,0.1,1533.84
+CA-2023-10519,2025-11-17,2025-11-19,Carol Campbell,West,California,Furniture,Furnishings,Anti-Fatigue Floor Mat,33.99,1,0.15,7.41
+CA-2023-10520,2025-02-05,2025-02-09,Mark Green,South,Virginia,Furniture,Chairs,Task Chair Armless,95.99,1,0.2,15.28
+CA-2026-10521,2024-01-07,2024-01-12,Charles Allen,Central,Ohio,Office Supplies,Paper,Recycled Printer Paper,144.9,10,0.0,61.08
+CA-2025-10522,2023-10-30,2023-11-03,Jeffrey Morris,Central,Illinois,Technology,Laptops,HP Spectre x360,3239.97,3,0.1,967.16
+CA-2023-10523,2025-04-27,2025-04-30,Laura Adams,West,Arizona,Furniture,Tables,"Adjustable Standing Desk 55""",450.0,1,0.0,164.18
+CA-2024-10524,2025-01-16,2025-01-17,George Nelson,Central,Michigan,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,45.99,1,0.0,19.59
+CA-2023-10525,2024-11-10,2024-11-12,Carol Campbell,South,Tennessee,Technology,Smartphones,iPhone 15 Pro,999.99,1,0.0,401.77
+CA-2023-10526,2025-01-02,2025-01-07,David Brown,East,Pennsylvania,Technology,Smartphones,iPhone 15 Pro,5999.94,6,0.0,2442.04
+CA-2024-10527,2025-09-19,2025-09-20,Christopher Anderson,West,Arizona,Furniture,Tables,"Adjustable Standing Desk 55""",1800.0,5,0.2,508.56
+CA-2026-10528,2024-08-30,2024-09-04,George Nelson,East,Massachusetts,Technology,Laptops,Dell XPS 15,2999.98,2,0.0,1308.52
+CA-2026-10529,2024-03-13,2024-03-16,Edward Carter,East,New Jersey,Technology,Laptops,Dell XPS 15,1199.99,1,0.2,233.36
+CA-2023-10530,2025-10-30,2025-10-31,Emily Johnson,West,Washington,Technology,Accessories,Sony WH-1000XM5,839.98,3,0.3,83.07
+CA-2024-10531,2024-02-08,2024-02-11,Kimberly Gonzalez,South,Virginia,Technology,Smartphones,iPhone 15 Pro,2099.98,3,0.3,246.21
+CA-2023-10532,2025-04-25,2025-04-28,Charles Allen,South,Florida,Furniture,Tables,"Adjustable Standing Desk 55""",270.0,1,0.4,-34.33
+CA-2025-10533,2025-10-14,2025-10-19,Donald Baker,East,New Jersey,Furniture,Tables,Conference Table 8-ft,799.99,1,0.0,282.03
+CA-2026-10534,2025-01-23,2025-01-25,Ronald Parker,West,California,Furniture,Bookcases,3-Tier Industrial Metal Shelf,125.99,1,0.1,45.71
+CA-2026-10535,2023-08-11,2023-08-12,George Nelson,East,Pennsylvania,Technology,Monitors,Samsung Odyssey G7,569.99,1,0.05,188.74
+CA-2025-10536,2024-11-22,2024-11-25,Brian Martinez,West,Oregon,Technology,Laptops,Dell XPS 15,5699.96,4,0.05,2219.47
+CA-2024-10537,2023-10-17,2023-10-22,Laura Adams,West,Arizona,Technology,Smartphones,OnePlus 12,679.99,1,0.15,246.54
+CA-2024-10538,2025-04-28,2025-05-01,Robert Thompson,Central,Illinois,Technology,Laptops,Lenovo ThinkPad X1,909.99,1,0.3,138.61
+CA-2024-10539,2025-07-22,2025-07-24,Joseph Lewis,East,Connecticut,Technology,Smartphones,iPhone 15 Pro,1199.99,2,0.4,3.45
+CA-2024-10540,2025-04-01,2025-04-05,Megan Rodriguez,West,Arizona,Furniture,Tables,"Adjustable Standing Desk 55""",855.0,2,0.05,258.58
+CA-2024-10541,2025-12-06,2025-12-07,Steven Wright,West,California,Office Supplies,Paper,Premium Heavyweight Cardstock,41.98,3,0.3,3.03
+CA-2023-10542,2024-12-19,2024-12-21,Jessica Taylor,West,Arizona,Technology,Smartphones,Google Pixel 8,1399.98,2,0.0,668.42
+CA-2025-10543,2024-03-05,2024-03-09,Helen Mitchell,West,Arizona,Office Supplies,Binders,"Zipper Binder 3""",42.48,2,0.15,11.48
+CA-2023-10544,2025-10-11,2025-10-12,Thomas Hernandez,Central,Wisconsin,Technology,Accessories,Sony WH-1000XM5,959.98,4,0.4,-19.25
+CA-2024-10545,2025-08-11,2025-08-12,Jason Turner,Central,Texas,Furniture,Bookcases,5-Shelf Wooden Bookcase,161.49,1,0.15,48.55
+CA-2023-10546,2024-10-07,2024-10-09,Carol Campbell,West,Nevada,Furniture,Tables,"Adjustable Standing Desk 55""",3847.5,9,0.05,1391.82
+CA-2026-10547,2025-07-06,2025-07-11,Timothy Edwards,East,Pennsylvania,Office Supplies,Storage,Desktop File Organizer,55.18,3,0.2,16.26
+CA-2023-10548,2024-10-13,2024-10-17,Laura Adams,West,Arizona,Furniture,Bookcases,3-Tier Industrial Metal Shelf,419.97,3,0.0,188.93
+CA-2026-10549,2023-11-12,2023-11-16,Stephanie Martin,Central,Texas,Technology,Smartphones,Google Pixel 8,699.99,1,0.0,280.41
+CA-2024-10550,2025-02-09,2025-02-10,Joseph Lewis,South,Tennessee,Technology,Monitors,"LG UltraGear 34""",1399.98,2,0.0,606.69
+CA-2023-10551,2023-06-08,2023-06-10,Kimberly Gonzalez,Central,Michigan,Furniture,Bookcases,Corner Bookshelf,254.97,3,0.15,75.65
+CA-2026-10552,2024-12-23,2024-12-28,Matthew Jackson,Central,Illinois,Office Supplies,Binders,"Presentation Binder 1""",9.88,2,0.1,2.82
+CA-2023-10553,2024-02-16,2024-02-19,Barbara Scott,East,Connecticut,Technology,Accessories,Anker USB-C Hub,399.92,8,0.0,181.64
+CA-2023-10554,2023-08-05,2023-08-08,Helen Mitchell,East,New Jersey,Office Supplies,Storage,Plastic Storage Tote 10 Gal,15.99,1,0.0,5.97
+CA-2025-10555,2024-02-15,2024-02-19,George Nelson,East,Connecticut,Office Supplies,Paper,Multipurpose Copy Paper 500 Sheets,18.19,2,0.3,1.49
+CA-2026-10556,2025-12-24,2025-12-26,Emily Johnson,Central,Ohio,Office Supplies,Storage,Archive Storage Boxes 10-Pack,73.48,3,0.3,13.21
+CA-2023-10557,2025-07-02,2025-07-03,Matthew Jackson,West,Oregon,Technology,Monitors,Samsung Odyssey G7,2099.96,5,0.3,368.44
+CA-2025-10558,2023-09-08,2023-09-10,Kevin Perez,East,Massachusetts,Technology,Laptops,"MacBook Pro 16""",4199.98,3,0.3,430.02
+CA-2023-10559,2026-03-13,2026-03-17,Robert Thompson,South,Georgia,Furniture,Chairs,Task Chair Armless,239.98,2,0.0,87.7
+CA-2026-10560,2024-10-11,2024-10-14,Emily Johnson,Central,Ohio,Office Supplies,Storage,Desktop File Organizer,114.95,5,0.0,51.21
+CA-2026-10561,2025-07-09,2025-07-13,Paul Hill,Central,Illinois,Furniture,Furnishings,Acoustic Desk Divider,479.94,6,0.0,166.21
+CA-2023-10562,2024-02-09,2024-02-12,Mark Green,Central,Texas,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,41.39,1,0.1,14.43
+CA-2026-10563,2025-06-18,2025-06-20,Robert Thompson,East,New Jersey,Office Supplies,Art & Writing,Gel Pen Set 12-Pack,67.45,5,0.1,18.47
+CA-2025-10564,2025-01-20,2025-01-24,Brian Martinez,West,California,Technology,Accessories,Apple AirPods Pro,1224.95,7,0.3,280.22
+CA-2025-10565,2024-11-20,2024-11-24,Timothy Edwards,East,New York,Technology,Accessories,Sony WH-1000XM5,3999.9,10,0.0,1536.67
+CA-2025-10566,2025-03-24,2025-03-29,Linda Lopez,Central,Michigan,Furniture,Chairs,Gaming Chair High-Back,749.97,3,0.0,258.56
+CA-2024-10567,2025-03-25,2025-03-27,Anthony Walker,South,North Carolina,Office Supplies,Binders,"Heavy-Duty 3-Ring Binder 2""",14.38,2,0.2,3.2
+CA-2025-10568,2023-08-24,2023-08-27,Kimberly Gonzalez,West,Nevada,Technology,Smartphones,iPhone 15 Pro,2999.97,3,0.0,1179.01
+CA-2025-10569,2025-09-12,2025-09-15,Megan Rodriguez,Central,Texas,Furniture,Bookcases,5-Shelf Wooden Bookcase,113.99,1,0.4,6.64
+CA-2026-10570,2024-11-16,2024-11-18,Christopher Anderson,East,Pennsylvania,Furniture,Tables,"Adjustable Standing Desk 55""",1080.0,4,0.4,-32.67
+CA-2023-10571,2024-11-20,2024-11-21,Amanda Thomas,East,New York,Office Supplies,Storage,Desktop File Organizer,68.97,3,0.0,24.09
+CA-2025-10572,2024-03-19,2024-03-22,Michael Smith,West,Washington,Technology,Smartphones,Samsung Galaxy S24,1709.98,2,0.05,736.49
+CA-2023-10573,2024-11-26,2024-11-27,James Wilson,West,Arizona,Office Supplies,Paper,Multipurpose Copy Paper 500 Sheets,7.79,1,0.4,-0.2
+CA-2026-10574,2024-01-04,2024-01-07,David Brown,West,Oregon,Furniture,Chairs,Ergonomic Executive Mesh Chair,1139.96,4,0.05,403.16
+CA-2024-10575,2024-04-03,2024-04-06,Michael Smith,West,Washington,Furniture,Bookcases,Corner Bookshelf,199.98,2,0.0,68.63
+CA-2024-10576,2025-01-28,2025-01-29,Christopher Anderson,West,Nevada,Technology,Smartphones,Google Pixel 8,419.99,1,0.4,55.51
+CA-2023-10577,2025-12-19,2025-12-24,Laura Collins,South,Georgia,Furniture,Tables,Conference Table 8-ft,2399.97,3,0.0,1082.54
+CA-2025-10578,2026-03-26,2026-03-30,Nicole Garcia,East,New Jersey,Technology,Accessories,Logitech MX Master 3S,119.99,2,0.4,11.65
+CA-2025-10579,2025-06-15,2025-06-20,Jason Stewart,West,California,Office Supplies,Art & Writing,Gel Pen Set 12-Pack,20.99,2,0.3,2.52
+CA-2025-10580,2025-06-03,2025-06-07,Brian Martinez,South,Georgia,Office Supplies,Binders,"Heavy-Duty 3-Ring Binder 2""",37.76,6,0.3,1.61
+CA-2025-10581,2024-03-28,2024-04-01,Michelle Evans,West,Arizona,Office Supplies,Paper,Multipurpose Copy Paper 500 Sheets,10.39,1,0.2,2.19
+CA-2023-10582,2025-07-09,2025-07-11,James Wilson,Central,Illinois,Office Supplies,Binders,"Zipper Binder 3""",99.96,5,0.2,32.53
+CA-2026-10583,2025-06-28,2025-07-01,Jeffrey Morris,Central,Michigan,Office Supplies,Art & Writing,Highlighter Pack,19.18,3,0.2,2.93
+CA-2025-10584,2024-02-14,2024-02-18,Christopher Anderson,West,Oregon,Office Supplies,Art & Writing,Gel Pen Set 12-Pack,44.97,3,0.0,21.37
+CA-2023-10585,2025-09-15,2025-09-19,Michelle Evans,West,Washington,Office Supplies,Storage,Plastic Storage Tote 10 Gal,31.98,2,0.0,11.46
+CA-2026-10586,2025-08-15,2025-08-17,Joseph Lewis,South,Virginia,Furniture,Bookcases,Corner Bookshelf,119.99,2,0.4,-1.49
+CA-2023-10587,2026-04-23,2026-04-24,Thomas Hernandez,South,Georgia,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,11.99,1,0.0,4.69
+CA-2025-10588,2025-11-04,2025-11-06,Laura Adams,South,North Carolina,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,33.57,4,0.3,3.57
+CA-2026-10589,2025-01-06,2025-01-08,Donald Baker,West,Arizona,Office Supplies,Art & Writing,Highlighter Pack,54.33,8,0.15,13.25
+CA-2025-10590,2024-08-27,2024-08-28,Kevin Perez,West,Washington,Office Supplies,Storage,Archive Storage Boxes 10-Pack,89.22,3,0.15,28.24
+CA-2026-10591,2024-09-19,2024-09-22,Steven Wright,Central,Texas,Furniture,Tables,"Adjustable Standing Desk 55""",405.0,1,0.1,128.34
+CA-2023-10592,2025-10-19,2025-10-20,Rachel Hall,East,New York,Furniture,Bookcases,5-Shelf Wooden Bookcase,303.98,2,0.2,71.85
+CA-2026-10593,2024-07-05,2024-07-09,Kevin Perez,West,Oregon,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,25.18,3,0.3,5.9
+CA-2024-10594,2024-09-10,2024-09-15,Jeffrey Morris,Central,Illinois,Furniture,Bookcases,3-Tier Industrial Metal Shelf,1063.92,8,0.05,392.51
+CA-2023-10595,2025-09-23,2025-09-28,Nicole Garcia,Central,Ohio,Technology,Accessories,Sony WH-1000XM5,1999.95,5,0.0,730.32
+CA-2023-10596,2025-04-01,2025-04-04,James Wilson,South,Virginia,Technology,Accessories,Logitech MX Master 3S,269.97,3,0.1,89.77
+CA-2025-10597,2024-12-03,2024-12-08,Anthony Walker,East,New Jersey,Office Supplies,Storage,Archive Storage Boxes 10-Pack,62.98,3,0.4,5.36
+CA-2023-10598,2025-04-25,2025-04-30,Stephanie Martin,South,North Carolina,Furniture,Furnishings,Anti-Fatigue Floor Mat,167.96,7,0.4,-13.83
+CA-2026-10599,2026-01-02,2026-01-03,Kimberly Gonzalez,East,Massachusetts,Office Supplies,Binders,"Heavy-Duty 3-Ring Binder 2""",8.09,1,0.1,2.2
+CA-2026-10600,2024-08-25,2024-08-26,Brian Phillips,East,New Jersey,Office Supplies,Storage,Archive Storage Boxes 10-Pack,33.24,1,0.05,12.77
+CA-2023-10601,2024-02-18,2024-02-19,Elizabeth Robinson,Central,Michigan,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,35.97,3,0.0,16.1
+CA-2025-10602,2024-01-30,2024-02-02,Megan Rodriguez,East,New York,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,45.99,1,0.0,19.77
+CA-2025-10603,2025-10-18,2025-10-22,Samantha Young,West,Arizona,Furniture,Tables,"Adjustable Standing Desk 55""",270.0,1,0.4,-31.17
+CA-2025-10604,2025-01-22,2025-01-23,Elizabeth Robinson,West,Oregon,Office Supplies,Art & Writing,Highlighter Pack,25.57,4,0.2,7.84
+CA-2023-10605,2024-03-22,2024-03-25,Paul Hill,South,Georgia,Furniture,Chairs,Gaming Chair High-Back,749.97,3,0.0,322.01
+CA-2026-10606,2025-01-05,2025-01-07,Megan Rodriguez,East,Massachusetts,Office Supplies,Storage,Desktop File Organizer,22.99,1,0.0,7.94
+CA-2023-10607,2025-06-06,2025-06-08,William Clark,South,Georgia,Furniture,Bookcases,Corner Bookshelf,94.99,1,0.05,29.27
+CA-2026-10608,2023-04-05,2023-04-09,William Clark,Central,Texas,Technology,Accessories,Anker USB-C Hub,249.95,5,0.0,83.35
+CA-2025-10609,2025-10-30,2025-11-03,David Brown,Central,Texas,Office Supplies,Art & Writing,Highlighter Pack,13.58,2,0.15,3.44
+CA-2023-10610,2025-09-10,2025-09-13,Donald Baker,West,Oregon,Office Supplies,Storage,Desktop File Organizer,68.97,3,0.0,26.03
+CA-2024-10611,2025-04-27,2025-04-29,Emily Johnson,South,North Carolina,Furniture,Bookcases,3-Tier Industrial Metal Shelf,419.97,3,0.0,190.98
+CA-2024-10612,2025-09-29,2025-10-03,Anthony Walker,South,Virginia,Furniture,Tables,Conference Table 8-ft,679.99,1,0.15,161.66
+CA-2024-10613,2023-11-07,2023-11-10,Stephanie Martin,South,Virginia,Furniture,Tables,"Adjustable Standing Desk 55""",1890.0,7,0.4,-74.14
+CA-2024-10614,2025-11-28,2025-12-02,Robert Thompson,Central,Illinois,Technology,Monitors,Samsung Odyssey G7,1079.98,2,0.1,427.33
+CA-2025-10615,2024-03-16,2024-03-21,Amanda Thomas,West,Nevada,Office Supplies,Art & Writing,Highlighter Pack,15.18,2,0.05,5.05
+CA-2024-10616,2026-01-18,2026-01-21,Joseph Lewis,South,Virginia,Technology,Monitors,"Dell UltraSharp 27""",1349.97,3,0.1,395.58
+CA-2024-10617,2024-11-21,2024-11-25,Ashley White,West,Oregon,Office Supplies,Binders,"Zipper Binder 3""",47.48,2,0.05,18.53
+CA-2026-10618,2023-11-09,2023-11-13,Matthew Jackson,Central,Michigan,Furniture,Tables,Side Table Wooden,143.98,2,0.2,29.19
+CA-2025-10619,2023-10-16,2023-10-21,Sarah Davis,West,Oregon,Technology,Monitors,"LG UltraGear 34""",6999.9,10,0.0,3353.95
+CA-2026-10620,2024-08-10,2024-08-14,Ronald Parker,Central,Illinois,Furniture,Chairs,Task Chair Armless,119.99,1,0.0,47.92
+CA-2025-10621,2025-10-28,2025-10-30,Jessica Taylor,Central,Wisconsin,Office Supplies,Binders,"Presentation Binder 1""",5.49,1,0.0,1.78
+CA-2026-10622,2025-10-22,2025-10-25,Sarah Sanchez,Central,Michigan,Office Supplies,Storage,Archive Storage Boxes 10-Pack,157.46,5,0.1,52.01
+CA-2026-10623,2025-11-13,2025-11-16,Sarah Sanchez,South,North Carolina,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,45.99,1,0.0,20.38
+CA-2023-10624,2025-01-02,2025-01-04,Laura Collins,South,Virginia,Technology,Monitors,"Dell UltraSharp 27""",599.99,2,0.4,2.37
+CA-2026-10625,2023-12-25,2023-12-27,Amanda Thomas,Central,Texas,Technology,Accessories,Anker USB-C Hub,149.97,5,0.4,-12.9
+CA-2024-10626,2025-03-26,2025-03-27,Kimberly Gonzalez,East,New Jersey,Technology,Smartphones,OnePlus 12,2039.97,3,0.15,782.02
+CA-2023-10627,2024-11-01,2024-11-06,Christopher Anderson,Central,Illinois,Technology,Laptops,HP Spectre x360,4199.96,5,0.3,644.1
+CA-2025-10628,2025-04-02,2025-04-03,Rachel Hall,West,Nevada,Office Supplies,Storage,Archive Storage Boxes 10-Pack,349.9,10,0.0,156.12
+CA-2023-10629,2025-08-22,2025-08-25,Anthony Walker,West,California,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,91.98,2,0.0,40.62
+CA-2026-10630,2023-11-15,2023-11-17,Daniel Harris,South,Virginia,Office Supplies,Binders,"Heavy-Duty 3-Ring Binder 2""",14.38,2,0.2,2.91
+CA-2025-10631,2025-11-25,2025-11-30,Matthew Jackson,Central,Texas,Office Supplies,Binders,"Presentation Binder 1""",8.78,2,0.2,2.23
+CA-2026-10632,2023-11-17,2023-11-21,Samantha Young,East,New Jersey,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,39.09,1,0.15,8.01
+CA-2024-10633,2025-05-09,2025-05-11,Laura Adams,West,Oregon,Office Supplies,Art & Writing,Gel Pen Set 12-Pack,62.96,6,0.3,11.87
+CA-2024-10634,2025-06-02,2025-06-05,Elizabeth Robinson,South,Georgia,Furniture,Chairs,Task Chair Armless,119.99,1,0.0,47.74
+CA-2026-10635,2024-11-17,2024-11-21,Ronald Parker,Central,Ohio,Office Supplies,Paper,Recycled Printer Paper,10.14,1,0.3,2.19
+CA-2024-10636,2025-09-25,2025-09-26,Jessica Taylor,South,Georgia,Office Supplies,Art & Writing,Highlighter Pack,14.38,2,0.1,5.2
+CA-2024-10637,2024-05-05,2024-05-06,Sarah Sanchez,Central,Texas,Office Supplies,Paper,Multipurpose Copy Paper 500 Sheets,25.98,2,0.0,11.76
+CA-2026-10638,2024-12-25,2024-12-29,Ronald Parker,South,Georgia,Furniture,Bookcases,Corner Bookshelf,239.98,3,0.2,45.38
+CA-2023-10639,2024-01-13,2024-01-14,Robert Thompson,West,California,Furniture,Tables,"Adjustable Standing Desk 55""",450.0,1,0.0,169.22
+CA-2026-10640,2025-09-25,2025-09-30,Robert Thompson,West,Oregon,Office Supplies,Binders,"Presentation Binder 1""",10.98,2,0.0,4.98
+CA-2024-10641,2025-07-07,2025-07-11,Laura Adams,South,Florida,Office Supplies,Binders,"Heavy-Duty 3-Ring Binder 2""",14.38,2,0.2,4.88
+CA-2023-10642,2023-12-09,2023-12-13,Steven Wright,South,Tennessee,Furniture,Bookcases,5-Shelf Wooden Bookcase,265.99,2,0.3,37.19
+CA-2026-10643,2024-05-29,2024-05-30,Kimberly Gonzalez,West,Arizona,Furniture,Bookcases,Corner Bookshelf,79.99,1,0.2,13.77
+CA-2023-10644,2025-01-20,2025-01-23,Paul Hill,South,Florida,Technology,Accessories,Anker USB-C Hub,69.99,2,0.3,14.29
+CA-2024-10645,2025-03-29,2025-04-01,Donna Roberts,South,North Carolina,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,50.96,5,0.15,12.15
+CA-2024-10646,2025-04-21,2025-04-24,Timothy Edwards,West,Arizona,Technology,Smartphones,Samsung Galaxy S24,629.99,1,0.3,147.47
+CA-2026-10647,2026-01-14,2026-01-18,Jennifer Lee,East,Pennsylvania,Furniture,Chairs,Ergonomic Executive Mesh Chair,539.98,2,0.1,193.72
+CA-2024-10648,2024-03-22,2024-03-27,David Brown,West,Oregon,Office Supplies,Paper,Recycled Printer Paper,8.69,1,0.4,0.64
+CA-2025-10649,2026-05-05,2026-05-08,Amy Rogers,West,Nevada,Office Supplies,Binders,"Zipper Binder 3""",124.95,5,0.0,45.85
+CA-2026-10650,2025-08-20,2025-08-21,Christopher Anderson,West,Nevada,Technology,Laptops,Dell XPS 15,4274.97,3,0.05,1279.08
+CA-2024-10651,2025-06-30,2025-07-04,Jeffrey Morris,South,Florida,Technology,Accessories,Apple AirPods Pro,1249.95,5,0.0,430.26
+CA-2026-10652,2026-02-28,2026-03-01,Elizabeth Robinson,South,Georgia,Office Supplies,Binders,"Heavy-Duty 3-Ring Binder 2""",14.38,2,0.2,3.99
+CA-2024-10653,2024-02-20,2024-02-25,Steven Wright,East,Pennsylvania,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,43.16,6,0.4,-3.4
+CA-2025-10654,2026-01-15,2026-01-19,Ashley White,West,Nevada,Technology,Laptops,Lenovo ThinkPad X1,2599.98,2,0.0,1067.42
+CA-2026-10655,2025-07-22,2025-07-24,Helen Mitchell,West,Nevada,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,43.16,6,0.4,-4.3
+CA-2025-10656,2025-12-01,2025-12-02,Megan Rodriguez,East,New Jersey,Office Supplies,Binders,"Zipper Binder 3""",52.48,3,0.3,5.13
+CA-2026-10657,2025-08-02,2025-08-05,Jessica Taylor,West,Nevada,Office Supplies,Art & Writing,Highlighter Pack,31.96,4,0.0,12.68
+CA-2025-10658,2024-05-08,2024-05-13,Edward Carter,Central,Wisconsin,Office Supplies,Binders,"Heavy-Duty 3-Ring Binder 2""",5.39,1,0.4,-0.14
+CA-2024-10659,2025-09-16,2025-09-19,Jason Stewart,South,Tennessee,Technology,Laptops,Lenovo ThinkPad X1,1559.99,2,0.4,60.54
+CA-2023-10660,2025-07-20,2025-07-21,Paul Hill,Central,Wisconsin,Furniture,Chairs,Gaming Chair High-Back,474.98,2,0.05,150.56
+CA-2024-10661,2024-09-23,2024-09-26,Ronald Parker,East,New Jersey,Furniture,Tables,"Adjustable Standing Desk 55""",855.0,2,0.05,268.51
+CA-2025-10662,2024-12-20,2024-12-22,Laura Collins,South,Virginia,Technology,Laptops,"MacBook Pro 16""",3999.98,2,0.0,1615.19
+CA-2026-10663,2023-10-26,2023-10-31,Patricia King,South,Georgia,Furniture,Furnishings,Acoustic Desk Divider,111.99,2,0.3,11.16
+CA-2026-10664,2025-07-03,2025-07-07,Daniel Harris,East,Connecticut,Technology,Monitors,Samsung Odyssey G7,719.99,2,0.4,-69.74
+CA-2023-10665,2025-06-08,2025-06-12,Mark Green,West,Washington,Furniture,Bookcases,5-Shelf Wooden Bookcase,455.98,3,0.2,149.53
+CA-2025-10666,2025-03-18,2025-03-19,Kimberly Gonzalez,East,New York,Office Supplies,Storage,Desktop File Organizer,32.19,2,0.3,8.07
+CA-2024-10667,2024-02-07,2024-02-12,Steven Wright,West,Oregon,Office Supplies,Binders,"Heavy-Duty 3-Ring Binder 2""",31.46,5,0.3,8.07
+CA-2025-10668,2023-10-05,2023-10-06,Steven Wright,South,Tennessee,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,33.57,4,0.3,2.23
+CA-2024-10669,2025-07-24,2025-07-29,Brian Phillips,South,Virginia,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,195.46,5,0.15,72.6
+CA-2026-10670,2024-10-26,2024-10-30,Rachel Hall,West,Arizona,Furniture,Bookcases,Corner Bookshelf,99.99,1,0.0,36.68
+CA-2025-10671,2025-03-10,2025-03-11,Carol Campbell,West,Washington,Furniture,Chairs,Task Chair Armless,251.98,3,0.3,35.85
+CA-2023-10672,2024-01-06,2024-01-11,Stephanie Martin,West,Oregon,Technology,Smartphones,OnePlus 12,479.99,1,0.4,-13.68
+CA-2026-10673,2025-03-30,2025-04-03,Michael Smith,Central,Michigan,Technology,Monitors,"Dell UltraSharp 27""",2124.96,5,0.15,672.18
+CA-2023-10674,2023-12-28,2023-12-29,George Nelson,East,Massachusetts,Technology,Smartphones,Google Pixel 8,2799.96,4,0.0,1206.54
+CA-2026-10675,2025-05-29,2025-05-30,Jason Turner,Central,Illinois,Technology,Laptops,Lenovo ThinkPad X1,2209.98,2,0.15,798.73
+CA-2025-10676,2024-06-26,2024-06-27,Sarah Davis,East,Pennsylvania,Furniture,Tables,Conference Table 8-ft,1439.98,3,0.4,44.14
+CA-2023-10677,2024-07-07,2024-07-10,Barbara Scott,South,Florida,Office Supplies,Paper,Premium Heavyweight Cardstock,59.97,3,0.0,26.2
+CA-2023-10678,2024-06-13,2024-06-18,Carol Campbell,East,Massachusetts,Furniture,Furnishings,Anti-Fatigue Floor Mat,23.99,1,0.4,1.89
+CA-2024-10679,2024-10-14,2024-10-16,Elizabeth Robinson,South,Tennessee,Office Supplies,Paper,Multipurpose Copy Paper 500 Sheets,58.46,5,0.1,17.9
+CA-2024-10680,2023-01-25,2023-01-29,Megan Rodriguez,Central,Michigan,Office Supplies,Binders,"Zipper Binder 3""",112.45,5,0.1,46.57
+CA-2023-10681,2024-08-08,2024-08-12,Timothy Edwards,West,Washington,Furniture,Bookcases,3-Tier Industrial Metal Shelf,83.99,1,0.4,-10.25
+CA-2025-10682,2025-11-03,2025-11-06,Brian Phillips,Central,Michigan,Office Supplies,Binders,"Zipper Binder 3""",191.17,9,0.15,66.64
+CA-2025-10683,2023-05-15,2023-05-17,Carol Campbell,West,Nevada,Office Supplies,Paper,Multipurpose Copy Paper 500 Sheets,31.18,3,0.2,7.45
+CA-2026-10684,2025-07-24,2025-07-29,Jessica Taylor,West,Nevada,Technology,Monitors,Samsung Odyssey G7,479.99,1,0.2,88.56
+CA-2025-10685,2024-10-25,2024-10-26,Amanda Thomas,South,Georgia,Technology,Monitors,"Dell UltraSharp 27""",499.99,1,0.0,179.32
+CA-2025-10686,2024-04-12,2024-04-17,Brian Phillips,Central,Illinois,Technology,Monitors,"LG UltraGear 34""",489.99,1,0.3,24.69
+CA-2024-10687,2023-04-01,2023-04-05,Amanda Thomas,Central,Wisconsin,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,137.97,3,0.0,64.78
+CA-2024-10688,2025-07-12,2025-07-14,William Clark,East,Connecticut,Furniture,Bookcases,5-Shelf Wooden Bookcase,949.95,5,0.0,305.21
+CA-2025-10689,2025-05-30,2025-06-03,Emily Johnson,South,Florida,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,14.39,2,0.4,0.13
+CA-2025-10690,2025-02-06,2025-02-07,Jason Stewart,East,New York,Office Supplies,Art & Writing,Highlighter Pack,15.98,2,0.0,6.67
+CA-2025-10691,2023-11-02,2023-11-07,Michael Smith,East,New Jersey,Technology,Smartphones,Samsung Galaxy S24,809.99,1,0.1,332.95
+CA-2023-10692,2023-06-28,2023-07-02,Michael Smith,Central,Ohio,Technology,Laptops,HP Spectre x360,1019.99,1,0.15,236.15
+CA-2025-10693,2025-02-08,2025-02-10,James Wilson,South,Florida,Furniture,Furnishings,Acoustic Desk Divider,79.99,1,0.0,26.66
+CA-2026-10694,2024-08-20,2024-08-21,Matthew Jackson,West,Arizona,Technology,Accessories,Sony WH-1000XM5,399.99,1,0.0,156.2
+CA-2025-10695,2025-10-02,2025-10-06,Christopher Anderson,South,North Carolina,Furniture,Chairs,Gaming Chair High-Back,399.98,2,0.2,69.6
+CA-2023-10696,2024-09-14,2024-09-15,Barbara Scott,Central,Wisconsin,Technology,Laptops,"MacBook Pro 16""",1999.99,1,0.0,770.27
+CA-2024-10697,2025-11-25,2025-11-27,Brian Phillips,Central,Ohio,Office Supplies,Art & Writing,Highlighter Pack,23.97,3,0.0,10.57
+CA-2023-10698,2023-09-20,2023-09-23,Kevin Perez,South,Tennessee,Furniture,Bookcases,3-Tier Industrial Metal Shelf,251.98,3,0.4,-18.51
+CA-2024-10699,2025-01-01,2025-01-06,Rachel Hall,Central,Ohio,Technology,Smartphones,iPhone 15 Pro,599.99,1,0.4,-57.4
+CA-2026-10700,2024-09-17,2024-09-19,Brian Phillips,East,New York,Office Supplies,Binders,"Zipper Binder 3""",34.99,2,0.3,4.2
+CA-2025-10701,2025-10-04,2025-10-09,Rachel Hall,Central,Michigan,Office Supplies,Binders,"Heavy-Duty 3-Ring Binder 2""",17.98,2,0.0,7.2
+CA-2023-10702,2025-05-03,2025-05-05,Barbara Scott,East,Pennsylvania,Office Supplies,Storage,Archive Storage Boxes 10-Pack,55.98,2,0.2,17.53
+CA-2023-10703,2024-10-05,2024-10-06,Charles Allen,West,Nevada,Technology,Smartphones,Google Pixel 8,1189.98,2,0.15,452.16
+CA-2023-10704,2024-04-21,2024-04-24,Stephanie Martin,East,Massachusetts,Furniture,Tables,Conference Table 8-ft,3799.95,5,0.05,1605.71
+CA-2023-10705,2024-03-23,2024-03-26,Christopher Anderson,West,Washington,Office Supplies,Paper,Premium Heavyweight Cardstock,125.94,7,0.1,42.96
+CA-2025-10706,2025-08-28,2025-08-30,Kimberly Gonzalez,South,Florida,Technology,Smartphones,Samsung Galaxy S24,3419.96,4,0.05,1241.23
+CA-2025-10707,2024-08-24,2024-08-28,Brian Phillips,East,New York,Furniture,Tables,Side Table Wooden,179.98,2,0.0,76.95
+CA-2023-10708,2025-04-27,2025-04-30,Matthew Jackson,South,North Carolina,Furniture,Chairs,Gaming Chair High-Back,999.96,4,0.0,453.19
+CA-2026-10709,2025-07-16,2025-07-21,Samantha Young,South,Tennessee,Office Supplies,Binders,"Presentation Binder 1""",13.18,4,0.4,-0.68
+CA-2026-10710,2025-01-04,2025-01-09,Patricia King,West,Washington,Technology,Smartphones,OnePlus 12,3199.96,5,0.2,980.09
+CA-2026-10711,2025-11-08,2025-11-13,Daniel Harris,Central,Ohio,Furniture,Chairs,Ergonomic Executive Mesh Chair,1079.96,4,0.1,370.64
+CA-2025-10712,2024-05-27,2024-05-28,Barbara Scott,Central,Michigan,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,16.79,2,0.3,3.1
+CA-2026-10713,2023-06-17,2023-06-21,Brian Martinez,Central,Texas,Office Supplies,Paper,Premium Heavyweight Cardstock,59.97,5,0.4,-0.75
+CA-2023-10714,2025-08-10,2025-08-12,Christopher Anderson,West,California,Office Supplies,Paper,Recycled Printer Paper,13.77,1,0.05,4.67
+CA-2025-10715,2024-08-10,2024-08-13,Robert Thompson,East,Connecticut,Office Supplies,Paper,Premium Heavyweight Cardstock,33.98,2,0.15,8.18
+CA-2026-10716,2026-01-18,2026-01-23,Jeffrey Morris,West,Arizona,Furniture,Tables,Conference Table 8-ft,759.99,1,0.05,283.27
+CA-2026-10717,2025-06-26,2025-06-30,Rachel Hall,West,Oregon,Technology,Monitors,Samsung Odyssey G7,839.99,2,0.3,129.61
+CA-2023-10718,2024-10-15,2024-10-20,Matthew Jackson,Central,Texas,Office Supplies,Storage,Desktop File Organizer,18.39,1,0.2,3.91
+CA-2026-10719,2025-07-24,2025-07-29,Jennifer Lee,Central,Wisconsin,Technology,Laptops,Dell XPS 15,1274.99,1,0.15,358.63
+CA-2026-10720,2026-03-23,2026-03-25,Patricia King,West,Nevada,Office Supplies,Binders,"Presentation Binder 1""",3.84,1,0.3,0.42
+CA-2025-10721,2023-11-22,2023-11-23,Michelle Evans,East,New York,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,45.99,1,0.0,15.37
+CA-2026-10722,2024-07-22,2024-07-24,Joseph Lewis,West,Arizona,Technology,Accessories,Logitech MX Master 3S,79.99,1,0.2,21.74
+CA-2023-10723,2024-01-19,2024-01-23,Mark Green,West,Arizona,Technology,Smartphones,Samsung Galaxy S24,1259.99,2,0.3,278.27
+CA-2025-10724,2025-03-29,2025-04-03,Laura Collins,South,Georgia,Technology,Laptops,Dell XPS 15,2399.98,2,0.2,549.67
+CA-2024-10725,2025-02-13,2025-02-18,Laura Adams,South,Virginia,Furniture,Chairs,Task Chair Armless,83.99,1,0.3,14.94
+CA-2025-10726,2024-10-29,2024-10-31,Steven Wright,East,Pennsylvania,Furniture,Furnishings,Anti-Fatigue Floor Mat,79.98,2,0.0,29.45
+CA-2023-10727,2024-10-31,2024-11-01,Elizabeth Robinson,East,Massachusetts,Furniture,Bookcases,Corner Bookshelf,569.94,6,0.05,170.74
+CA-2026-10728,2026-04-30,2026-05-05,Amanda Thomas,Central,Texas,Technology,Accessories,Sony WH-1000XM5,719.98,2,0.1,277.45
+CA-2023-10729,2024-12-26,2024-12-27,Brian Phillips,South,Virginia,Office Supplies,Art & Writing,Gel Pen Set 12-Pack,29.98,2,0.0,13.19
+CA-2024-10730,2024-09-02,2024-09-06,Laura Adams,South,Florida,Technology,Smartphones,OnePlus 12,719.99,1,0.1,196.28
+CA-2024-10731,2025-09-22,2025-09-27,Christopher Anderson,East,Massachusetts,Technology,Monitors,"Dell UltraSharp 27""",499.99,1,0.0,185.81
+CA-2024-10732,2024-12-09,2024-12-11,Nicole Garcia,West,Nevada,Technology,Monitors,Samsung Odyssey G7,359.99,1,0.4,-13.54
+CA-2023-10733,2024-10-29,2024-11-01,Paul Hill,West,Nevada,Technology,Laptops,HP Spectre x360,4559.96,4,0.05,1776.26
+CA-2024-10734,2024-04-22,2024-04-23,Steven Wright,West,California,Office Supplies,Binders,"Zipper Binder 3""",71.22,3,0.05,20.74
+CA-2023-10735,2025-08-19,2025-08-21,Jason Stewart,East,New York,Office Supplies,Paper,Premium Heavyweight Cardstock,37.98,2,0.05,13.19
+CA-2026-10736,2026-01-08,2026-01-09,Brian Martinez,East,New York,Office Supplies,Storage,Plastic Storage Tote 10 Gal,13.59,1,0.15,5.24
+CA-2024-10737,2024-12-24,2024-12-25,Ronald Parker,Central,Wisconsin,Office Supplies,Paper,Multipurpose Copy Paper 500 Sheets,62.35,6,0.2,18.06
+CA-2026-10738,2026-03-31,2026-04-01,Laura Collins,East,Massachusetts,Technology,Accessories,Sony WH-1000XM5,1199.97,3,0.0,512.23
+CA-2025-10739,2026-03-18,2026-03-22,James Wilson,Central,Texas,Furniture,Furnishings,Anti-Fatigue Floor Mat,113.97,3,0.05,41.92
+CA-2023-10740,2024-05-29,2024-06-03,Jeffrey Morris,West,Oregon,Technology,Monitors,"Dell UltraSharp 27""",1499.97,3,0.0,686.97
+CA-2026-10741,2024-08-04,2024-08-06,Thomas Hernandez,East,New York,Technology,Monitors,Samsung Odyssey G7,2999.95,5,0.0,1306.48
+CA-2023-10742,2025-02-09,2025-02-13,Carol Campbell,Central,Texas,Technology,Accessories,Apple AirPods Pro,149.99,1,0.4,17.83
+CA-2024-10743,2025-08-22,2025-08-24,Donna Roberts,South,Tennessee,Office Supplies,Binders,"Presentation Binder 1""",16.47,3,0.0,5.61
+CA-2023-10744,2026-01-30,2026-01-31,Brian Phillips,East,Pennsylvania,Technology,Laptops,Dell XPS 15,4274.97,3,0.05,1764.84
+CA-2023-10745,2024-11-27,2024-12-01,Jennifer Lee,East,Pennsylvania,Technology,Monitors,"Dell UltraSharp 27""",1349.97,3,0.1,501.5
+CA-2026-10746,2026-02-24,2026-02-26,Megan Rodriguez,South,Florida,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,8.39,1,0.3,1.34
+CA-2026-10747,2025-07-22,2025-07-26,Michael Smith,South,Virginia,Technology,Accessories,Anker USB-C Hub,149.97,3,0.0,65.81
+CA-2026-10748,2024-08-13,2024-08-16,Thomas Hernandez,South,Florida,Office Supplies,Binders,"Zipper Binder 3""",49.98,2,0.0,16.66
+CA-2023-10749,2023-05-01,2023-05-06,Jason Stewart,Central,Michigan,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,81.53,8,0.15,25.76
+CA-2025-10750,2025-05-04,2025-05-09,James Wilson,South,Florida,Technology,Monitors,Samsung Odyssey G7,479.99,1,0.2,76.12
+CA-2025-10751,2025-02-01,2025-02-05,Brian Phillips,Central,Texas,Furniture,Furnishings,Anti-Fatigue Floor Mat,151.96,4,0.05,56.55
+CA-2025-10752,2025-04-28,2025-04-29,Timothy Edwards,East,Massachusetts,Furniture,Furnishings,Acoustic Desk Divider,75.99,1,0.05,26.69
+CA-2024-10753,2023-04-29,2023-04-30,Carol Campbell,South,Virginia,Furniture,Chairs,Task Chair Armless,575.95,6,0.2,182.48
+CA-2026-10754,2024-06-20,2024-06-23,Donald Baker,South,Tennessee,Office Supplies,Art & Writing,Highlighter Pack,39.95,5,0.0,15.11
+CA-2025-10755,2025-09-01,2025-09-04,Sarah Sanchez,East,New Jersey,Furniture,Bookcases,5-Shelf Wooden Bookcase,1196.94,9,0.3,307.35
+CA-2023-10756,2025-08-01,2025-08-05,Kimberly Gonzalez,South,Georgia,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,45.99,1,0.0,16.89
+CA-2024-10757,2025-01-14,2025-01-19,Amanda Thomas,South,Tennessee,Technology,Smartphones,Samsung Galaxy S24,899.99,1,0.0,315.47
+CA-2024-10758,2024-06-27,2024-07-01,Paul Hill,West,Washington,Technology,Accessories,Logitech MX Master 3S,179.98,2,0.1,73.93
+CA-2023-10759,2025-03-27,2025-03-31,Laura Adams,West,California,Technology,Accessories,Logitech MX Master 3S,299.97,3,0.0,139.34
+CA-2023-10760,2024-10-16,2024-10-21,Jeffrey Morris,Central,Michigan,Office Supplies,Storage,Archive Storage Boxes 10-Pack,59.48,2,0.15,15.46
+CA-2025-10761,2026-06-13,2026-06-15,Samantha Young,South,Virginia,Furniture,Chairs,Gaming Chair High-Back,1249.95,5,0.0,599.36
+CA-2026-10762,2025-06-28,2025-06-30,Michael Smith,West,Nevada,Office Supplies,Binders,"Presentation Binder 1""",7.69,2,0.3,1.08
+CA-2024-10763,2023-03-01,2023-03-04,Michael Smith,Central,Texas,Furniture,Bookcases,Corner Bookshelf,139.99,2,0.3,23.2
+CA-2023-10764,2024-09-22,2024-09-26,Ronald Parker,West,Arizona,Office Supplies,Binders,"Zipper Binder 3""",14.99,1,0.4,-1.51
+CA-2023-10765,2024-01-17,2024-01-18,Jennifer Lee,South,North Carolina,Office Supplies,Paper,Premium Heavyweight Cardstock,56.97,3,0.05,23.45
+CA-2024-10766,2025-07-17,2025-07-18,Christopher Anderson,South,Florida,Technology,Accessories,Sony WH-1000XM5,1519.96,4,0.05,503.88
+CA-2026-10767,2026-01-27,2026-01-28,Ronald Parker,East,Connecticut,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,156.37,4,0.15,35.05
+CA-2023-10768,2025-05-06,2025-05-10,Laura Collins,South,Tennessee,Office Supplies,Binders,"Heavy-Duty 3-Ring Binder 2""",16.18,2,0.1,6.58
+CA-2023-10769,2024-09-14,2024-09-19,Robert Thompson,West,Nevada,Office Supplies,Binders,"Presentation Binder 1""",38.43,7,0.0,16.54
+CA-2024-10770,2025-09-29,2025-10-03,Anthony Walker,Central,Illinois,Furniture,Tables,"Adjustable Standing Desk 55""",540.0,2,0.4,-50.74
+CA-2025-10771,2024-02-11,2024-02-14,Brian Martinez,South,Virginia,Technology,Accessories,Anker USB-C Hub,199.96,4,0.0,76.82
+CA-2025-10772,2025-01-26,2025-01-27,Megan Rodriguez,South,North Carolina,Office Supplies,Storage,Archive Storage Boxes 10-Pack,279.92,8,0.0,90.42
+CA-2025-10773,2024-02-22,2024-02-24,Jason Stewart,East,New York,Technology,Monitors,Samsung Odyssey G7,1199.98,2,0.0,385.71
+CA-2026-10774,2024-09-12,2024-09-16,Charles Allen,South,Virginia,Technology,Accessories,Apple AirPods Pro,712.47,3,0.05,238.36
+CA-2026-10775,2023-11-30,2023-12-03,Jeffrey Morris,West,Oregon,Office Supplies,Binders,"Zipper Binder 3""",17.49,1,0.3,3.33
+CA-2024-10776,2024-05-03,2024-05-05,Sarah Sanchez,West,Oregon,Furniture,Chairs,Task Chair Armless,479.96,4,0.0,201.46
+CA-2026-10777,2025-05-29,2025-05-31,Sarah Davis,West,Oregon,Office Supplies,Binders,"Heavy-Duty 3-Ring Binder 2""",5.39,1,0.4,-0.22
+CA-2026-10778,2026-02-28,2026-03-04,Elizabeth Robinson,West,California,Technology,Monitors,"LG UltraGear 34""",1399.98,2,0.0,525.77
+CA-2026-10779,2025-08-03,2025-08-04,Amy Rogers,South,Virginia,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,11.99,1,0.0,5.6
+CA-2026-10780,2025-05-05,2025-05-10,Brian Martinez,West,Nevada,Furniture,Furnishings,Anti-Fatigue Floor Mat,119.97,3,0.0,42.34
+CA-2024-10781,2024-10-23,2024-10-27,Jennifer Lee,East,New York,Office Supplies,Paper,Recycled Printer Paper,52.16,6,0.4,4.38
+CA-2023-10782,2024-10-31,2024-11-05,Kimberly Gonzalez,South,Florida,Furniture,Chairs,Ergonomic Executive Mesh Chair,2399.92,8,0.0,1082.59
+CA-2024-10783,2023-03-19,2023-03-23,Anthony Walker,West,California,Technology,Smartphones,Samsung Galaxy S24,809.99,1,0.1,219.39
+CA-2023-10784,2023-11-07,2023-11-08,Donald Baker,Central,Ohio,Furniture,Tables,Conference Table 8-ft,6399.92,8,0.0,2817.67
+CA-2023-10785,2026-01-18,2026-01-23,Joseph Lewis,South,North Carolina,Furniture,Furnishings,Acoustic Desk Divider,135.98,2,0.15,37.27
+CA-2024-10786,2025-06-04,2025-06-05,Elizabeth Robinson,West,Washington,Technology,Accessories,Anker USB-C Hub,209.96,7,0.4,15.9
+CA-2025-10787,2024-07-16,2024-07-21,Linda Lopez,West,Nevada,Office Supplies,Storage,Desktop File Organizer,68.97,3,0.0,28.69
+CA-2023-10788,2026-01-16,2026-01-20,Timothy Edwards,East,Connecticut,Technology,Laptops,Lenovo ThinkPad X1,12349.9,10,0.05,4103.92
+CA-2024-10789,2024-11-22,2024-11-24,Anthony Walker,South,Virginia,Technology,Smartphones,iPhone 15 Pro,1199.99,2,0.4,124.8
+CA-2026-10790,2023-10-02,2023-10-03,Samantha Young,Central,Ohio,Technology,Smartphones,Google Pixel 8,559.99,1,0.2,86.29
+CA-2024-10791,2024-10-18,2024-10-19,Amanda Thomas,East,Connecticut,Furniture,Bookcases,Corner Bookshelf,349.96,5,0.3,82.34
+CA-2025-10792,2025-06-12,2025-06-15,Edward Carter,Central,Wisconsin,Technology,Laptops,Dell XPS 15,2399.98,2,0.2,753.27
+CA-2026-10793,2025-01-07,2025-01-09,William Clark,West,Nevada,Furniture,Tables,Side Table Wooden,71.99,1,0.2,17.02
+CA-2025-10794,2023-09-03,2023-09-06,Laura Collins,East,Connecticut,Office Supplies,Art & Writing,Gel Pen Set 12-Pack,25.48,2,0.15,6.06
+CA-2025-10795,2024-07-14,2024-07-18,Kimberly Gonzalez,East,Massachusetts,Furniture,Chairs,Gaming Chair High-Back,424.98,2,0.15,97.37
+CA-2023-10796,2023-10-23,2023-10-25,Jessica Taylor,East,Connecticut,Technology,Laptops,Lenovo ThinkPad X1,2729.98,3,0.3,197.59
+CA-2023-10797,2026-02-14,2026-02-18,Michelle Evans,East,New Jersey,Office Supplies,Paper,Premium Heavyweight Cardstock,18.99,1,0.05,5.68
+CA-2023-10798,2025-06-21,2025-06-26,Sarah Sanchez,Central,Illinois,Furniture,Chairs,Task Chair Armless,239.98,2,0.0,89.29
+CA-2024-10799,2024-03-22,2024-03-25,Matthew Jackson,Central,Texas,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,11.99,1,0.0,5.11
+CA-2024-10800,2025-09-16,2025-09-17,Joseph Lewis,Central,Michigan,Office Supplies,Storage,Plastic Storage Tote 10 Gal,12.79,1,0.2,3.92
+CA-2025-10801,2025-12-25,2025-12-30,David Brown,South,Tennessee,Office Supplies,Paper,Premium Heavyweight Cardstock,13.99,1,0.3,2.54
+CA-2025-10802,2023-12-16,2023-12-19,Jason Stewart,East,New Jersey,Office Supplies,Paper,Multipurpose Copy Paper 500 Sheets,24.68,2,0.05,10.82
+CA-2024-10803,2024-11-15,2024-11-19,Emily Johnson,East,Massachusetts,Technology,Monitors,"LG UltraGear 34""",1189.98,2,0.15,366.04
+CA-2024-10804,2025-02-20,2025-02-23,Christopher Anderson,South,Virginia,Technology,Smartphones,Google Pixel 8,2799.96,4,0.0,1183.05
+CA-2024-10805,2023-12-22,2023-12-25,David Brown,East,New Jersey,Office Supplies,Storage,Plastic Storage Tote 10 Gal,15.19,1,0.05,4.45
+CA-2025-10806,2024-01-03,2024-01-07,Edward Carter,South,North Carolina,Office Supplies,Art & Writing,Highlighter Pack,25.57,4,0.2,8.28
+CA-2023-10807,2025-08-15,2025-08-17,Ashley White,Central,Wisconsin,Technology,Smartphones,iPhone 15 Pro,2549.97,3,0.15,783.75
+CA-2023-10808,2024-12-04,2024-12-07,Joseph Lewis,South,Florida,Office Supplies,Binders,"Zipper Binder 3""",14.99,1,0.4,1.25
+CA-2025-10809,2025-07-27,2025-07-30,Timothy Edwards,East,New Jersey,Technology,Monitors,Samsung Odyssey G7,2399.96,4,0.0,882.75
+CA-2024-10810,2024-04-08,2024-04-13,Brian Phillips,East,Pennsylvania,Technology,Smartphones,OnePlus 12,759.99,1,0.05,225.07
+CA-2026-10811,2023-05-22,2023-05-24,Jessica Taylor,West,Arizona,Office Supplies,Storage,Archive Storage Boxes 10-Pack,99.72,3,0.05,41.41
+CA-2026-10812,2025-01-09,2025-01-14,Linda Lopez,West,Oregon,Technology,Accessories,Apple AirPods Pro,424.98,2,0.15,108.07
+CA-2024-10813,2024-08-26,2024-08-27,Stephanie Martin,West,California,Technology,Accessories,Anker USB-C Hub,89.98,2,0.1,23.46
+CA-2023-10814,2024-12-01,2024-12-04,Laura Adams,Central,Ohio,Office Supplies,Paper,Multipurpose Copy Paper 500 Sheets,23.38,3,0.4,-1.69
+CA-2024-10815,2024-09-06,2024-09-09,Sarah Sanchez,Central,Illinois,Furniture,Bookcases,5-Shelf Wooden Bookcase,569.97,3,0.0,192.68
+CA-2024-10816,2025-04-27,2025-05-02,Amanda Thomas,West,Nevada,Furniture,Tables,"Adjustable Standing Desk 55""",1800.0,4,0.0,842.43
+CA-2025-10817,2024-08-09,2024-08-13,Jeffrey Morris,East,Connecticut,Furniture,Tables,"Adjustable Standing Desk 55""",360.0,1,0.2,86.36
+CA-2025-10818,2025-11-11,2025-11-16,Charles Allen,Central,Michigan,Furniture,Chairs,Gaming Chair High-Back,199.99,1,0.2,49.05
+CA-2023-10819,2024-03-12,2024-03-15,Timothy Edwards,East,Massachusetts,Technology,Laptops,Dell XPS 15,4799.97,4,0.2,1204.77
+CA-2023-10820,2024-03-10,2024-03-15,Thomas Hernandez,South,Virginia,Furniture,Bookcases,5-Shelf Wooden Bookcase,189.99,1,0.0,73.81
+CA-2023-10821,2025-10-30,2025-11-04,Barbara Scott,Central,Ohio,Technology,Accessories,Apple AirPods Pro,749.97,3,0.0,333.12
+CA-2024-10822,2024-07-30,2024-08-01,Megan Rodriguez,East,Massachusetts,Technology,Smartphones,Samsung Galaxy S24,2699.97,3,0.0,1015.77
+CA-2025-10823,2024-08-31,2024-09-05,William Clark,East,New Jersey,Furniture,Bookcases,3-Tier Industrial Metal Shelf,1259.91,9,0.0,438.66
+CA-2024-10824,2025-07-02,2025-07-05,Stephanie Martin,Central,Texas,Furniture,Chairs,Task Chair Armless,383.97,4,0.2,61.77
+CA-2025-10825,2025-10-21,2025-10-26,Edward Carter,East,New Jersey,Technology,Accessories,Apple AirPods Pro,199.99,1,0.2,63.77
+CA-2024-10826,2025-07-01,2025-07-05,Samantha Young,East,New Jersey,Technology,Monitors,"Dell UltraSharp 27""",999.98,2,0.0,449.77
+CA-2026-10827,2026-01-14,2026-01-16,Carol Campbell,Central,Texas,Office Supplies,Binders,"Heavy-Duty 3-Ring Binder 2""",42.7,5,0.05,18.83
+CA-2023-10828,2024-11-28,2024-12-02,Carol Campbell,South,Florida,Furniture,Tables,Side Table Wooden,359.96,4,0.0,138.03
+CA-2026-10829,2024-10-23,2024-10-24,Emily Johnson,West,Washington,Technology,Laptops,Lenovo ThinkPad X1,1299.99,1,0.0,459.18
+CA-2023-10830,2026-02-06,2026-02-07,George Nelson,Central,Texas,Technology,Smartphones,OnePlus 12,2239.97,4,0.3,158.48
+CA-2025-10831,2024-09-06,2024-09-08,Elizabeth Robinson,West,Nevada,Furniture,Bookcases,Corner Bookshelf,299.97,3,0.0,104.39
+CA-2023-10832,2025-02-26,2025-02-27,Donald Baker,South,North Carolina,Technology,Smartphones,iPhone 15 Pro,799.99,1,0.2,256.42
+CA-2025-10833,2024-05-22,2024-05-26,Michelle Evans,West,Arizona,Technology,Laptops,Dell XPS 15,1349.99,1,0.1,484.24
+CA-2025-10834,2024-01-03,2024-01-04,David Brown,East,Pennsylvania,Office Supplies,Storage,Archive Storage Boxes 10-Pack,27.99,1,0.2,8.95
+CA-2025-10835,2025-04-23,2025-04-26,Charles Allen,West,Oregon,Office Supplies,Storage,Desktop File Organizer,114.95,5,0.0,40.67
+CA-2024-10836,2025-08-04,2025-08-06,Anthony Walker,East,New Jersey,Office Supplies,Art & Writing,Gel Pen Set 12-Pack,11.99,1,0.2,1.89
+CA-2025-10837,2024-02-11,2024-02-14,Matthew Jackson,East,New Jersey,Office Supplies,Storage,Desktop File Organizer,36.78,2,0.2,8.44
+CA-2025-10838,2024-02-01,2024-02-03,Thomas Hernandez,South,Tennessee,Office Supplies,Art & Writing,Highlighter Pack,22.77,3,0.05,8.83
+CA-2026-10839,2025-02-13,2025-02-15,Timothy Edwards,West,Washington,Office Supplies,Paper,Multipurpose Copy Paper 500 Sheets,129.9,10,0.0,54.82
+CA-2026-10840,2026-02-06,2026-02-07,Sarah Davis,Central,Ohio,Technology,Accessories,Sony WH-1000XM5,239.99,1,0.4,-30.2
+CA-2026-10841,2024-06-09,2024-06-11,Sarah Davis,East,New York,Furniture,Tables,Conference Table 8-ft,2559.97,4,0.2,705.69
+CA-2023-10842,2025-05-19,2025-05-20,Mark Green,East,New York,Technology,Accessories,Anker USB-C Hub,49.99,1,0.0,23.9
+CA-2026-10843,2024-02-18,2024-02-20,Mark Green,East,Connecticut,Furniture,Bookcases,3-Tier Industrial Metal Shelf,237.98,2,0.15,72.5
+CA-2023-10844,2024-07-25,2024-07-27,Sarah Davis,West,Nevada,Technology,Smartphones,iPhone 15 Pro,1599.98,2,0.2,342.42
+CA-2026-10845,2025-03-05,2025-03-08,Helen Mitchell,Central,Illinois,Office Supplies,Binders,"Presentation Binder 1""",26.35,8,0.4,0.86
+CA-2024-10846,2025-07-10,2025-07-14,Jason Turner,West,Washington,Office Supplies,Binders,"Zipper Binder 3""",199.92,8,0.0,69.84
+CA-2026-10847,2025-01-07,2025-01-11,Thomas Hernandez,East,New York,Office Supplies,Art & Writing,Gel Pen Set 12-Pack,29.98,2,0.0,14.02
+CA-2025-10848,2023-06-28,2023-07-01,Daniel Harris,West,California,Technology,Laptops,Lenovo ThinkPad X1,1234.99,1,0.05,426.21
+CA-2023-10849,2024-06-07,2024-06-08,Helen Mitchell,West,Nevada,Office Supplies,Paper,Multipurpose Copy Paper 500 Sheets,23.38,2,0.1,9.84
+CA-2025-10850,2025-07-16,2025-07-20,Donald Baker,East,Massachusetts,Office Supplies,Storage,Plastic Storage Tote 10 Gal,63.96,4,0.0,27.31
+CA-2023-10851,2025-01-26,2025-01-28,Michael Smith,South,Virginia,Furniture,Chairs,Gaming Chair High-Back,174.99,1,0.3,41.85
+CA-2023-10852,2026-01-29,2026-01-31,Nicole Garcia,East,Pennsylvania,Furniture,Bookcases,3-Tier Industrial Metal Shelf,475.97,4,0.15,158.73
+CA-2026-10853,2023-08-02,2023-08-06,Elizabeth Robinson,East,Connecticut,Furniture,Chairs,Ergonomic Executive Mesh Chair,629.98,3,0.3,147.97
+CA-2023-10854,2024-02-08,2024-02-11,Edward Carter,West,Arizona,Technology,Monitors,"LG UltraGear 34""",629.99,1,0.1,247.91
+CA-2025-10855,2025-03-21,2025-03-24,Jessica Taylor,West,Washington,Furniture,Furnishings,Anti-Fatigue Floor Mat,323.92,9,0.1,92.82
+CA-2026-10856,2025-05-10,2025-05-12,Amanda Thomas,South,Florida,Office Supplies,Storage,Desktop File Organizer,45.98,2,0.0,18.83
+CA-2025-10857,2024-10-14,2024-10-18,Donald Baker,South,Georgia,Furniture,Chairs,Task Chair Armless,959.92,8,0.0,346.95
+CA-2024-10858,2025-06-12,2025-06-17,Emily Johnson,East,New York,Office Supplies,Art & Writing,Gel Pen Set 12-Pack,44.97,3,0.0,19.98
+CA-2026-10859,2025-05-23,2025-05-26,Barbara Scott,South,Tennessee,Office Supplies,Paper,Multipurpose Copy Paper 500 Sheets,12.99,1,0.0,4.33
+CA-2026-10860,2025-07-28,2025-07-30,Patricia King,Central,Texas,Office Supplies,Storage,Archive Storage Boxes 10-Pack,48.99,2,0.3,11.32
+CA-2026-10861,2023-07-28,2023-07-30,Mark Green,East,Pennsylvania,Office Supplies,Paper,Recycled Printer Paper,57.96,4,0.0,19.14
+CA-2025-10862,2025-08-13,2025-08-17,Nicole Garcia,West,Washington,Technology,Monitors,"LG UltraGear 34""",1399.98,2,0.0,653.27
+CA-2023-10863,2024-07-12,2024-07-13,Jennifer Lee,South,Virginia,Furniture,Tables,Side Table Wooden,539.94,6,0.0,187.42
+CA-2023-10864,2025-11-15,2025-11-19,Rachel Hall,Central,Illinois,Technology,Accessories,Sony WH-1000XM5,479.99,2,0.4,-24.17
+CA-2024-10865,2026-02-20,2026-02-24,Charles Allen,South,Florida,Furniture,Tables,"Adjustable Standing Desk 55""",1800.0,4,0.0,770.77
+CA-2025-10866,2023-05-08,2023-05-12,Ashley White,South,Georgia,Technology,Monitors,"LG UltraGear 34""",2099.97,3,0.0,675.94
+CA-2024-10867,2025-04-30,2025-05-05,Christopher Anderson,West,Washington,Furniture,Tables,Conference Table 8-ft,2399.97,3,0.0,921.23
+CA-2024-10868,2024-09-21,2024-09-23,Michelle Evans,West,Oregon,Office Supplies,Paper,Premium Heavyweight Cardstock,71.96,6,0.4,-6.13
+CA-2023-10869,2025-06-11,2025-06-15,Steven Wright,South,Georgia,Office Supplies,Art & Writing,Highlighter Pack,54.33,8,0.15,19.93
+CA-2024-10870,2024-12-24,2024-12-27,Stephanie Martin,East,Connecticut,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,47.96,5,0.2,10.7
+CA-2023-10871,2026-05-13,2026-05-14,Jessica Taylor,West,Nevada,Office Supplies,Paper,Premium Heavyweight Cardstock,47.98,4,0.4,5.13
+CA-2026-10872,2025-01-27,2025-01-28,Ronald Parker,Central,Michigan,Technology,Smartphones,OnePlus 12,2399.97,3,0.0,1076.89
+CA-2026-10873,2026-01-25,2026-01-28,Barbara Scott,South,Virginia,Technology,Accessories,Anker USB-C Hub,134.97,3,0.1,35.88
+CA-2025-10874,2024-08-14,2024-08-18,Michelle Evans,East,New York,Office Supplies,Paper,Multipurpose Copy Paper 500 Sheets,11.04,1,0.15,2.54
+CA-2025-10875,2024-09-09,2024-09-14,Linda Lopez,East,Connecticut,Office Supplies,Binders,"Zipper Binder 3""",74.97,3,0.0,26.37
+CA-2026-10876,2024-01-19,2024-01-23,Jason Stewart,East,New Jersey,Office Supplies,Binders,"Presentation Binder 1""",5.49,1,0.0,2.19
+CA-2026-10877,2025-09-26,2025-09-29,Edward Carter,East,Massachusetts,Technology,Laptops,"MacBook Pro 16""",1999.99,1,0.0,758.75
+CA-2024-10878,2023-06-28,2023-07-03,Jessica Taylor,South,Florida,Furniture,Tables,Conference Table 8-ft,2039.97,3,0.15,720.35
+CA-2024-10879,2024-08-04,2024-08-09,Elizabeth Robinson,South,Georgia,Furniture,Chairs,Gaming Chair High-Back,249.99,1,0.0,94.9
+CA-2023-10880,2023-12-22,2023-12-27,Amanda Thomas,West,Washington,Office Supplies,Storage,Plastic Storage Tote 10 Gal,11.19,1,0.3,0.71
+CA-2024-10881,2024-10-29,2024-11-02,Michael Smith,South,Florida,Office Supplies,Paper,Multipurpose Copy Paper 500 Sheets,31.18,3,0.2,5.37
+CA-2026-10882,2025-08-28,2025-08-30,Jennifer Lee,West,Washington,Furniture,Chairs,Ergonomic Executive Mesh Chair,2039.93,8,0.15,606.16
+CA-2023-10883,2024-02-29,2024-03-03,Amanda Thomas,East,Connecticut,Technology,Laptops,Dell XPS 15,1274.99,1,0.15,467.45
+CA-2024-10884,2023-07-03,2023-07-05,Brian Martinez,West,Washington,Office Supplies,Storage,Desktop File Organizer,22.99,1,0.0,9.75
+CA-2025-10885,2024-12-30,2025-01-03,Linda Lopez,South,North Carolina,Office Supplies,Binders,"Heavy-Duty 3-Ring Binder 2""",24.27,3,0.1,6.09
+CA-2023-10886,2025-03-26,2025-03-31,Jennifer Lee,East,Pennsylvania,Furniture,Furnishings,Anti-Fatigue Floor Mat,191.95,6,0.2,44.29
+CA-2025-10887,2025-09-03,2025-09-08,Christopher Anderson,South,Virginia,Technology,Accessories,Apple AirPods Pro,1499.94,6,0.0,612.12
+CA-2023-10888,2026-02-06,2026-02-09,Kevin Perez,South,Georgia,Furniture,Bookcases,3-Tier Industrial Metal Shelf,139.99,1,0.0,49.07
+CA-2026-10889,2025-08-14,2025-08-17,Elizabeth Robinson,West,Washington,Furniture,Bookcases,3-Tier Industrial Metal Shelf,118.99,1,0.15,43.46
+CA-2025-10890,2025-06-04,2025-06-07,Nicole Garcia,South,Tennessee,Office Supplies,Binders,"Zipper Binder 3""",22.49,1,0.1,7.09
+CA-2024-10891,2023-12-09,2023-12-12,Laura Collins,West,Nevada,Furniture,Furnishings,Acoustic Desk Divider,271.97,4,0.15,63.95
+CA-2024-10892,2024-04-18,2024-04-22,Laura Adams,West,Oregon,Office Supplies,Paper,Multipurpose Copy Paper 500 Sheets,22.08,2,0.15,6.11
+CA-2024-10893,2025-03-21,2025-03-24,Michael Smith,West,Arizona,Office Supplies,Binders,"Presentation Binder 1""",3.29,1,0.4,-0.37
+CA-2023-10894,2024-09-12,2024-09-13,James Wilson,South,Florida,Office Supplies,Storage,Desktop File Organizer,39.08,2,0.15,12.23
+CA-2025-10895,2025-01-20,2025-01-21,Patricia King,Central,Michigan,Office Supplies,Paper,Premium Heavyweight Cardstock,139.93,7,0.0,66.51
+CA-2023-10896,2025-09-11,2025-09-13,Christopher Anderson,Central,Michigan,Technology,Smartphones,iPhone 15 Pro,849.99,1,0.15,199.41
+CA-2023-10897,2026-01-01,2026-01-02,William Clark,West,California,Technology,Accessories,Logitech MX Master 3S,159.98,2,0.2,47.35
+CA-2024-10898,2025-12-20,2025-12-25,Barbara Scott,West,Washington,Office Supplies,Binders,"Zipper Binder 3""",119.95,6,0.2,26.7
+CA-2023-10899,2025-02-10,2025-02-12,Helen Mitchell,South,Virginia,Office Supplies,Storage,Archive Storage Boxes 10-Pack,69.98,2,0.0,30.64
+CA-2025-10900,2025-06-19,2025-06-22,Edward Carter,East,Pennsylvania,Furniture,Chairs,Ergonomic Executive Mesh Chair,2399.92,8,0.0,1070.37
+CA-2024-10901,2024-12-31,2025-01-04,Robert Thompson,South,Florida,Office Supplies,Binders,"Zipper Binder 3""",59.98,4,0.4,-5.73
+CA-2025-10902,2025-06-17,2025-06-19,Donald Baker,West,Washington,Technology,Accessories,Sony WH-1000XM5,1919.95,8,0.4,152.05
+CA-2026-10903,2024-04-07,2024-04-10,Linda Lopez,East,Massachusetts,Furniture,Chairs,Ergonomic Executive Mesh Chair,599.98,2,0.0,216.47
+CA-2024-10904,2023-05-18,2023-05-22,Stephanie Martin,Central,Texas,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,14.39,2,0.4,1.6
+CA-2026-10905,2024-05-06,2024-05-10,Donald Baker,South,Tennessee,Office Supplies,Paper,Premium Heavyweight Cardstock,39.98,2,0.0,18.88
+CA-2026-10906,2025-07-03,2025-07-07,Robert Thompson,Central,Illinois,Office Supplies,Binders,"Zipper Binder 3""",34.99,2,0.3,4.85
+CA-2023-10907,2025-05-31,2025-06-02,Amanda Thomas,East,New York,Technology,Laptops,Lenovo ThinkPad X1,779.99,1,0.4,82.98
+CA-2024-10908,2025-11-02,2025-11-06,Patricia King,South,Florida,Technology,Accessories,Sony WH-1000XM5,379.99,1,0.05,149.75
+CA-2025-10909,2025-06-15,2025-06-18,Jason Stewart,West,California,Technology,Monitors,Samsung Odyssey G7,1139.98,2,0.05,483.31
+CA-2023-10910,2024-03-11,2024-03-14,Barbara Scott,East,New York,Furniture,Furnishings,Anti-Fatigue Floor Mat,79.98,2,0.0,25.92
+CA-2023-10911,2024-03-17,2024-03-18,Donna Roberts,Central,Michigan,Furniture,Chairs,Gaming Chair High-Back,874.97,5,0.3,203.12
+CA-2023-10912,2025-03-15,2025-03-18,Brian Martinez,East,Pennsylvania,Technology,Laptops,Lenovo ThinkPad X1,5524.96,5,0.15,1674.27
+CA-2025-10913,2026-04-20,2026-04-23,Ronald Parker,South,Georgia,Office Supplies,Art & Writing,Gel Pen Set 12-Pack,67.45,5,0.1,19.96
+CA-2026-10914,2023-12-25,2023-12-30,Jason Stewart,West,Washington,Office Supplies,Binders,"Zipper Binder 3""",212.41,10,0.15,62.56
+CA-2024-10915,2025-03-22,2025-03-26,Samantha Young,East,New York,Technology,Monitors,Samsung Odyssey G7,539.99,1,0.1,143.79
+CA-2026-10916,2026-04-12,2026-04-17,Stephanie Martin,Central,Ohio,Office Supplies,Art & Writing,Highlighter Pack,14.38,2,0.1,5.28
+CA-2023-10917,2025-03-23,2025-03-26,Jason Turner,West,Arizona,Office Supplies,Storage,Desktop File Organizer,22.99,1,0.0,9.2
+CA-2024-10918,2024-12-30,2025-01-01,Kimberly Gonzalez,Central,Wisconsin,Furniture,Tables,Conference Table 8-ft,1599.98,2,0.0,563.25
+CA-2023-10919,2024-12-20,2024-12-22,Joseph Lewis,West,California,Office Supplies,Storage,Plastic Storage Tote 10 Gal,31.98,2,0.0,15.1
+CA-2024-10920,2024-09-23,2024-09-26,Donald Baker,East,New York,Furniture,Bookcases,5-Shelf Wooden Bookcase,1804.9,10,0.05,685.62
+CA-2023-10921,2024-07-29,2024-07-30,Mark Green,Central,Illinois,Furniture,Furnishings,Anti-Fatigue Floor Mat,79.98,2,0.0,26.96
+CA-2025-10922,2025-04-04,2025-04-06,Helen Mitchell,South,Georgia,Furniture,Tables,Side Table Wooden,323.96,4,0.1,128.97
+CA-2024-10923,2024-08-08,2024-08-09,Jennifer Lee,South,Tennessee,Technology,Monitors,"LG UltraGear 34""",419.99,1,0.4,6.5
+CA-2025-10924,2025-01-27,2025-01-30,Barbara Scott,Central,Michigan,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,14.39,2,0.4,1.82
+CA-2026-10925,2023-11-14,2023-11-16,Jason Turner,Central,Illinois,Furniture,Bookcases,5-Shelf Wooden Bookcase,512.97,3,0.1,211.7
+CA-2026-10926,2024-01-14,2024-01-15,Barbara Scott,South,Florida,Technology,Laptops,Lenovo ThinkPad X1,6499.95,5,0.0,2773.16
+CA-2023-10927,2025-09-08,2025-09-13,Mark Green,Central,Texas,Technology,Laptops,Dell XPS 15,2699.98,3,0.4,-173.11
+CA-2026-10928,2024-01-30,2024-02-01,Jennifer Lee,Central,Texas,Office Supplies,Binders,"Heavy-Duty 3-Ring Binder 2""",8.99,1,0.0,3.45
+CA-2023-10929,2025-02-08,2025-02-10,Nicole Garcia,West,Arizona,Technology,Monitors,"LG UltraGear 34""",699.99,1,0.0,302.4
+CA-2026-10930,2026-03-30,2026-04-01,George Nelson,Central,Wisconsin,Furniture,Furnishings,Acoustic Desk Divider,191.98,3,0.2,61.58
+CA-2023-10931,2024-04-03,2024-04-05,Daniel Harris,East,New Jersey,Office Supplies,Storage,Desktop File Organizer,48.28,3,0.3,8.36
+CA-2025-10932,2024-10-29,2024-10-30,Barbara Scott,South,Virginia,Technology,Laptops,Lenovo ThinkPad X1,2079.98,2,0.2,723.41
+CA-2025-10933,2023-07-17,2023-07-22,Paul Hill,West,Oregon,Technology,Monitors,Samsung Odyssey G7,1199.98,2,0.0,387.5
+CA-2025-10934,2025-01-25,2025-01-30,Nicole Garcia,Central,Wisconsin,Office Supplies,Paper,Multipurpose Copy Paper 500 Sheets,33.12,3,0.15,8.77
+CA-2025-10935,2024-12-24,2024-12-26,Megan Rodriguez,Central,Michigan,Technology,Monitors,"LG UltraGear 34""",5599.92,8,0.0,2171.84
+CA-2025-10936,2024-01-20,2024-01-23,Kevin Perez,Central,Wisconsin,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,45.99,1,0.0,20.37
+CA-2023-10937,2025-01-24,2025-01-28,Anthony Walker,East,Pennsylvania,Technology,Smartphones,OnePlus 12,2559.97,4,0.2,423.74
+CA-2023-10938,2025-04-15,2025-04-16,David Brown,West,Arizona,Office Supplies,Paper,Multipurpose Copy Paper 500 Sheets,18.19,2,0.3,3.11
+CA-2024-10939,2024-04-17,2024-04-21,Paul Hill,Central,Illinois,Technology,Smartphones,OnePlus 12,3799.95,5,0.05,1664.92
+CA-2023-10940,2025-04-26,2025-04-27,Nicole Garcia,West,Washington,Technology,Accessories,Sony WH-1000XM5,1199.97,3,0.0,510.57
+CA-2026-10941,2024-04-10,2024-04-12,Helen Mitchell,South,Tennessee,Office Supplies,Storage,Archive Storage Boxes 10-Pack,209.94,6,0.0,73.85
+CA-2026-10942,2024-11-29,2024-12-03,James Wilson,West,Washington,Furniture,Bookcases,5-Shelf Wooden Bookcase,180.49,1,0.05,80.13
+CA-2025-10943,2023-06-10,2023-06-13,William Clark,South,Georgia,Technology,Smartphones,Google Pixel 8,664.99,1,0.05,205.44
+CA-2025-10944,2024-11-05,2024-11-06,George Nelson,West,Nevada,Office Supplies,Storage,Archive Storage Boxes 10-Pack,29.74,1,0.15,9.19
+CA-2024-10945,2024-09-09,2024-09-10,Matthew Jackson,East,Connecticut,Furniture,Bookcases,Corner Bookshelf,599.94,6,0.0,265.35
+CA-2023-10946,2025-08-25,2025-08-30,Jason Turner,West,Oregon,Technology,Monitors,Samsung Odyssey G7,2399.96,4,0.0,811.18
+CA-2026-10947,2026-01-19,2026-01-22,Jason Stewart,West,California,Technology,Monitors,Samsung Odyssey G7,509.99,1,0.15,156.57
+CA-2025-10948,2025-08-07,2025-08-09,Michael Smith,West,California,Technology,Monitors,Samsung Odyssey G7,1799.97,3,0.0,704.87
+CA-2023-10949,2024-10-26,2024-10-30,Timothy Edwards,East,New Jersey,Furniture,Furnishings,Acoustic Desk Divider,55.99,1,0.3,12.89
+CA-2025-10950,2024-09-25,2024-09-28,Linda Lopez,West,Washington,Technology,Laptops,"MacBook Pro 16""",1199.99,1,0.4,-21.78
+CA-2023-10951,2025-10-24,2025-10-26,Sarah Davis,West,California,Technology,Monitors,"Dell UltraSharp 27""",849.98,2,0.15,274.04
+CA-2024-10952,2026-05-30,2026-06-01,Donna Roberts,South,Virginia,Furniture,Chairs,Task Chair Armless,107.99,1,0.1,27.58
+CA-2024-10953,2025-01-21,2025-01-24,Brian Martinez,South,Georgia,Office Supplies,Storage,Archive Storage Boxes 10-Pack,31.49,1,0.1,11.51
+CA-2023-10954,2023-09-06,2023-09-10,Laura Collins,South,Georgia,Technology,Smartphones,Samsung Galaxy S24,2699.97,5,0.4,194.01
+CA-2024-10955,2024-01-10,2024-01-12,David Brown,East,New Jersey,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,45.99,1,0.0,20.09
+CA-2026-10956,2024-08-08,2024-08-09,Sarah Davis,Central,Wisconsin,Office Supplies,Art & Writing,Gel Pen Set 12-Pack,59.96,5,0.2,15.66
+CA-2024-10957,2024-04-29,2024-05-01,Ronald Parker,South,Tennessee,Technology,Accessories,Logitech MX Master 3S,254.97,3,0.15,54.0
+CA-2025-10958,2025-12-17,2025-12-20,Jeffrey Morris,East,New York,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,47.96,4,0.0,16.83
+CA-2026-10959,2026-01-28,2026-01-31,George Nelson,South,Virginia,Furniture,Bookcases,5-Shelf Wooden Bookcase,1063.94,8,0.3,92.25
+CA-2024-10960,2024-01-23,2024-01-24,Megan Rodriguez,Central,Texas,Technology,Accessories,Apple AirPods Pro,749.97,3,0.0,286.12
+CA-2025-10961,2024-07-07,2024-07-10,Carol Campbell,West,California,Office Supplies,Storage,Desktop File Organizer,80.46,5,0.3,12.18
+CA-2026-10962,2023-04-11,2023-04-12,Charles Allen,South,Tennessee,Technology,Monitors,"Dell UltraSharp 27""",1499.97,3,0.0,653.64
+CA-2025-10963,2026-01-29,2026-02-02,Stephanie Martin,Central,Ohio,Office Supplies,Art & Writing,Gel Pen Set 12-Pack,14.99,1,0.0,6.84
+CA-2023-10964,2024-05-29,2024-05-30,Stephanie Martin,South,Tennessee,Office Supplies,Paper,Recycled Printer Paper,57.96,4,0.0,19.0
+CA-2025-10965,2026-03-12,2026-03-13,Michelle Evans,Central,Wisconsin,Furniture,Chairs,Task Chair Armless,119.99,1,0.0,56.11
+CA-2026-10966,2023-12-26,2023-12-27,Elizabeth Robinson,East,Massachusetts,Furniture,Bookcases,Corner Bookshelf,159.98,2,0.2,27.97
+CA-2024-10967,2023-06-17,2023-06-22,Samantha Young,Central,Michigan,Furniture,Bookcases,3-Tier Industrial Metal Shelf,881.94,7,0.1,274.87
+CA-2024-10968,2024-10-09,2024-10-12,Ashley White,West,California,Furniture,Tables,Conference Table 8-ft,1439.98,3,0.4,-108.85
+CA-2025-10969,2026-01-09,2026-01-13,Kevin Perez,West,Washington,Office Supplies,Paper,Multipurpose Copy Paper 500 Sheets,86.38,7,0.05,30.87
+CA-2026-10970,2025-02-22,2025-02-23,Kimberly Gonzalez,West,Nevada,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,21.58,2,0.1,5.61
+CA-2025-10971,2024-06-10,2024-06-13,Brian Martinez,South,Georgia,Furniture,Chairs,Task Chair Armless,95.99,1,0.2,26.65
+CA-2025-10972,2025-03-10,2025-03-11,Samantha Young,South,Tennessee,Technology,Monitors,"LG UltraGear 34""",699.99,1,0.0,232.32
+CA-2024-10973,2025-08-03,2025-08-07,Michelle Evans,East,Connecticut,Office Supplies,Storage,Desktop File Organizer,45.98,2,0.0,19.07
+CA-2024-10974,2025-03-21,2025-03-23,Stephanie Martin,South,Florida,Technology,Laptops,HP Spectre x360,1439.99,2,0.4,-81.17
+CA-2026-10975,2025-07-10,2025-07-12,David Brown,South,Florida,Furniture,Tables,"Adjustable Standing Desk 55""",270.0,1,0.4,-30.14
+CA-2026-10976,2024-09-27,2024-10-01,Timothy Edwards,East,Massachusetts,Technology,Accessories,Apple AirPods Pro,749.97,3,0.0,240.69
+CA-2023-10977,2023-10-17,2023-10-20,Paul Hill,South,Virginia,Furniture,Furnishings,Anti-Fatigue Floor Mat,159.96,4,0.0,58.01
+CA-2023-10978,2024-02-21,2024-02-22,Kevin Perez,Central,Michigan,Office Supplies,Storage,Desktop File Organizer,20.69,1,0.1,5.26
+CA-2023-10979,2024-05-29,2024-06-02,Rachel Hall,West,Nevada,Furniture,Furnishings,Anti-Fatigue Floor Mat,67.98,2,0.15,16.7
+CA-2024-10980,2023-08-07,2023-08-09,Linda Lopez,Central,Wisconsin,Furniture,Bookcases,5-Shelf Wooden Bookcase,379.98,2,0.0,175.18
+CA-2025-10981,2025-01-14,2025-01-16,Daniel Harris,Central,Ohio,Furniture,Chairs,Ergonomic Executive Mesh Chair,899.97,3,0.0,418.17
+CA-2024-10982,2023-06-26,2023-06-27,George Nelson,East,New York,Office Supplies,Paper,Premium Heavyweight Cardstock,15.99,1,0.2,3.25
+CA-2024-10983,2025-09-15,2025-09-18,Amanda Thomas,West,Arizona,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,11.99,1,0.0,3.85
+CA-2023-10984,2026-02-25,2026-02-26,Sarah Sanchez,East,New York,Office Supplies,Binders,"Zipper Binder 3""",34.99,2,0.3,3.96
+CA-2023-10985,2025-06-16,2025-06-19,David Brown,South,Florida,Furniture,Bookcases,5-Shelf Wooden Bookcase,949.95,5,0.0,311.71
+CA-2023-10986,2024-06-13,2024-06-18,Thomas Hernandez,East,Pennsylvania,Office Supplies,Art & Writing,Gel Pen Set 12-Pack,29.98,2,0.0,10.87
+CA-2025-10987,2024-01-23,2024-01-24,Kimberly Gonzalez,East,New York,Office Supplies,Paper,Premium Heavyweight Cardstock,56.97,3,0.05,18.97
+CA-2023-10988,2024-11-21,2024-11-24,Jason Turner,South,Tennessee,Technology,Accessories,Sony WH-1000XM5,1199.97,3,0.0,407.44
+CA-2024-10989,2025-10-25,2025-10-29,Laura Adams,South,Tennessee,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,11.99,1,0.0,3.91
+CA-2025-10990,2024-11-22,2024-11-26,Anthony Walker,East,New Jersey,Technology,Smartphones,OnePlus 12,5599.93,7,0.0,2376.54
+CA-2026-10991,2025-06-15,2025-06-19,Laura Adams,South,North Carolina,Technology,Accessories,Apple AirPods Pro,599.98,3,0.2,202.7
+CA-2025-10992,2024-06-30,2024-07-03,Steven Wright,South,Virginia,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,64.75,6,0.1,21.75
+CA-2024-10993,2024-09-14,2024-09-15,Jennifer Lee,South,Virginia,Technology,Smartphones,Samsung Galaxy S24,3599.96,4,0.0,1182.01
+CA-2025-10994,2024-01-19,2024-01-24,Michael Smith,West,Arizona,Technology,Accessories,Apple AirPods Pro,599.98,4,0.4,69.85
+CA-2023-10995,2025-02-07,2025-02-10,George Nelson,East,Pennsylvania,Furniture,Furnishings,Acoustic Desk Divider,79.99,1,0.0,26.74
+CA-2025-10996,2024-11-17,2024-11-22,Jason Stewart,East,New York,Technology,Laptops,"MacBook Pro 16""",4199.98,3,0.3,1039.4
+CA-2025-10997,2024-08-09,2024-08-11,Brian Phillips,East,New York,Office Supplies,Paper,Premium Heavyweight Cardstock,59.97,3,0.0,20.93
+CA-2025-10998,2025-10-13,2025-10-14,James Wilson,South,Florida,Technology,Smartphones,iPhone 15 Pro,3199.97,4,0.2,995.65
+CA-2025-10999,2025-08-09,2025-08-13,Donald Baker,West,Oregon,Office Supplies,Art & Writing,Gel Pen Set 12-Pack,10.49,1,0.3,1.79
+CA-2026-11000,2023-11-22,2023-11-26,Edward Carter,Central,Michigan,Office Supplies,Binders,"Presentation Binder 1""",3.84,1,0.3,0.35
+CA-2025-11001,2025-07-24,2025-07-25,Paul Hill,East,Connecticut,Technology,Monitors,"Dell UltraSharp 27""",699.99,2,0.3,89.9
+CA-2025-11002,2024-09-07,2024-09-08,Christopher Anderson,East,Pennsylvania,Office Supplies,Binders,"Heavy-Duty 3-Ring Binder 2""",6.29,1,0.3,0.86
+CA-2024-11003,2023-09-17,2023-09-21,William Clark,South,Georgia,Furniture,Bookcases,5-Shelf Wooden Bookcase,151.99,1,0.2,26.71
+CA-2025-11004,2025-06-06,2025-06-11,Laura Adams,South,Georgia,Furniture,Tables,Conference Table 8-ft,1119.99,2,0.3,156.31
+CA-2023-11005,2025-12-15,2025-12-19,Timothy Edwards,West,Arizona,Technology,Laptops,Dell XPS 15,4499.97,3,0.0,2040.32
+CA-2026-11006,2025-10-20,2025-10-21,David Brown,South,Virginia,Technology,Monitors,"Dell UltraSharp 27""",1199.98,4,0.4,26.2
+CA-2023-11007,2024-08-04,2024-08-08,Joseph Lewis,Central,Wisconsin,Office Supplies,Storage,Archive Storage Boxes 10-Pack,104.97,3,0.0,45.51
+CA-2024-11008,2025-08-23,2025-08-26,Kimberly Gonzalez,Central,Michigan,Office Supplies,Binders,"Presentation Binder 1""",32.94,6,0.0,14.95
+CA-2026-11009,2023-04-16,2023-04-20,Stephanie Martin,East,New Jersey,Technology,Laptops,Lenovo ThinkPad X1,4939.96,4,0.05,1658.54
+CA-2026-11010,2024-09-06,2024-09-07,Jason Turner,South,Tennessee,Technology,Laptops,Lenovo ThinkPad X1,3704.97,3,0.05,1461.73
+CA-2023-11011,2025-12-24,2025-12-27,Joseph Lewis,South,Tennessee,Furniture,Bookcases,3-Tier Industrial Metal Shelf,335.98,3,0.2,54.81
+CA-2024-11012,2023-10-25,2023-10-27,Christopher Anderson,East,Massachusetts,Technology,Accessories,Logitech MX Master 3S,59.99,1,0.4,-1.4
+CA-2026-11013,2024-09-05,2024-09-10,Donna Roberts,Central,Wisconsin,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,43.69,1,0.05,12.5
+CA-2023-11014,2025-12-26,2025-12-31,Ashley White,East,Pennsylvania,Office Supplies,Paper,Premium Heavyweight Cardstock,19.99,1,0.0,9.16
+CA-2026-11015,2024-11-27,2024-12-01,Anthony Walker,Central,Wisconsin,Technology,Smartphones,OnePlus 12,1279.98,2,0.2,267.19
+CA-2025-11016,2024-08-19,2024-08-24,Anthony Walker,West,Nevada,Technology,Smartphones,Google Pixel 8,2239.97,4,0.2,532.9
+CA-2026-11017,2025-06-09,2025-06-12,Michelle Evans,West,Nevada,Office Supplies,Storage,Plastic Storage Tote 10 Gal,13.59,1,0.15,3.09
+CA-2025-11018,2025-06-30,2025-07-02,Jason Turner,East,New Jersey,Office Supplies,Binders,"Zipper Binder 3""",237.4,10,0.05,89.78
+CA-2024-11019,2023-03-21,2023-03-24,Rachel Hall,West,Oregon,Office Supplies,Paper,Recycled Printer Paper,26.08,2,0.1,8.04
+CA-2026-11020,2023-08-12,2023-08-15,Megan Rodriguez,West,Nevada,Technology,Monitors,Samsung Odyssey G7,1259.98,3,0.3,273.95
+CA-2023-11021,2023-07-28,2023-07-29,Jason Turner,East,Pennsylvania,Technology,Laptops,HP Spectre x360,5999.95,5,0.0,2826.17
+CA-2023-11022,2024-08-21,2024-08-26,Megan Rodriguez,East,Connecticut,Furniture,Chairs,Gaming Chair High-Back,1062.46,5,0.15,232.95
+CA-2024-11023,2025-11-27,2025-12-02,Jason Stewart,Central,Wisconsin,Technology,Monitors,"LG UltraGear 34""",3499.95,5,0.0,1643.6
+CA-2024-11024,2025-07-01,2025-07-02,Stephanie Martin,South,Florida,Office Supplies,Binders,"Zipper Binder 3""",74.97,3,0.0,28.37
+CA-2023-11025,2024-08-18,2024-08-23,Charles Allen,West,Oregon,Office Supplies,Paper,Recycled Printer Paper,101.43,7,0.0,46.8
+CA-2023-11026,2024-04-01,2024-04-02,Stephanie Martin,Central,Wisconsin,Furniture,Chairs,Ergonomic Executive Mesh Chair,1139.96,4,0.05,393.5
+CA-2026-11027,2023-11-01,2023-11-03,Jennifer Lee,East,Pennsylvania,Office Supplies,Paper,Premium Heavyweight Cardstock,79.96,4,0.0,34.81
+CA-2025-11028,2024-11-17,2024-11-19,Megan Rodriguez,East,Pennsylvania,Office Supplies,Storage,Archive Storage Boxes 10-Pack,69.98,2,0.0,28.11
+CA-2025-11029,2024-09-22,2024-09-27,Paul Hill,East,New York,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,131.07,3,0.05,37.39
+CA-2026-11030,2024-09-20,2024-09-23,Nicole Garcia,Central,Wisconsin,Furniture,Bookcases,5-Shelf Wooden Bookcase,541.47,3,0.05,221.54
+CA-2026-11031,2024-06-29,2024-06-30,Kimberly Gonzalez,East,New Jersey,Technology,Monitors,Samsung Odyssey G7,959.98,2,0.2,209.6
+CA-2023-11032,2024-08-29,2024-08-30,Brian Phillips,Central,Texas,Technology,Monitors,"LG UltraGear 34""",1399.98,2,0.0,630.08
+CA-2025-11033,2024-08-13,2024-08-17,George Nelson,East,New York,Office Supplies,Art & Writing,Highlighter Pack,19.18,3,0.2,3.91
+CA-2026-11034,2025-09-18,2025-09-21,Jason Stewart,Central,Wisconsin,Office Supplies,Art & Writing,Highlighter Pack,15.98,2,0.0,5.19
+CA-2024-11035,2025-07-24,2025-07-29,Christopher Anderson,South,Virginia,Office Supplies,Art & Writing,Highlighter Pack,4.79,1,0.4,0.42
+CA-2025-11036,2025-11-06,2025-11-11,Robert Thompson,East,Pennsylvania,Furniture,Bookcases,5-Shelf Wooden Bookcase,1367.93,8,0.1,384.76
+CA-2024-11037,2025-08-22,2025-08-26,Patricia King,East,New Jersey,Technology,Smartphones,Samsung Galaxy S24,4859.95,6,0.1,1786.28
+CA-2024-11038,2024-06-02,2024-06-04,Linda Lopez,West,Washington,Technology,Accessories,Logitech MX Master 3S,169.98,2,0.15,62.79
+CA-2026-11039,2025-06-11,2025-06-15,Ronald Parker,South,Virginia,Furniture,Tables,"Adjustable Standing Desk 55""",765.0,2,0.15,187.12
+CA-2024-11040,2024-11-06,2024-11-09,Joseph Lewis,South,Tennessee,Office Supplies,Paper,Premium Heavyweight Cardstock,39.98,2,0.0,17.77
+CA-2024-11041,2025-07-28,2025-07-31,Samantha Young,Central,Wisconsin,Technology,Monitors,"Dell UltraSharp 27""",1499.97,3,0.0,600.0
+CA-2023-11042,2024-05-05,2024-05-09,Jessica Taylor,Central,Michigan,Furniture,Tables,Conference Table 8-ft,719.99,1,0.1,254.48
+CA-2026-11043,2023-07-19,2023-07-23,Stephanie Martin,East,New Jersey,Furniture,Chairs,Gaming Chair High-Back,1062.46,5,0.15,275.28
+CA-2023-11044,2025-05-14,2025-05-18,Emily Johnson,East,Massachusetts,Technology,Monitors,Samsung Odyssey G7,839.99,2,0.3,90.47
+CA-2026-11045,2024-11-24,2024-11-25,Jennifer Lee,South,Georgia,Furniture,Chairs,Task Chair Armless,419.96,5,0.3,59.79
+CA-2026-11046,2025-06-19,2025-06-24,Samantha Young,West,Washington,Office Supplies,Art & Writing,Highlighter Pack,7.99,1,0.0,3.4
+CA-2025-11047,2024-04-19,2024-04-24,Jason Stewart,South,Virginia,Technology,Monitors,"LG UltraGear 34""",489.99,1,0.3,74.45
+CA-2023-11048,2025-11-09,2025-11-12,William Clark,South,Georgia,Furniture,Bookcases,5-Shelf Wooden Bookcase,569.97,3,0.0,246.84
+CA-2026-11049,2023-05-22,2023-05-25,Jennifer Lee,West,Nevada,Technology,Accessories,Logitech MX Master 3S,239.98,3,0.2,72.06
+CA-2023-11050,2025-02-19,2025-02-21,Jason Stewart,East,New Jersey,Office Supplies,Storage,Desktop File Organizer,174.72,8,0.05,52.04
+CA-2026-11051,2023-08-04,2023-08-07,Samantha Young,West,Washington,Furniture,Chairs,Gaming Chair High-Back,749.97,3,0.0,319.45
+CA-2025-11052,2024-11-24,2024-11-25,Stephanie Martin,Central,Texas,Office Supplies,Paper,Multipurpose Copy Paper 500 Sheets,35.07,3,0.1,10.97
+CA-2024-11053,2025-06-08,2025-06-09,Samantha Young,South,North Carolina,Office Supplies,Storage,Archive Storage Boxes 10-Pack,104.97,3,0.0,45.74
+CA-2023-11054,2025-04-10,2025-04-12,Michelle Evans,Central,Ohio,Technology,Monitors,"Dell UltraSharp 27""",399.99,1,0.2,87.42
+CA-2025-11055,2024-07-05,2024-07-10,Brian Phillips,Central,Texas,Technology,Smartphones,iPhone 15 Pro,3799.96,4,0.05,1679.2
+CA-2025-11056,2025-06-30,2025-07-05,Barbara Scott,South,Tennessee,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,71.94,6,0.0,30.58
+CA-2025-11057,2024-09-20,2024-09-24,Ashley White,South,Virginia,Technology,Smartphones,OnePlus 12,1599.98,2,0.0,598.85
+CA-2023-11058,2025-04-28,2025-05-03,Charles Allen,West,Washington,Furniture,Bookcases,3-Tier Industrial Metal Shelf,237.98,2,0.15,72.16
+CA-2026-11059,2023-07-03,2023-07-08,Kevin Perez,East,Connecticut,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,119.9,10,0.0,43.14
+CA-2025-11060,2025-03-07,2025-03-11,Elizabeth Robinson,South,Tennessee,Technology,Monitors,Samsung Odyssey G7,4199.93,7,0.0,1950.8
+CA-2024-11061,2024-05-05,2024-05-06,Helen Mitchell,Central,Illinois,Technology,Monitors,Samsung Odyssey G7,1139.98,2,0.05,435.7
+CA-2025-11062,2024-08-26,2024-08-29,Brian Phillips,West,Oregon,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,160.97,5,0.3,13.55
+CA-2025-11063,2025-09-11,2025-09-15,Daniel Harris,East,New Jersey,Office Supplies,Paper,Recycled Printer Paper,50.71,5,0.3,5.43
+CA-2023-11064,2024-10-22,2024-10-26,Steven Wright,South,North Carolina,Furniture,Chairs,Task Chair Armless,71.99,1,0.4,-9.58
+CA-2026-11065,2026-01-17,2026-01-20,Jason Turner,East,Pennsylvania,Furniture,Furnishings,Acoustic Desk Divider,67.99,1,0.15,26.1
+CA-2026-11066,2025-03-04,2025-03-06,Daniel Harris,South,Georgia,Furniture,Tables,"Adjustable Standing Desk 55""",855.0,2,0.05,340.53
+CA-2025-11067,2023-09-29,2023-09-30,Nicole Garcia,South,Virginia,Technology,Monitors,"Dell UltraSharp 27""",1399.97,4,0.3,199.93
+CA-2023-11068,2025-08-24,2025-08-27,Daniel Harris,East,New Jersey,Furniture,Chairs,Ergonomic Executive Mesh Chair,959.97,4,0.2,169.52
+CA-2026-11069,2025-10-13,2025-10-14,Steven Wright,Central,Wisconsin,Technology,Laptops,HP Spectre x360,2399.98,2,0.0,1039.49
+CA-2026-11070,2025-09-13,2025-09-14,Samantha Young,South,Tennessee,Furniture,Furnishings,Anti-Fatigue Floor Mat,159.96,4,0.0,73.04
+CA-2025-11071,2025-07-21,2025-07-26,Jeffrey Morris,West,Washington,Office Supplies,Art & Writing,Highlighter Pack,15.18,2,0.05,4.84
+CA-2024-11072,2024-07-03,2024-07-06,Carol Campbell,West,Arizona,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,156.37,4,0.15,52.02
+CA-2026-11073,2024-09-05,2024-09-09,Timothy Edwards,Central,Wisconsin,Office Supplies,Paper,Multipurpose Copy Paper 500 Sheets,11.69,1,0.1,4.88
+CA-2025-11074,2025-03-12,2025-03-15,Jennifer Lee,East,Connecticut,Furniture,Bookcases,3-Tier Industrial Metal Shelf,503.96,4,0.1,198.94
+CA-2024-11075,2024-02-13,2024-02-16,Thomas Hernandez,Central,Illinois,Technology,Smartphones,Google Pixel 8,699.99,1,0.0,306.94
+CA-2026-11076,2025-01-07,2025-01-09,Charles Allen,East,Connecticut,Furniture,Bookcases,Corner Bookshelf,139.99,2,0.3,15.25
+CA-2026-11077,2024-03-23,2024-03-27,Emily Johnson,West,Oregon,Technology,Accessories,Anker USB-C Hub,44.99,1,0.1,14.13
+CA-2023-11078,2025-05-10,2025-05-13,Laura Adams,South,Tennessee,Furniture,Chairs,Task Chair Armless,359.97,5,0.4,-38.22
+CA-2024-11079,2024-10-05,2024-10-06,Patricia King,West,Oregon,Furniture,Chairs,Gaming Chair High-Back,449.98,3,0.4,-41.59
+CA-2023-11080,2026-03-01,2026-03-02,Paul Hill,East,Pennsylvania,Office Supplies,Binders,"Zipper Binder 3""",166.18,7,0.05,68.83
+CA-2026-11081,2024-03-25,2024-03-30,Megan Rodriguez,Central,Texas,Furniture,Tables,Side Table Wooden,449.95,5,0.0,150.74
+CA-2024-11082,2025-02-10,2025-02-11,Nicole Garcia,East,Pennsylvania,Furniture,Furnishings,Anti-Fatigue Floor Mat,39.99,1,0.0,17.16
+CA-2023-11083,2024-04-18,2024-04-19,Paul Hill,West,Arizona,Technology,Laptops,Dell XPS 15,4049.97,3,0.1,1300.07
+CA-2026-11084,2025-10-12,2025-10-13,Jason Stewart,South,North Carolina,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,73.58,2,0.2,16.9
+CA-2026-11085,2025-04-28,2025-05-01,Donald Baker,South,Tennessee,Office Supplies,Storage,Desktop File Organizer,109.2,5,0.05,43.15
+CA-2025-11086,2025-04-24,2025-04-25,Jeffrey Morris,East,New Jersey,Technology,Accessories,Sony WH-1000XM5,799.98,2,0.0,375.6
+CA-2026-11087,2025-05-25,2025-05-26,Paul Hill,Central,Wisconsin,Technology,Smartphones,iPhone 15 Pro,3799.96,4,0.05,1523.37
+CA-2025-11088,2024-08-26,2024-08-31,Mark Green,West,Oregon,Furniture,Tables,Side Table Wooden,229.47,3,0.15,82.33
+CA-2026-11089,2025-08-10,2025-08-12,Jason Turner,East,Massachusetts,Furniture,Furnishings,Acoustic Desk Divider,191.98,3,0.2,37.26
+CA-2025-11090,2024-05-25,2024-05-28,Mark Green,Central,Ohio,Technology,Accessories,Apple AirPods Pro,849.97,4,0.15,258.04
+CA-2026-11091,2025-03-12,2025-03-16,Emily Johnson,South,Florida,Office Supplies,Storage,Archive Storage Boxes 10-Pack,122.47,5,0.3,10.02
+CA-2023-11092,2025-09-05,2025-09-07,Nicole Garcia,Central,Ohio,Office Supplies,Paper,Premium Heavyweight Cardstock,31.98,2,0.2,9.11
+CA-2024-11093,2025-08-19,2025-08-24,Donald Baker,South,Georgia,Technology,Laptops,Dell XPS 15,1049.99,1,0.3,44.04
+CA-2026-11094,2026-01-27,2026-01-28,Amy Rogers,South,Virginia,Technology,Accessories,Sony WH-1000XM5,399.99,1,0.0,151.06
+CA-2025-11095,2025-02-21,2025-02-25,Joseph Lewis,West,Arizona,Technology,Laptops,Lenovo ThinkPad X1,8319.94,8,0.2,1540.34
+CA-2024-11096,2025-03-30,2025-04-04,Robert Thompson,West,Arizona,Technology,Accessories,Apple AirPods Pro,674.97,3,0.1,202.24
+CA-2024-11097,2025-07-31,2025-08-01,Timothy Edwards,Central,Ohio,Office Supplies,Binders,"Heavy-Duty 3-Ring Binder 2""",17.08,2,0.05,6.4
+CA-2025-11098,2024-04-21,2024-04-24,William Clark,West,Washington,Technology,Monitors,"LG UltraGear 34""",979.99,2,0.3,73.23
+CA-2023-11099,2025-12-05,2025-12-10,Samantha Young,West,Nevada,Office Supplies,Paper,Recycled Printer Paper,61.58,5,0.15,14.75
+CA-2026-11100,2024-07-21,2024-07-24,Brian Phillips,West,California,Furniture,Chairs,Task Chair Armless,287.98,4,0.4,26.25
+CA-2023-11101,2025-03-19,2025-03-23,Jason Turner,East,New York,Furniture,Furnishings,Anti-Fatigue Floor Mat,79.98,2,0.0,30.07
+CA-2023-11102,2024-03-31,2024-04-05,Rachel Hall,South,Tennessee,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,82.78,2,0.1,34.86
+CA-2026-11103,2023-05-27,2023-05-29,Anthony Walker,South,North Carolina,Office Supplies,Binders,"Zipper Binder 3""",63.72,3,0.15,18.35
+CA-2024-11104,2025-07-29,2025-08-03,Charles Allen,East,Pennsylvania,Technology,Smartphones,Google Pixel 8,699.99,1,0.0,276.25
+CA-2023-11105,2025-08-05,2025-08-10,Charles Allen,West,Oregon,Office Supplies,Binders,"Zipper Binder 3""",22.49,1,0.1,8.84
+CA-2025-11106,2024-05-30,2024-06-01,Amy Rogers,Central,Texas,Technology,Monitors,"Dell UltraSharp 27""",1999.96,5,0.2,689.82
+CA-2024-11107,2024-10-20,2024-10-24,Paul Hill,South,North Carolina,Technology,Monitors,Samsung Odyssey G7,2999.95,5,0.0,974.75
+CA-2023-11108,2024-03-06,2024-03-08,Amanda Thomas,South,Tennessee,Office Supplies,Storage,Desktop File Organizer,22.99,1,0.0,8.09
+CA-2025-11109,2025-01-08,2025-01-13,Amanda Thomas,South,Florida,Technology,Monitors,"LG UltraGear 34""",1399.98,2,0.0,592.54
+CA-2025-11110,2025-09-20,2025-09-24,Carol Campbell,Central,Illinois,Furniture,Chairs,Task Chair Armless,287.98,3,0.2,50.35
+CA-2023-11111,2026-01-26,2026-01-29,Jason Stewart,Central,Texas,Technology,Smartphones,Samsung Galaxy S24,2699.97,3,0.0,1071.94
+CA-2024-11112,2025-06-09,2025-06-10,Sarah Davis,East,Massachusetts,Office Supplies,Art & Writing,Gel Pen Set 12-Pack,29.98,2,0.0,9.9
+CA-2024-11113,2025-07-09,2025-07-11,Samantha Young,West,Washington,Technology,Monitors,"Dell UltraSharp 27""",849.98,2,0.15,184.56
+CA-2025-11114,2025-04-21,2025-04-22,Michael Smith,Central,Texas,Office Supplies,Paper,Recycled Printer Paper,57.96,5,0.2,19.75
+CA-2026-11115,2025-07-24,2025-07-29,Daniel Harris,East,New York,Technology,Accessories,Anker USB-C Hub,49.99,1,0.0,23.1
+CA-2026-11116,2024-12-28,2025-01-01,George Nelson,South,North Carolina,Furniture,Chairs,Gaming Chair High-Back,449.98,2,0.1,179.73
+CA-2025-11117,2026-02-04,2026-02-05,Mark Green,South,Tennessee,Technology,Smartphones,Samsung Galaxy S24,2699.97,3,0.0,1198.55
+CA-2023-11118,2025-07-10,2025-07-14,Joseph Lewis,West,Washington,Technology,Accessories,Anker USB-C Hub,179.96,4,0.1,65.47
+CA-2026-11119,2025-05-22,2025-05-27,Kimberly Gonzalez,Central,Illinois,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,35.97,3,0.0,12.96
+CA-2026-11120,2025-04-28,2025-04-30,Stephanie Martin,West,Washington,Furniture,Chairs,Ergonomic Executive Mesh Chair,254.99,1,0.15,98.43
+CA-2026-11121,2025-01-12,2025-01-15,Robert Thompson,South,Virginia,Technology,Monitors,Samsung Odyssey G7,839.99,2,0.3,193.38
+CA-2025-11122,2025-05-14,2025-05-19,Rachel Hall,Central,Illinois,Office Supplies,Storage,Desktop File Organizer,64.37,4,0.3,6.79
+CA-2025-11123,2025-07-24,2025-07-27,James Wilson,Central,Michigan,Furniture,Chairs,Task Chair Armless,113.99,1,0.05,32.88
+CA-2023-11124,2024-01-06,2024-01-09,Matthew Jackson,Central,Ohio,Office Supplies,Art & Writing,Highlighter Pack,71.91,9,0.0,23.4
+CA-2024-11125,2024-11-04,2024-11-09,Robert Thompson,East,Pennsylvania,Technology,Smartphones,Google Pixel 8,2099.97,3,0.0,818.86
+CA-2023-11126,2025-08-21,2025-08-24,George Nelson,East,Connecticut,Technology,Accessories,Anker USB-C Hub,49.99,1,0.0,18.92
+CA-2024-11127,2025-09-26,2025-09-28,George Nelson,South,North Carolina,Office Supplies,Paper,Premium Heavyweight Cardstock,23.99,2,0.4,-3.02
+CA-2026-11128,2024-12-31,2025-01-02,Jason Stewart,Central,Texas,Technology,Accessories,Apple AirPods Pro,249.99,1,0.0,117.63
+CA-2026-11129,2024-02-04,2024-02-08,Daniel Harris,East,New Jersey,Technology,Monitors,"LG UltraGear 34""",1994.97,3,0.05,622.66
+CA-2023-11130,2024-05-22,2024-05-25,Matthew Jackson,South,Florida,Furniture,Tables,"Adjustable Standing Desk 55""",810.0,2,0.1,232.48
+CA-2023-11131,2025-05-01,2025-05-06,Jennifer Lee,West,Nevada,Office Supplies,Binders,"Zipper Binder 3""",49.98,2,0.0,19.66
+CA-2026-11132,2024-02-23,2024-02-26,Megan Rodriguez,West,Arizona,Office Supplies,Paper,Recycled Printer Paper,28.98,2,0.0,9.85
+CA-2026-11133,2025-07-21,2025-07-23,Kimberly Gonzalez,West,California,Furniture,Bookcases,5-Shelf Wooden Bookcase,664.97,5,0.3,43.82
+CA-2026-11134,2024-11-24,2024-11-25,Amy Rogers,Central,Ohio,Office Supplies,Storage,Desktop File Organizer,62.07,3,0.1,15.36
+CA-2023-11135,2023-05-02,2023-05-06,Elizabeth Robinson,South,North Carolina,Furniture,Furnishings,Acoustic Desk Divider,111.99,2,0.3,14.45
+CA-2026-11136,2025-04-11,2025-04-15,David Brown,West,Nevada,Furniture,Chairs,Task Chair Armless,113.99,1,0.05,44.67
+CA-2026-11137,2025-09-02,2025-09-03,Charles Allen,South,Virginia,Furniture,Chairs,Gaming Chair High-Back,999.96,5,0.2,216.18
+CA-2023-11138,2024-05-11,2024-05-13,Michael Smith,Central,Texas,Office Supplies,Art & Writing,Gel Pen Set 12-Pack,53.96,4,0.1,19.34
+CA-2025-11139,2024-09-25,2024-09-27,Megan Rodriguez,South,Florida,Office Supplies,Art & Writing,Highlighter Pack,71.91,10,0.1,20.54
+CA-2024-11140,2024-05-03,2024-05-08,Carol Campbell,Central,Michigan,Office Supplies,Binders,"Presentation Binder 1""",23.33,5,0.15,7.51
+CA-2024-11141,2024-08-23,2024-08-26,Christopher Anderson,West,Arizona,Office Supplies,Art & Writing,Highlighter Pack,6.39,1,0.2,1.98
+CA-2026-11142,2024-09-24,2024-09-28,Samantha Young,East,Pennsylvania,Office Supplies,Paper,Multipurpose Copy Paper 500 Sheets,11.69,1,0.1,3.05
+CA-2025-11143,2025-07-20,2025-07-25,Stephanie Martin,South,Tennessee,Furniture,Chairs,Ergonomic Executive Mesh Chair,239.99,1,0.2,43.09
+CA-2024-11144,2025-06-22,2025-06-27,Charles Allen,South,North Carolina,Office Supplies,Paper,Recycled Printer Paper,65.2,5,0.1,20.42
+CA-2023-11145,2024-08-30,2024-09-01,Paul Hill,West,Washington,Furniture,Tables,Side Table Wooden,899.9,10,0.0,360.75
+CA-2024-11146,2024-06-12,2024-06-14,Paul Hill,East,Pennsylvania,Technology,Accessories,Anker USB-C Hub,279.94,8,0.3,18.36
+CA-2026-11147,2025-03-07,2025-03-12,Robert Thompson,South,North Carolina,Furniture,Furnishings,Acoustic Desk Divider,191.98,3,0.2,38.52
+CA-2025-11148,2025-08-24,2025-08-27,Linda Lopez,Central,Ohio,Technology,Accessories,Apple AirPods Pro,249.99,1,0.0,107.13
+CA-2024-11149,2025-08-17,2025-08-22,Matthew Jackson,West,Nevada,Furniture,Furnishings,Acoustic Desk Divider,151.98,2,0.05,50.36
+CA-2024-11150,2024-12-29,2025-01-03,Sarah Davis,South,Tennessee,Office Supplies,Art & Writing,Highlighter Pack,15.98,2,0.0,7.61
+CA-2026-11151,2025-03-09,2025-03-10,Charles Allen,South,North Carolina,Technology,Accessories,Logitech MX Master 3S,629.94,7,0.1,202.17
+CA-2023-11152,2025-06-20,2025-06-24,Linda Lopez,East,New Jersey,Technology,Monitors,"LG UltraGear 34""",1889.97,3,0.1,686.93
+CA-2026-11153,2024-02-10,2024-02-15,Michelle Evans,Central,Texas,Furniture,Chairs,Task Chair Armless,479.96,4,0.0,170.89
+CA-2023-11154,2025-04-16,2025-04-21,Steven Wright,East,Pennsylvania,Technology,Smartphones,Samsung Galaxy S24,629.99,1,0.3,57.07
+CA-2025-11155,2023-11-15,2023-11-19,Helen Mitchell,South,Virginia,Office Supplies,Art & Writing,Gel Pen Set 12-Pack,74.95,5,0.0,34.83
+CA-2025-11156,2024-03-25,2024-03-29,William Clark,South,Florida,Technology,Accessories,Sony WH-1000XM5,339.99,1,0.15,68.92
+CA-2023-11157,2024-09-14,2024-09-15,Kimberly Gonzalez,Central,Texas,Furniture,Chairs,Task Chair Armless,101.99,1,0.15,37.76
+CA-2023-11158,2026-02-16,2026-02-21,Emily Johnson,West,Oregon,Office Supplies,Storage,Plastic Storage Tote 10 Gal,67.96,5,0.15,15.39
+CA-2024-11159,2024-04-08,2024-04-13,Laura Adams,East,Connecticut,Technology,Accessories,Logitech MX Master 3S,499.95,5,0.0,192.0
+CA-2024-11160,2025-11-11,2025-11-13,Donald Baker,East,New Jersey,Technology,Laptops,"MacBook Pro 16""",8999.96,5,0.1,2303.94
+CA-2023-11161,2024-09-22,2024-09-24,Kevin Perez,East,New York,Office Supplies,Binders,"Zipper Binder 3""",21.24,1,0.15,4.5
+CA-2026-11162,2025-08-09,2025-08-10,Ronald Parker,West,Oregon,Technology,Accessories,Anker USB-C Hub,34.99,1,0.3,7.49
+CA-2026-11163,2023-08-06,2023-08-07,Mark Green,West,Nevada,Technology,Accessories,Sony WH-1000XM5,1519.96,4,0.05,615.65
+CA-2024-11164,2024-12-15,2024-12-17,Joseph Lewis,South,Virginia,Office Supplies,Art & Writing,Gel Pen Set 12-Pack,20.99,2,0.3,4.9
+CA-2026-11165,2025-04-13,2025-04-16,Laura Adams,Central,Texas,Furniture,Chairs,Ergonomic Executive Mesh Chair,1889.94,7,0.1,498.24
+CA-2024-11166,2025-05-04,2025-05-05,George Nelson,West,California,Office Supplies,Art & Writing,Gel Pen Set 12-Pack,17.99,2,0.4,2.15
+CA-2026-11167,2025-07-07,2025-07-12,Stephanie Martin,Central,Texas,Technology,Laptops,HP Spectre x360,7979.93,7,0.05,2654.49
+CA-2023-11168,2025-06-21,2025-06-25,Nicole Garcia,West,California,Office Supplies,Binders,"Zipper Binder 3""",22.49,1,0.1,9.48
+CA-2024-11169,2025-05-17,2025-05-20,Stephanie Martin,South,North Carolina,Office Supplies,Art & Writing,Gel Pen Set 12-Pack,14.24,1,0.05,4.95
+CA-2025-11170,2025-11-01,2025-11-05,Michelle Evans,Central,Illinois,Furniture,Bookcases,3-Tier Industrial Metal Shelf,335.98,3,0.2,62.26
+CA-2026-11171,2024-07-16,2024-07-18,Amy Rogers,South,Georgia,Furniture,Chairs,Task Chair Armless,359.97,3,0.0,132.7
+CA-2026-11172,2024-01-19,2024-01-21,James Wilson,West,California,Technology,Monitors,"Dell UltraSharp 27""",424.99,1,0.15,151.61
+CA-2025-11173,2026-02-02,2026-02-06,Joseph Lewis,Central,Ohio,Furniture,Bookcases,5-Shelf Wooden Bookcase,607.97,4,0.2,112.73
+CA-2024-11174,2026-01-25,2026-01-30,Laura Adams,East,Pennsylvania,Furniture,Chairs,Gaming Chair High-Back,499.98,2,0.0,221.7
+CA-2026-11175,2024-04-03,2024-04-04,Elizabeth Robinson,South,Tennessee,Office Supplies,Art & Writing,Highlighter Pack,7.99,1,0.0,2.99
+CA-2024-11176,2025-07-28,2025-07-31,David Brown,West,Washington,Office Supplies,Storage,Plastic Storage Tote 10 Gal,30.38,2,0.05,9.14
+CA-2023-11177,2024-10-29,2024-10-31,Joseph Lewis,West,Washington,Technology,Smartphones,Google Pixel 8,1469.98,3,0.3,369.49
+CA-2026-11178,2023-10-09,2023-10-11,Donna Roberts,Central,Wisconsin,Technology,Smartphones,Google Pixel 8,699.99,1,0.0,290.08
+CA-2023-11179,2025-04-19,2025-04-21,Jason Stewart,Central,Ohio,Technology,Smartphones,iPhone 15 Pro,2999.97,3,0.0,1257.01
+CA-2023-11180,2025-09-01,2025-09-06,Amanda Thomas,East,New York,Furniture,Chairs,Ergonomic Executive Mesh Chair,629.98,3,0.3,27.04
+CA-2026-11181,2024-07-21,2024-07-26,Thomas Hernandez,South,North Carolina,Furniture,Furnishings,Acoustic Desk Divider,111.99,2,0.3,16.54
+CA-2024-11182,2024-12-20,2024-12-23,Brian Martinez,East,Massachusetts,Furniture,Tables,Conference Table 8-ft,7999.9,10,0.0,3368.82
+CA-2023-11183,2024-12-02,2024-12-05,Ashley White,West,Arizona,Office Supplies,Binders,"Presentation Binder 1""",4.67,1,0.15,1.63
+CA-2026-11184,2024-11-23,2024-11-27,Barbara Scott,South,Virginia,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,19.18,2,0.2,6.2
+CA-2024-11185,2024-06-13,2024-06-15,Helen Mitchell,East,Connecticut,Office Supplies,Art & Writing,Highlighter Pack,31.96,5,0.2,8.79
+CA-2025-11186,2024-05-08,2024-05-10,Mark Green,West,Nevada,Furniture,Furnishings,Anti-Fatigue Floor Mat,191.95,6,0.2,65.23
+CA-2024-11187,2024-09-12,2024-09-14,Ronald Parker,South,Tennessee,Office Supplies,Binders,"Presentation Binder 1""",5.22,1,0.05,2.03
+CA-2024-11188,2024-07-12,2024-07-17,Amy Rogers,East,New Jersey,Furniture,Tables,"Adjustable Standing Desk 55""",630.0,2,0.3,126.62
+CA-2024-11189,2025-07-24,2025-07-28,Anthony Walker,West,California,Technology,Laptops,"MacBook Pro 16""",1999.99,1,0.0,853.91
+CA-2023-11190,2024-08-20,2024-08-23,Robert Thompson,East,Pennsylvania,Office Supplies,Paper,Premium Heavyweight Cardstock,50.97,3,0.15,14.19
+CA-2026-11191,2025-01-05,2025-01-07,Joseph Lewis,Central,Texas,Furniture,Tables,"Adjustable Standing Desk 55""",450.0,1,0.0,177.67
+CA-2026-11192,2024-02-29,2024-03-05,Brian Phillips,South,Georgia,Furniture,Tables,"Adjustable Standing Desk 55""",1350.0,3,0.0,451.62
+CA-2023-11193,2025-07-19,2025-07-21,Thomas Hernandez,South,Virginia,Office Supplies,Binders,"Heavy-Duty 3-Ring Binder 2""",22.92,3,0.15,4.88
+CA-2024-11194,2024-12-15,2024-12-16,Laura Adams,Central,Ohio,Technology,Accessories,Logitech MX Master 3S,89.99,1,0.1,27.16
+CA-2024-11195,2023-12-22,2023-12-24,Brian Phillips,Central,Ohio,Furniture,Chairs,Gaming Chair High-Back,524.98,3,0.3,133.08
+CA-2026-11196,2026-04-27,2026-04-30,William Clark,East,Connecticut,Office Supplies,Paper,Premium Heavyweight Cardstock,39.98,2,0.0,18.86
+CA-2024-11197,2025-06-12,2025-06-15,Paul Hill,South,Georgia,Technology,Accessories,Sony WH-1000XM5,1019.97,3,0.15,290.14
+CA-2024-11198,2025-10-22,2025-10-27,Emily Johnson,West,Oregon,Office Supplies,Binders,"Presentation Binder 1""",10.98,2,0.0,4.05
+CA-2025-11199,2025-06-10,2025-06-13,Samantha Young,South,Virginia,Furniture,Bookcases,5-Shelf Wooden Bookcase,1196.94,7,0.1,387.84
+CA-2026-11200,2024-07-20,2024-07-21,Paul Hill,West,Oregon,Furniture,Chairs,Ergonomic Executive Mesh Chair,1499.95,5,0.0,661.67
+CA-2024-11201,2024-10-14,2024-10-16,Helen Mitchell,East,New York,Technology,Laptops,"MacBook Pro 16""",6799.97,4,0.15,1526.19
+CA-2023-11202,2024-02-26,2024-03-01,Brian Phillips,Central,Texas,Furniture,Chairs,Ergonomic Executive Mesh Chair,1139.96,4,0.05,339.73
+CA-2023-11203,2024-04-04,2024-04-05,Emily Johnson,South,North Carolina,Technology,Laptops,"MacBook Pro 16""",2399.99,2,0.4,196.71
+CA-2024-11204,2025-06-17,2025-06-21,Donna Roberts,East,New Jersey,Office Supplies,Paper,Premium Heavyweight Cardstock,19.99,1,0.0,9.34
+CA-2024-11205,2024-07-01,2024-07-06,Helen Mitchell,East,New York,Furniture,Chairs,Ergonomic Executive Mesh Chair,254.99,1,0.15,62.69
+CA-2024-11206,2024-03-06,2024-03-11,Joseph Lewis,South,Tennessee,Furniture,Bookcases,5-Shelf Wooden Bookcase,322.98,2,0.15,80.68
+CA-2023-11207,2025-05-13,2025-05-16,Joseph Lewis,East,New York,Technology,Laptops,HP Spectre x360,2399.98,2,0.0,913.97
+CA-2026-11208,2023-10-29,2023-11-02,Emily Johnson,West,Oregon,Furniture,Bookcases,Corner Bookshelf,299.97,3,0.0,116.67
+CA-2025-11209,2024-12-17,2024-12-21,Samantha Young,South,Georgia,Office Supplies,Storage,Archive Storage Boxes 10-Pack,332.41,10,0.05,137.69
+CA-2024-11210,2023-08-09,2023-08-12,Steven Wright,South,Virginia,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,41.96,5,0.3,6.45
+CA-2024-11211,2025-07-07,2025-07-11,Steven Wright,West,Washington,Office Supplies,Art & Writing,Highlighter Pack,6.79,1,0.15,2.62
+CA-2024-11212,2024-02-19,2024-02-21,Nicole Garcia,West,California,Office Supplies,Art & Writing,Gel Pen Set 12-Pack,28.48,2,0.05,12.79
+CA-2026-11213,2024-02-29,2024-03-05,Megan Rodriguez,East,Pennsylvania,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,23.98,2,0.0,9.64
+CA-2023-11214,2024-09-26,2024-09-27,James Wilson,Central,Michigan,Furniture,Bookcases,5-Shelf Wooden Bookcase,132.99,1,0.3,9.77
+CA-2026-11215,2025-01-17,2025-01-20,Brian Phillips,East,Massachusetts,Furniture,Bookcases,Corner Bookshelf,299.97,3,0.0,115.23
+CA-2025-11216,2024-09-15,2024-09-18,Timothy Edwards,East,Massachusetts,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,39.09,1,0.15,12.11
+CA-2024-11217,2026-01-16,2026-01-18,Anthony Walker,South,Georgia,Furniture,Bookcases,Corner Bookshelf,379.96,4,0.05,114.27
+CA-2025-11218,2025-08-07,2025-08-12,Brian Martinez,East,Pennsylvania,Office Supplies,Art & Writing,Gel Pen Set 12-Pack,29.98,2,0.0,12.55
+CA-2024-11219,2025-04-23,2025-04-24,Kimberly Gonzalez,South,Virginia,Furniture,Bookcases,5-Shelf Wooden Bookcase,360.98,2,0.05,115.28
+CA-2025-11220,2025-06-19,2025-06-22,Amy Rogers,West,Arizona,Technology,Smartphones,iPhone 15 Pro,1399.99,2,0.3,180.2
+CA-2025-11221,2026-02-04,2026-02-08,Anthony Walker,East,Pennsylvania,Furniture,Chairs,Gaming Chair High-Back,949.96,4,0.05,346.22
+CA-2025-11222,2024-06-15,2024-06-19,Linda Lopez,West,Oregon,Office Supplies,Binders,"Heavy-Duty 3-Ring Binder 2""",17.98,2,0.0,6.76
+CA-2026-11223,2023-10-27,2023-10-31,Amy Rogers,East,New Jersey,Furniture,Furnishings,Acoustic Desk Divider,55.99,1,0.3,4.69
+CA-2023-11224,2026-01-05,2026-01-09,Megan Rodriguez,East,Connecticut,Office Supplies,Storage,Plastic Storage Tote 10 Gal,40.77,3,0.15,8.49
+CA-2023-11225,2023-09-02,2023-09-05,Edward Carter,South,Georgia,Technology,Accessories,Sony WH-1000XM5,959.98,3,0.2,211.9
+CA-2026-11226,2024-03-26,2024-03-31,Jeffrey Morris,West,Oregon,Office Supplies,Paper,Recycled Printer Paper,14.49,1,0.0,5.8
+CA-2023-11227,2024-02-04,2024-02-05,Kimberly Gonzalez,East,Pennsylvania,Technology,Accessories,Apple AirPods Pro,399.98,2,0.2,112.51
+CA-2023-11228,2025-01-19,2025-01-24,Sarah Davis,South,Virginia,Furniture,Tables,Side Table Wooden,427.45,5,0.05,161.19
+CA-2023-11229,2025-07-24,2025-07-27,Brian Martinez,East,New York,Furniture,Chairs,Ergonomic Executive Mesh Chair,854.97,3,0.05,318.06
+CA-2023-11230,2024-05-14,2024-05-16,Ashley White,East,Connecticut,Office Supplies,Storage,Desktop File Organizer,73.57,4,0.2,25.47
+CA-2025-11231,2025-01-19,2025-01-23,Edward Carter,West,California,Technology,Laptops,Dell XPS 15,1049.99,1,0.3,268.28
+CA-2023-11232,2025-03-25,2025-03-28,Donald Baker,East,New Jersey,Technology,Smartphones,iPhone 15 Pro,5399.95,6,0.1,2024.96
+CA-2025-11233,2025-02-02,2025-02-04,Robert Thompson,Central,Ohio,Technology,Accessories,Apple AirPods Pro,449.98,2,0.1,153.86
+CA-2026-11234,2025-04-09,2025-04-14,Amy Rogers,South,North Carolina,Technology,Laptops,"MacBook Pro 16""",3999.98,2,0.0,1444.59
+CA-2024-11235,2024-04-22,2024-04-27,Sarah Sanchez,Central,Illinois,Furniture,Bookcases,3-Tier Industrial Metal Shelf,265.98,2,0.05,95.0
+CA-2025-11236,2024-05-12,2024-05-13,Jennifer Lee,West,Washington,Technology,Accessories,Anker USB-C Hub,79.98,2,0.2,16.47
+CA-2026-11237,2026-04-03,2026-04-08,Jeffrey Morris,East,New Jersey,Office Supplies,Storage,Archive Storage Boxes 10-Pack,166.2,5,0.05,73.05
+CA-2023-11238,2025-11-04,2025-11-05,Jason Turner,West,California,Office Supplies,Paper,Premium Heavyweight Cardstock,39.98,2,0.0,18.57
+CA-2025-11239,2024-05-10,2024-05-12,Linda Lopez,Central,Texas,Office Supplies,Art & Writing,Highlighter Pack,7.99,1,0.0,2.69
+CA-2025-11240,2024-02-07,2024-02-11,Nicole Garcia,West,California,Office Supplies,Binders,"Heavy-Duty 3-Ring Binder 2""",8.54,1,0.05,3.21
+CA-2025-11241,2024-07-08,2024-07-13,Mark Green,West,Washington,Technology,Laptops,HP Spectre x360,3599.97,3,0.0,1706.58
+CA-2026-11242,2025-09-15,2025-09-19,Stephanie Martin,West,Nevada,Technology,Laptops,Lenovo ThinkPad X1,3639.97,4,0.3,767.35
+CA-2025-11243,2023-06-16,2023-06-19,Robert Thompson,East,New Jersey,Technology,Laptops,HP Spectre x360,2519.98,3,0.3,191.83
+CA-2023-11244,2024-07-25,2024-07-26,Donna Roberts,Central,Michigan,Office Supplies,Binders,"Presentation Binder 1""",14.0,3,0.15,3.52
+CA-2024-11245,2024-08-27,2024-08-30,Steven Wright,East,Connecticut,Office Supplies,Storage,Desktop File Organizer,186.22,9,0.1,73.74
+CA-2026-11246,2025-05-27,2025-05-31,Samantha Young,South,Florida,Furniture,Bookcases,5-Shelf Wooden Bookcase,322.98,2,0.15,86.15
+CA-2026-11247,2025-07-18,2025-07-20,David Brown,Central,Wisconsin,Furniture,Tables,Side Table Wooden,179.98,2,0.0,61.88
+CA-2024-11248,2026-03-16,2026-03-18,Timothy Edwards,South,Florida,Office Supplies,Paper,Recycled Printer Paper,26.08,3,0.4,2.75
+CA-2023-11249,2024-06-22,2024-06-27,Ronald Parker,East,Pennsylvania,Furniture,Bookcases,3-Tier Industrial Metal Shelf,118.99,1,0.15,33.91
+CA-2026-11250,2025-02-11,2025-02-15,Brian Martinez,Central,Michigan,Furniture,Chairs,Ergonomic Executive Mesh Chair,629.98,3,0.3,139.58
+CA-2024-11251,2025-06-22,2025-06-27,Christopher Anderson,South,North Carolina,Technology,Accessories,Anker USB-C Hub,179.96,4,0.1,49.58
+CA-2023-11252,2026-01-27,2026-01-29,Michael Smith,West,California,Office Supplies,Paper,Multipurpose Copy Paper 500 Sheets,12.99,1,0.0,6.1
+CA-2026-11253,2026-01-26,2026-01-30,Charles Allen,South,Florida,Furniture,Bookcases,3-Tier Industrial Metal Shelf,265.98,2,0.05,106.78
+CA-2026-11254,2025-04-30,2025-05-05,David Brown,South,Florida,Office Supplies,Storage,Desktop File Organizer,16.09,1,0.3,0.97
+CA-2026-11255,2025-07-17,2025-07-18,Linda Lopez,Central,Michigan,Technology,Monitors,"Dell UltraSharp 27""",3999.92,8,0.0,1616.05
+CA-2023-11256,2023-11-04,2023-11-05,Barbara Scott,South,Georgia,Technology,Monitors,"Dell UltraSharp 27""",599.99,2,0.4,-44.34
+CA-2026-11257,2024-05-11,2024-05-15,Christopher Anderson,West,Washington,Furniture,Chairs,Task Chair Armless,143.99,2,0.4,12.24
+CA-2025-11258,2025-06-10,2025-06-14,George Nelson,West,Oregon,Furniture,Chairs,Task Chair Armless,359.97,3,0.0,120.82
+CA-2025-11259,2025-10-05,2025-10-06,Joseph Lewis,Central,Michigan,Technology,Smartphones,iPhone 15 Pro,699.99,1,0.3,140.15
+CA-2026-11260,2025-08-03,2025-08-05,Amy Rogers,South,Florida,Office Supplies,Binders,"Heavy-Duty 3-Ring Binder 2""",12.59,2,0.3,2.58
+CA-2026-11261,2025-08-28,2025-08-29,Christopher Anderson,East,Pennsylvania,Technology,Laptops,HP Spectre x360,1919.98,2,0.2,664.1
+CA-2025-11262,2025-04-30,2025-05-01,Steven Wright,South,Florida,Office Supplies,Art & Writing,Highlighter Pack,31.96,4,0.0,15.01
+CA-2025-11263,2025-10-28,2025-10-31,Mark Green,South,Tennessee,Technology,Smartphones,iPhone 15 Pro,999.99,1,0.0,388.73
+CA-2024-11264,2024-12-14,2024-12-19,Samantha Young,Central,Michigan,Technology,Smartphones,OnePlus 12,799.99,1,0.0,354.27
+CA-2024-11265,2024-08-08,2024-08-12,Emily Johnson,Central,Texas,Furniture,Chairs,Ergonomic Executive Mesh Chair,809.97,3,0.1,257.67
+CA-2023-11266,2024-08-10,2024-08-12,Anthony Walker,East,New Jersey,Technology,Smartphones,OnePlus 12,1519.98,2,0.05,662.63
+CA-2026-11267,2025-03-04,2025-03-09,James Wilson,East,Pennsylvania,Furniture,Tables,"Adjustable Standing Desk 55""",900.0,2,0.0,350.47
+CA-2024-11268,2025-04-25,2025-04-29,Brian Phillips,Central,Illinois,Office Supplies,Art & Writing,Gel Pen Set 12-Pack,59.96,4,0.0,20.43
+CA-2026-11269,2023-06-27,2023-06-30,Patricia King,South,Tennessee,Technology,Smartphones,OnePlus 12,1439.98,3,0.4,-149.28
+CA-2024-11270,2024-06-08,2024-06-13,Joseph Lewis,South,Florida,Office Supplies,Paper,Premium Heavyweight Cardstock,19.99,1,0.0,7.34
+CA-2024-11271,2025-07-31,2025-08-01,Samantha Young,Central,Michigan,Office Supplies,Art & Writing,Highlighter Pack,33.96,5,0.15,11.25
+CA-2025-11272,2025-12-13,2025-12-17,Donald Baker,South,Virginia,Furniture,Tables,Conference Table 8-ft,1119.99,2,0.3,38.35
+CA-2023-11273,2024-06-19,2024-06-22,Megan Rodriguez,Central,Wisconsin,Furniture,Tables,Conference Table 8-ft,4079.95,6,0.15,887.25
+CA-2024-11274,2024-09-22,2024-09-25,Robert Thompson,Central,Wisconsin,Furniture,Furnishings,Anti-Fatigue Floor Mat,63.98,2,0.2,13.82
+CA-2024-11275,2025-07-28,2025-07-30,Amy Rogers,Central,Illinois,Furniture,Bookcases,Corner Bookshelf,254.97,3,0.15,89.17
+CA-2026-11276,2025-03-25,2025-03-27,Amanda Thomas,Central,Illinois,Technology,Accessories,Anker USB-C Hub,209.96,6,0.3,35.99
+CA-2026-11277,2025-01-12,2025-01-15,Helen Mitchell,South,Tennessee,Office Supplies,Binders,"Presentation Binder 1""",14.82,3,0.1,5.93
+CA-2026-11278,2025-08-31,2025-09-04,Emily Johnson,West,Washington,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,50.36,7,0.4,-1.12
+CA-2025-11279,2025-02-02,2025-02-06,Robert Thompson,Central,Texas,Office Supplies,Art & Writing,Highlighter Pack,6.39,1,0.2,1.74
+CA-2023-11280,2024-02-04,2024-02-05,Samantha Young,West,California,Technology,Accessories,Logitech MX Master 3S,269.97,3,0.1,107.87
+CA-2023-11281,2025-12-21,2025-12-25,Nicole Garcia,West,Nevada,Technology,Laptops,"MacBook Pro 16""",3599.98,2,0.1,1338.11
+CA-2024-11282,2024-05-27,2024-06-01,Donna Roberts,Central,Wisconsin,Office Supplies,Binders,"Heavy-Duty 3-Ring Binder 2""",7.64,1,0.15,1.87
+CA-2024-11283,2025-08-25,2025-08-29,Nicole Garcia,West,Washington,Technology,Accessories,Sony WH-1000XM5,379.99,1,0.05,117.89
+CA-2024-11284,2024-06-09,2024-06-14,Daniel Harris,East,Pennsylvania,Office Supplies,Paper,Multipurpose Copy Paper 500 Sheets,11.69,1,0.1,4.03
+CA-2026-11285,2024-12-14,2024-12-16,Christopher Anderson,West,Arizona,Furniture,Furnishings,Anti-Fatigue Floor Mat,31.99,1,0.2,5.75
+CA-2026-11286,2023-06-11,2023-06-14,Nicole Garcia,South,Virginia,Furniture,Bookcases,3-Tier Industrial Metal Shelf,83.99,1,0.4,-2.59
+CA-2026-11287,2025-04-11,2025-04-14,Ashley White,West,Nevada,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,174.76,4,0.05,72.69
+CA-2025-11288,2024-11-10,2024-11-12,Laura Collins,Central,Illinois,Office Supplies,Art & Writing,Gel Pen Set 12-Pack,42.72,3,0.05,14.69
+CA-2023-11289,2024-12-18,2024-12-19,Thomas Hernandez,Central,Ohio,Office Supplies,Paper,Premium Heavyweight Cardstock,27.99,2,0.3,1.38
+CA-2023-11290,2024-12-07,2024-12-10,Brian Martinez,Central,Ohio,Office Supplies,Art & Writing,Gel Pen Set 12-Pack,8.99,1,0.4,-0.24
+CA-2024-11291,2025-09-28,2025-10-02,Samantha Young,West,Washington,Technology,Smartphones,iPhone 15 Pro,1799.98,3,0.4,215.96
+CA-2023-11292,2025-02-12,2025-02-15,Paul Hill,East,Massachusetts,Technology,Monitors,"LG UltraGear 34""",3499.95,5,0.0,1551.69
+CA-2025-11293,2024-03-11,2024-03-12,Brian Martinez,West,Nevada,Technology,Smartphones,Google Pixel 8,1679.98,3,0.2,287.31
+CA-2024-11294,2023-05-20,2023-05-22,Donna Roberts,West,California,Technology,Accessories,Anker USB-C Hub,104.98,3,0.3,13.72
+CA-2025-11295,2025-06-27,2025-06-29,George Nelson,East,Pennsylvania,Technology,Accessories,Anker USB-C Hub,119.98,4,0.4,-10.02
+CA-2023-11296,2024-10-31,2024-11-02,Sarah Davis,South,North Carolina,Technology,Smartphones,Google Pixel 8,1889.97,3,0.1,642.62
+CA-2026-11297,2024-03-22,2024-03-23,Laura Collins,East,Pennsylvania,Furniture,Chairs,Ergonomic Executive Mesh Chair,2699.91,9,0.0,1295.71
+CA-2026-11298,2025-02-15,2025-02-19,Michelle Evans,South,Tennessee,Furniture,Furnishings,Acoustic Desk Divider,95.99,2,0.4,3.74
+CA-2026-11299,2025-07-16,2025-07-21,Steven Wright,East,Connecticut,Office Supplies,Binders,"Heavy-Duty 3-Ring Binder 2""",7.64,1,0.15,1.75
+CA-2023-11300,2025-04-09,2025-04-13,Thomas Hernandez,South,Georgia,Office Supplies,Paper,Premium Heavyweight Cardstock,39.98,2,0.0,17.81
+CA-2024-11301,2024-12-17,2024-12-22,Jeffrey Morris,East,Massachusetts,Office Supplies,Binders,"Heavy-Duty 3-Ring Binder 2""",8.54,1,0.05,2.57
+CA-2025-11302,2025-01-14,2025-01-18,Laura Collins,South,Georgia,Technology,Monitors,"Dell UltraSharp 27""",999.98,2,0.0,440.73
+CA-2024-11303,2025-11-17,2025-11-18,Joseph Lewis,Central,Texas,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,57.55,6,0.2,19.24
+CA-2025-11304,2024-09-27,2024-10-02,Edward Carter,South,Florida,Office Supplies,Paper,Premium Heavyweight Cardstock,35.98,2,0.1,9.29
+CA-2024-11305,2023-04-23,2023-04-24,Ashley White,Central,Texas,Technology,Smartphones,Google Pixel 8,559.99,1,0.2,158.58
+CA-2026-11306,2024-09-20,2024-09-23,Joseph Lewis,Central,Texas,Furniture,Chairs,Gaming Chair High-Back,799.97,4,0.2,157.81
+CA-2023-11307,2025-05-21,2025-05-26,Jason Stewart,West,Washington,Office Supplies,Storage,Archive Storage Boxes 10-Pack,125.96,4,0.1,49.96
+CA-2024-11308,2023-11-22,2023-11-26,Megan Rodriguez,South,North Carolina,Technology,Laptops,Lenovo ThinkPad X1,1299.99,1,0.0,583.54
+CA-2024-11309,2024-11-20,2024-11-22,Linda Lopez,Central,Illinois,Technology,Laptops,Dell XPS 15,6749.95,5,0.1,1977.3
+CA-2023-11310,2024-05-14,2024-05-16,Michelle Evans,South,Florida,Technology,Monitors,"LG UltraGear 34""",1784.97,3,0.15,407.19
+CA-2025-11311,2025-03-21,2025-03-26,Sarah Sanchez,Central,Ohio,Furniture,Tables,Side Table Wooden,161.98,3,0.4,-7.89
+CA-2024-11312,2024-05-22,2024-05-23,Linda Lopez,South,Georgia,Office Supplies,Storage,Desktop File Organizer,147.14,8,0.2,49.99
+CA-2025-11313,2025-08-22,2025-08-25,Christopher Anderson,East,Connecticut,Technology,Smartphones,Samsung Galaxy S24,1799.98,2,0.0,597.29
+CA-2025-11314,2024-11-16,2024-11-20,Steven Wright,Central,Ohio,Technology,Smartphones,Samsung Galaxy S24,2699.97,3,0.0,961.2
+CA-2023-11315,2024-12-05,2024-12-09,Ashley White,South,Virginia,Technology,Accessories,Apple AirPods Pro,237.49,1,0.05,88.04
+CA-2026-11316,2025-12-24,2025-12-28,Kevin Perez,East,New Jersey,Office Supplies,Binders,"Presentation Binder 1""",5.49,1,0.0,2.34
+CA-2025-11317,2025-04-02,2025-04-03,Christopher Anderson,West,California,Furniture,Chairs,Ergonomic Executive Mesh Chair,629.98,3,0.3,32.89
+CA-2024-11318,2026-04-27,2026-04-28,Mark Green,East,New York,Technology,Accessories,Apple AirPods Pro,637.47,3,0.15,167.56
+CA-2023-11319,2023-08-03,2023-08-06,Rachel Hall,West,California,Furniture,Chairs,Ergonomic Executive Mesh Chair,854.97,3,0.05,273.3
+CA-2026-11320,2025-09-09,2025-09-13,Christopher Anderson,Central,Wisconsin,Office Supplies,Paper,Recycled Printer Paper,28.98,2,0.0,11.77
+CA-2025-11321,2024-02-28,2024-03-04,Christopher Anderson,South,Tennessee,Technology,Accessories,Logitech MX Master 3S,169.98,2,0.15,44.71
+CA-2026-11322,2025-08-29,2025-09-01,Donald Baker,Central,Ohio,Furniture,Furnishings,Anti-Fatigue Floor Mat,189.95,5,0.05,60.57
+CA-2025-11323,2025-05-21,2025-05-23,Elizabeth Robinson,South,North Carolina,Furniture,Tables,"Adjustable Standing Desk 55""",450.0,1,0.0,205.37
+CA-2026-11324,2024-01-15,2024-01-16,Joseph Lewis,Central,Ohio,Furniture,Tables,Side Table Wooden,143.98,2,0.2,46.86
+CA-2025-11325,2026-01-06,2026-01-08,Mark Green,West,Oregon,Technology,Monitors,"Dell UltraSharp 27""",999.98,2,0.0,474.97
+CA-2025-11326,2024-10-28,2024-11-01,Barbara Scott,South,Georgia,Office Supplies,Binders,"Presentation Binder 1""",17.57,4,0.2,3.84
+CA-2024-11327,2023-04-03,2023-04-05,William Clark,South,Florida,Office Supplies,Storage,Plastic Storage Tote 10 Gal,15.99,1,0.0,7.06
+CA-2026-11328,2026-02-05,2026-02-07,Jason Stewart,East,New Jersey,Technology,Laptops,Lenovo ThinkPad X1,4419.97,4,0.15,1435.46
+CA-2023-11329,2025-01-11,2025-01-16,Robert Thompson,East,Pennsylvania,Office Supplies,Storage,Archive Storage Boxes 10-Pack,41.99,2,0.4,-5.53
+CA-2024-11330,2024-12-05,2024-12-06,Barbara Scott,Central,Wisconsin,Office Supplies,Paper,Premium Heavyweight Cardstock,31.98,2,0.2,7.42
+CA-2023-11331,2025-01-05,2025-01-09,Barbara Scott,East,Massachusetts,Furniture,Tables,Conference Table 8-ft,1599.98,2,0.0,558.91
+CA-2025-11332,2024-11-01,2024-11-02,Kimberly Gonzalez,East,New York,Technology,Monitors,"Dell UltraSharp 27""",799.98,2,0.2,272.35
+CA-2023-11333,2025-08-23,2025-08-26,George Nelson,South,Florida,Furniture,Bookcases,Corner Bookshelf,209.98,3,0.3,6.53
+CA-2024-11334,2025-02-19,2025-02-24,Joseph Lewis,West,Washington,Office Supplies,Storage,Plastic Storage Tote 10 Gal,45.57,3,0.05,20.52
+CA-2026-11335,2023-10-29,2023-10-31,Mark Green,West,California,Technology,Accessories,Anker USB-C Hub,134.97,3,0.1,47.01
+CA-2026-11336,2024-04-27,2024-04-29,Samantha Young,West,Oregon,Office Supplies,Paper,Multipurpose Copy Paper 500 Sheets,116.91,9,0.0,40.16
+CA-2023-11337,2026-01-30,2026-01-31,Amy Rogers,Central,Illinois,Technology,Monitors,"LG UltraGear 34""",419.99,1,0.4,3.88
+CA-2023-11338,2025-01-10,2025-01-15,Megan Rodriguez,West,Oregon,Technology,Accessories,Anker USB-C Hub,94.98,2,0.05,34.27
+CA-2025-11339,2025-06-28,2025-07-03,Amy Rogers,West,California,Technology,Smartphones,Google Pixel 8,419.99,1,0.4,34.25
+CA-2025-11340,2023-07-04,2023-07-08,Jeffrey Morris,South,Florida,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,32.19,1,0.3,2.58
+CA-2023-11341,2026-03-14,2026-03-16,Ronald Parker,South,Tennessee,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,34.17,3,0.05,10.29
+CA-2023-11342,2024-12-19,2024-12-20,Helen Mitchell,Central,Texas,Furniture,Bookcases,Corner Bookshelf,199.98,2,0.0,64.97
+CA-2026-11343,2023-11-08,2023-11-09,Donna Roberts,West,Nevada,Technology,Monitors,"LG UltraGear 34""",1259.98,3,0.4,-75.9
+CA-2025-11344,2024-01-05,2024-01-06,Brian Phillips,Central,Illinois,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,11.99,1,0.0,5.65
+CA-2025-11345,2025-05-20,2025-05-22,Timothy Edwards,Central,Michigan,Technology,Accessories,Apple AirPods Pro,1249.95,5,0.0,404.96
+CA-2025-11346,2023-10-20,2023-10-23,Sarah Sanchez,Central,Michigan,Technology,Laptops,Lenovo ThinkPad X1,2599.98,2,0.0,886.28
+CA-2023-11347,2024-10-04,2024-10-05,William Clark,Central,Ohio,Technology,Smartphones,Samsung Galaxy S24,2699.97,3,0.0,1195.97
+CA-2025-11348,2024-08-18,2024-08-23,Jeffrey Morris,West,Nevada,Furniture,Bookcases,Corner Bookshelf,299.97,3,0.0,101.01
+CA-2023-11349,2024-08-19,2024-08-23,Jessica Taylor,Central,Ohio,Furniture,Chairs,Ergonomic Executive Mesh Chair,299.99,1,0.0,138.87
+CA-2026-11350,2023-08-09,2023-08-12,Patricia King,West,Oregon,Technology,Smartphones,iPhone 15 Pro,1999.98,2,0.0,752.48
+CA-2023-11351,2025-04-27,2025-04-28,Mark Green,East,Pennsylvania,Technology,Smartphones,OnePlus 12,479.99,1,0.4,-48.01
+CA-2024-11352,2025-01-19,2025-01-21,Sarah Davis,South,North Carolina,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,206.96,5,0.1,74.72
+CA-2026-11353,2026-03-08,2026-03-12,Kevin Perez,Central,Ohio,Technology,Laptops,HP Spectre x360,1679.99,2,0.3,431.44
+CA-2023-11354,2024-11-10,2024-11-12,Sarah Sanchez,Central,Illinois,Furniture,Tables,Side Table Wooden,256.47,3,0.05,110.36
+CA-2023-11355,2024-05-27,2024-05-29,Sarah Sanchez,West,California,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,331.13,8,0.1,83.33
+CA-2023-11356,2025-05-11,2025-05-12,Timothy Edwards,West,Arizona,Technology,Accessories,Anker USB-C Hub,99.98,2,0.0,36.4
+CA-2023-11357,2025-10-19,2025-10-22,Steven Wright,South,Tennessee,Furniture,Bookcases,3-Tier Industrial Metal Shelf,419.97,3,0.0,187.69
+CA-2025-11358,2024-04-07,2024-04-09,Laura Adams,South,Georgia,Office Supplies,Paper,Premium Heavyweight Cardstock,13.99,1,0.3,3.09
+CA-2023-11359,2025-07-14,2025-07-19,Joseph Lewis,East,New Jersey,Technology,Accessories,Anker USB-C Hub,99.98,2,0.0,41.17
+CA-2023-11360,2025-01-04,2025-01-09,James Wilson,South,Georgia,Office Supplies,Binders,"Presentation Binder 1""",4.94,1,0.1,1.35
+CA-2026-11361,2024-07-08,2024-07-12,Brian Martinez,South,North Carolina,Technology,Smartphones,OnePlus 12,959.99,2,0.4,-2.48
+CA-2024-11362,2023-12-20,2023-12-23,Kimberly Gonzalez,Central,Texas,Office Supplies,Storage,Archive Storage Boxes 10-Pack,69.98,2,0.0,27.24
+CA-2023-11363,2024-06-08,2024-06-11,William Clark,East,Connecticut,Furniture,Tables,Side Table Wooden,107.99,2,0.4,14.3
+CA-2023-11364,2024-09-02,2024-09-07,Steven Wright,Central,Texas,Office Supplies,Binders,"Heavy-Duty 3-Ring Binder 2""",8.09,1,0.1,2.38
+CA-2026-11365,2024-06-19,2024-06-22,Kevin Perez,East,New Jersey,Furniture,Bookcases,5-Shelf Wooden Bookcase,360.98,2,0.05,109.27
+CA-2025-11366,2023-08-17,2023-08-20,Charles Allen,South,North Carolina,Furniture,Bookcases,3-Tier Industrial Metal Shelf,83.99,1,0.4,10.83
+CA-2023-11367,2023-12-09,2023-12-11,Brian Martinez,South,Florida,Technology,Monitors,"LG UltraGear 34""",2099.97,3,0.0,973.51
+CA-2026-11368,2025-06-24,2025-06-26,Sarah Sanchez,East,Pennsylvania,Office Supplies,Paper,Multipurpose Copy Paper 500 Sheets,20.78,2,0.2,6.77
+CA-2025-11369,2025-05-06,2025-05-10,Nicole Garcia,West,Oregon,Technology,Laptops,"MacBook Pro 16""",5999.97,5,0.4,-394.27
+CA-2024-11370,2023-08-13,2023-08-16,George Nelson,East,New York,Office Supplies,Binders,"Presentation Binder 1""",32.94,6,0.0,15.34
+CA-2024-11371,2025-12-20,2025-12-23,Emily Johnson,South,Georgia,Office Supplies,Art & Writing,Highlighter Pack,23.97,3,0.0,8.67
+CA-2023-11372,2025-05-22,2025-05-24,Stephanie Martin,East,Pennsylvania,Furniture,Chairs,Task Chair Armless,113.99,1,0.05,47.8
+CA-2025-11373,2024-12-25,2024-12-29,Brian Martinez,East,New York,Technology,Smartphones,Google Pixel 8,1889.97,3,0.1,517.51
+CA-2026-11374,2024-02-23,2024-02-24,Daniel Harris,South,Virginia,Technology,Smartphones,Google Pixel 8,699.99,1,0.0,259.34
+CA-2026-11375,2023-12-18,2023-12-20,Nicole Garcia,West,Washington,Office Supplies,Paper,Premium Heavyweight Cardstock,19.99,1,0.0,8.74
+CA-2025-11376,2025-11-06,2025-11-08,Donna Roberts,East,New Jersey,Office Supplies,Binders,"Zipper Binder 3""",87.46,5,0.3,16.9
+CA-2025-11377,2025-04-11,2025-04-12,Robert Thompson,South,Georgia,Office Supplies,Art & Writing,Gel Pen Set 12-Pack,74.95,5,0.0,26.42
+CA-2024-11378,2025-11-21,2025-11-23,Sarah Sanchez,West,Nevada,Office Supplies,Art & Writing,Highlighter Pack,23.97,3,0.0,11.3
+CA-2024-11379,2025-02-22,2025-02-24,Matthew Jackson,East,New York,Furniture,Chairs,Ergonomic Executive Mesh Chair,899.97,3,0.0,383.16
+CA-2023-11380,2024-06-28,2024-07-01,Edward Carter,East,Pennsylvania,Technology,Monitors,"LG UltraGear 34""",3324.95,5,0.05,1426.74
+CA-2024-11381,2025-06-11,2025-06-12,Kimberly Gonzalez,East,Connecticut,Office Supplies,Paper,Premium Heavyweight Cardstock,47.98,4,0.4,5.38
+CA-2025-11382,2024-12-25,2024-12-28,Rachel Hall,West,California,Technology,Laptops,"MacBook Pro 16""",9999.95,5,0.0,4666.16
+CA-2024-11383,2025-07-20,2025-07-25,Jessica Taylor,West,Washington,Office Supplies,Paper,Premium Heavyweight Cardstock,47.98,4,0.4,-1.88
+CA-2023-11384,2025-08-11,2025-08-16,Michael Smith,East,Massachusetts,Office Supplies,Art & Writing,Highlighter Pack,4.79,1,0.4,-0.19
+CA-2025-11385,2024-06-29,2024-06-30,George Nelson,East,Connecticut,Furniture,Furnishings,Anti-Fatigue Floor Mat,79.98,2,0.0,36.46
+CA-2025-11386,2025-01-25,2025-01-26,Anthony Walker,South,Virginia,Technology,Monitors,"LG UltraGear 34""",699.99,1,0.0,335.68
+CA-2025-11387,2025-11-05,2025-11-09,Charles Allen,Central,Texas,Office Supplies,Storage,Archive Storage Boxes 10-Pack,27.99,1,0.2,6.64
+CA-2024-11388,2024-11-17,2024-11-20,Donald Baker,East,Massachusetts,Office Supplies,Paper,Premium Heavyweight Cardstock,39.98,2,0.0,14.17
+CA-2026-11389,2025-07-01,2025-07-06,Laura Collins,West,Arizona,Technology,Monitors,"Dell UltraSharp 27""",299.99,1,0.4,3.19
+CA-2025-11390,2025-08-11,2025-08-12,Amy Rogers,East,Pennsylvania,Technology,Laptops,Lenovo ThinkPad X1,6499.95,5,0.0,2220.12
+CA-2025-11391,2025-09-19,2025-09-20,Edward Carter,West,Oregon,Furniture,Bookcases,Corner Bookshelf,69.99,1,0.3,10.02
+CA-2024-11392,2025-02-05,2025-02-09,Laura Collins,East,Connecticut,Furniture,Chairs,Gaming Chair High-Back,499.98,2,0.0,186.15
+CA-2024-11393,2025-06-10,2025-06-15,Michelle Evans,Central,Illinois,Furniture,Bookcases,3-Tier Industrial Metal Shelf,279.98,2,0.0,123.52
+CA-2026-11394,2025-07-20,2025-07-22,Samantha Young,South,North Carolina,Technology,Accessories,Apple AirPods Pro,249.99,1,0.0,87.12
+CA-2025-11395,2026-01-17,2026-01-21,Daniel Harris,Central,Ohio,Office Supplies,Paper,Multipurpose Copy Paper 500 Sheets,24.68,2,0.05,8.17
+CA-2025-11396,2024-09-14,2024-09-16,Joseph Lewis,East,New York,Furniture,Chairs,Gaming Chair High-Back,399.98,2,0.2,76.63
+CA-2025-11397,2025-02-03,2025-02-08,Donald Baker,West,Washington,Furniture,Chairs,Gaming Chair High-Back,149.99,1,0.4,-0.75
+CA-2025-11398,2024-09-06,2024-09-08,Barbara Scott,West,Oregon,Technology,Accessories,Logitech MX Master 3S,899.91,10,0.1,341.76
+CA-2024-11399,2024-05-02,2024-05-05,Robert Thompson,Central,Wisconsin,Office Supplies,Paper,Premium Heavyweight Cardstock,79.96,4,0.0,28.07
+CA-2023-11400,2023-11-25,2023-11-30,Barbara Scott,South,Florida,Furniture,Chairs,Task Chair Armless,911.92,8,0.05,321.64
+CA-2024-11401,2025-01-19,2025-01-21,Patricia King,Central,Illinois,Technology,Monitors,"Dell UltraSharp 27""",1999.96,4,0.0,666.18
+CA-2026-11402,2025-07-21,2025-07-24,Thomas Hernandez,West,Arizona,Furniture,Furnishings,Acoustic Desk Divider,191.98,4,0.4,-20.05
+CA-2023-11403,2025-12-04,2025-12-06,Michael Smith,West,Nevada,Technology,Accessories,Sony WH-1000XM5,399.99,1,0.0,138.39
+CA-2023-11404,2024-06-11,2024-06-15,Rachel Hall,South,Virginia,Office Supplies,Storage,Archive Storage Boxes 10-Pack,27.99,1,0.2,4.66
+CA-2024-11405,2024-10-30,2024-11-04,Charles Allen,East,New York,Technology,Accessories,Logitech MX Master 3S,299.97,5,0.4,-11.14
+CA-2025-11406,2023-12-19,2023-12-22,Brian Martinez,East,New Jersey,Furniture,Furnishings,Anti-Fatigue Floor Mat,199.95,5,0.0,71.77
+CA-2026-11407,2024-04-16,2024-04-18,Nicole Garcia,East,New York,Technology,Monitors,"LG UltraGear 34""",1119.98,2,0.2,374.8
+CA-2025-11408,2026-01-01,2026-01-04,Matthew Jackson,South,Florida,Office Supplies,Paper,Premium Heavyweight Cardstock,15.99,1,0.2,4.22
+CA-2023-11409,2025-02-08,2025-02-09,Amanda Thomas,East,New Jersey,Technology,Laptops,Dell XPS 15,7499.95,5,0.0,2975.67
+CA-2024-11410,2024-10-03,2024-10-07,Donna Roberts,West,California,Office Supplies,Binders,"Zipper Binder 3""",42.48,2,0.15,8.97
+CA-2024-11411,2023-12-04,2023-12-06,Amy Rogers,East,Massachusetts,Office Supplies,Storage,Plastic Storage Tote 10 Gal,47.97,5,0.4,-0.64
+CA-2026-11412,2025-03-18,2025-03-22,Brian Phillips,South,Virginia,Furniture,Tables,Side Table Wooden,53.99,1,0.4,-4.78
+CA-2025-11413,2025-07-15,2025-07-16,Amanda Thomas,East,Massachusetts,Furniture,Chairs,Task Chair Armless,1025.91,9,0.05,405.16
+CA-2024-11414,2025-01-07,2025-01-12,Sarah Sanchez,East,New Jersey,Technology,Smartphones,Samsung Galaxy S24,2699.97,3,0.0,1272.92
+CA-2025-11415,2024-12-18,2024-12-19,Donna Roberts,West,Nevada,Office Supplies,Paper,Premium Heavyweight Cardstock,39.98,2,0.0,13.21
+CA-2026-11416,2026-04-28,2026-05-03,Daniel Harris,South,Tennessee,Furniture,Furnishings,Acoustic Desk Divider,191.98,3,0.2,33.81
+CA-2025-11417,2025-09-15,2025-09-20,Jeffrey Morris,South,Florida,Furniture,Bookcases,5-Shelf Wooden Bookcase,484.47,3,0.15,135.26
+CA-2024-11418,2024-02-14,2024-02-19,Christopher Anderson,Central,Texas,Furniture,Bookcases,Corner Bookshelf,284.97,3,0.05,83.23
+CA-2024-11419,2023-12-18,2023-12-20,Joseph Lewis,East,New Jersey,Office Supplies,Paper,Premium Heavyweight Cardstock,59.97,3,0.0,19.29
+CA-2026-11420,2024-02-25,2024-02-26,Barbara Scott,South,Florida,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,165.56,4,0.1,53.37
+CA-2024-11421,2025-02-08,2025-02-10,Anthony Walker,Central,Illinois,Furniture,Tables,Side Table Wooden,539.94,6,0.0,186.95
+CA-2025-11422,2025-09-13,2025-09-16,Steven Wright,West,Washington,Furniture,Furnishings,Anti-Fatigue Floor Mat,39.99,1,0.0,16.6
+CA-2025-11423,2025-02-26,2025-02-28,Linda Lopez,Central,Texas,Furniture,Furnishings,Acoustic Desk Divider,127.98,2,0.2,28.66
+CA-2024-11424,2023-05-11,2023-05-15,Linda Lopez,West,Washington,Technology,Accessories,Apple AirPods Pro,2249.91,9,0.0,989.27
+CA-2024-11425,2025-08-04,2025-08-08,George Nelson,East,Pennsylvania,Furniture,Bookcases,Corner Bookshelf,199.98,2,0.0,68.64
+CA-2024-11426,2025-01-08,2025-01-10,Emily Johnson,West,Nevada,Office Supplies,Art & Writing,Dry Erase Markers 8-Pack,11.99,1,0.0,5.53
+CA-2026-11427,2025-01-27,2025-01-28,Jessica Taylor,East,Connecticut,Office Supplies,Paper,Multipurpose Copy Paper 500 Sheets,72.74,7,0.2,17.78
+CA-2025-11428,2023-10-30,2023-11-04,James Wilson,Central,Texas,Office Supplies,Art & Writing,Gel Pen Set 12-Pack,44.97,5,0.4,3.65
+CA-2026-11429,2025-05-05,2025-05-07,Sarah Davis,Central,Illinois,Furniture,Bookcases,3-Tier Industrial Metal Shelf,97.99,1,0.3,15.33
+CA-2025-11430,2024-10-29,2024-10-30,Laura Collins,South,North Carolina,Furniture,Furnishings,Anti-Fatigue Floor Mat,119.97,3,0.0,50.97
+CA-2023-11431,2025-07-12,2025-07-16,Jason Stewart,South,Virginia,Technology,Smartphones,iPhone 15 Pro,3599.96,4,0.1,1505.43
+CA-2025-11432,2023-10-04,2023-10-06,Robert Thompson,East,New Jersey,Technology,Laptops,Dell XPS 15,8924.94,7,0.15,2863.74
+CA-2024-11433,2024-04-25,2024-04-29,Christopher Anderson,South,Tennessee,Technology,Monitors,"Dell UltraSharp 27""",499.99,1,0.0,185.75
+CA-2023-11434,2025-04-08,2025-04-09,Thomas Hernandez,West,Washington,Office Supplies,Binders,"Zipper Binder 3""",169.93,8,0.15,61.74
+CA-2026-11435,2025-02-27,2025-03-02,Thomas Hernandez,West,Washington,Technology,Monitors,"Dell UltraSharp 27""",1799.96,6,0.4,97.56
+CA-2025-11436,2025-04-01,2025-04-03,Kevin Perez,Central,Texas,Technology,Monitors,"LG UltraGear 34""",2099.97,3,0.0,863.12
+CA-2025-11437,2026-05-11,2026-05-13,Paul Hill,East,Massachusetts,Technology,Monitors,"LG UltraGear 34""",2099.97,3,0.0,703.9
+CA-2026-11438,2025-05-22,2025-05-24,Stephanie Martin,West,California,Technology,Laptops,HP Spectre x360,4319.96,6,0.4,-377.08
+CA-2023-11439,2025-04-26,2025-04-29,Kimberly Gonzalez,South,North Carolina,Furniture,Bookcases,Corner Bookshelf,349.96,5,0.3,71.28
+CA-2026-11440,2025-10-17,2025-10-19,George Nelson,East,New York,Furniture,Tables,Side Table Wooden,229.47,3,0.15,71.44
+CA-2025-11441,2024-05-25,2024-05-29,Sarah Sanchez,West,Arizona,Furniture,Furnishings,Anti-Fatigue Floor Mat,119.97,3,0.0,48.88
+CA-2023-11442,2024-11-08,2024-11-12,Elizabeth Robinson,South,Tennessee,Technology,Laptops,Lenovo ThinkPad X1,4159.97,4,0.2,1006.2
+CA-2023-11443,2025-05-16,2025-05-18,Stephanie Martin,East,Massachusetts,Office Supplies,Binders,"Heavy-Duty 3-Ring Binder 2""",76.42,10,0.15,29.46
+CA-2025-11444,2025-02-22,2025-02-26,Christopher Anderson,Central,Michigan,Furniture,Tables,Side Table Wooden,89.99,1,0.0,42.15
+CA-2024-11445,2024-09-02,2024-09-06,Barbara Scott,West,Nevada,Furniture,Bookcases,5-Shelf Wooden Bookcase,227.99,2,0.4,12.84
+CA-2023-11446,2026-01-29,2026-01-31,David Brown,Central,Texas,Furniture,Tables,Side Table Wooden,359.96,5,0.2,55.79
+CA-2025-11447,2025-01-30,2025-02-02,Carol Campbell,East,Massachusetts,Furniture,Bookcases,Corner Bookshelf,179.98,3,0.4,-6.22
+CA-2023-11448,2024-07-22,2024-07-26,Brian Phillips,South,Florida,Furniture,Furnishings,LED Desk Lamp with Wireless Charger,91.98,2,0.0,40.69
+CA-2026-11449,2024-12-15,2024-12-19,Robert Thompson,East,New York,Furniture,Furnishings,Anti-Fatigue Floor Mat,79.98,2,0.0,26.06
+CA-2023-11450,2025-06-24,2025-06-28,Laura Adams,South,Virginia,Furniture,Tables,Side Table Wooden,215.98,3,0.2,53.75
+CA-2024-11451,2025-09-20,2025-09-22,Anthony Walker,East,New Jersey,Furniture,Chairs,Task Chair Armless,215.98,3,0.4,28.76
+CA-2024-11452,2025-05-31,2025-06-02,Samantha Young,West,Oregon,Technology,Accessories,Sony WH-1000XM5,679.98,2,0.15,176.23
+CA-2023-11453,2023-07-06,2023-07-07,Daniel Harris,Central,Wisconsin,Technology,Accessories,Apple AirPods Pro,499.98,2,0.0,165.25
+CA-2026-11454,2024-12-25,2024-12-29,Robert Thompson,East,Massachusetts,Furniture,Bookcases,5-Shelf Wooden Bookcase,569.97,3,0.0,211.25
+CA-2025-11455,2025-08-13,2025-08-15,Robert Thompson,West,Oregon,Office Supplies,Binders,"Presentation Binder 1""",4.67,1,0.15,1.65
+CA-2025-11456,2025-06-26,2025-06-30,Stephanie Martin,Central,Michigan,Technology,Smartphones,OnePlus 12,5319.93,7,0.05,1629.95
+CA-2024-11457,2024-09-17,2024-09-22,Michelle Evans,Central,Texas,Technology,Laptops,HP Spectre x360,2399.98,2,0.0,786.57
+CA-2026-11458,2025-02-08,2025-02-12,Edward Carter,Central,Texas,Furniture,Bookcases,3-Tier Industrial Metal Shelf,503.96,4,0.1,138.88
+CA-2024-11459,2023-04-04,2023-04-07,Brian Phillips,West,Nevada,Furniture,Chairs,Ergonomic Executive Mesh Chair,1259.96,6,0.3,276.53
+CA-2024-11460,2025-02-09,2025-02-12,Kevin Perez,East,Massachusetts,Technology,Laptops,Lenovo ThinkPad X1,1169.99,1,0.1,475.65
+CA-2025-11461,2024-12-20,2024-12-23,Anthony Walker,East,New York,Technology,Smartphones,Google Pixel 8,1994.97,3,0.05,628.3
+CA-2026-11462,2025-06-30,2025-07-05,Christopher Anderson,East,New Jersey,Office Supplies,Storage,Plastic Storage Tote 10 Gal,14.39,1,0.1,3.64
+CA-2024-11463,2025-06-10,2025-06-11,Joseph Lewis,West,California,Office Supplies,Binders,"Presentation Binder 1""",6.59,2,0.4,-0.79
+CA-2023-11464,2025-06-09,2025-06-14,Mark Green,West,Nevada,Furniture,Tables,Conference Table 8-ft,679.99,1,0.15,247.38
+CA-2025-11465,2024-11-08,2024-11-10,Rachel Hall,South,Virginia,Technology,Accessories,Sony WH-1000XM5,1119.97,4,0.3,150.03
+CA-2025-11466,2024-08-06,2024-08-08,Matthew Jackson,South,Georgia,Furniture,Bookcases,Corner Bookshelf,539.95,6,0.1,176.02
+CA-2025-11467,2025-07-03,2025-07-07,Samantha Young,Central,Wisconsin,Office Supplies,Binders,"Zipper Binder 3""",24.99,1,0.0,8.13
+CA-2026-11468,2026-04-06,2026-04-07,Matthew Jackson,West,California,Technology,Smartphones,Google Pixel 8,1329.98,2,0.05,470.65
+CA-2024-11469,2023-10-15,2023-10-17,Matthew Jackson,West,Oregon,Office Supplies,Paper,Multipurpose Copy Paper 500 Sheets,11.04,1,0.15,3.29
+CA-2024-11470,2025-04-29,2025-05-03,Edward Carter,East,New York,Office Supplies,Storage,Desktop File Organizer,68.97,5,0.4,-2.15
+CA-2026-11471,2025-03-28,2025-04-01,Ashley White,South,North Carolina,Office Supplies,Art & Writing,Highlighter Pack,28.76,4,0.1,8.85
+CA-2024-11472,2025-07-13,2025-07-15,Samantha Young,East,Massachusetts,Office Supplies,Binders,"Heavy-Duty 3-Ring Binder 2""",26.97,3,0.0,9.89
+CA-2023-11473,2025-07-06,2025-07-08,James Wilson,East,Pennsylvania,Furniture,Tables,Side Table Wooden,80.99,1,0.1,25.21
+CA-2023-11474,2024-10-17,2024-10-18,Jessica Taylor,East,New Jersey,Office Supplies,Art & Writing,Gel Pen Set 12-Pack,8.99,1,0.4,0.08
+CA-2023-11475,2025-02-18,2025-02-22,Patricia King,West,Arizona,Technology,Smartphones,Google Pixel 8,1189.98,2,0.15,403.67
+CA-2025-11476,2025-03-11,2025-03-14,Mark Green,East,New Jersey,Technology,Laptops,Lenovo ThinkPad X1,1299.99,1,0.0,517.72
+CA-2026-11477,2024-10-22,2024-10-27,Elizabeth Robinson,West,Arizona,Technology,Smartphones,OnePlus 12,4479.94,8,0.3,972.22
+CA-2026-11478,2025-06-04,2025-06-06,Paul Hill,East,Connecticut,Furniture,Tables,"Adjustable Standing Desk 55""",900.0,2,0.0,409.65
+CA-2024-11479,2025-07-09,2025-07-11,Christopher Anderson,South,Georgia,Furniture,Chairs,Task Chair Armless,143.99,2,0.4,-1.94
+CA-2024-11480,2025-11-17,2025-11-20,Carol Campbell,Central,Illinois,Furniture,Tables,Conference Table 8-ft,2159.97,3,0.1,809.54
+CA-2023-11481,2025-01-16,2025-01-20,Sarah Sanchez,South,North Carolina,Technology,Monitors,"LG UltraGear 34""",699.99,1,0.0,272.04
+CA-2025-11482,2025-10-16,2025-10-21,Amy Rogers,South,Tennessee,Furniture,Chairs,Ergonomic Executive Mesh Chair,1259.96,6,0.3,323.22
+CA-2024-11483,2024-12-09,2024-12-11,Sarah Davis,Central,Illinois,Furniture,Furnishings,Acoustic Desk Divider,479.94,6,0.0,213.92
+CA-2025-11484,2024-02-01,2024-02-06,Kimberly Gonzalez,East,Pennsylvania,Technology,Laptops,"MacBook Pro 16""",1699.99,1,0.15,532.91
+CA-2023-11485,2025-03-01,2025-03-03,David Brown,West,Oregon,Furniture,Furnishings,Acoustic Desk Divider,279.96,5,0.3,38.8
+CA-2026-11486,2024-09-22,2024-09-24,Timothy Edwards,Central,Wisconsin,Office Supplies,Binders,"Heavy-Duty 3-Ring Binder 2""",21.58,3,0.2,3.57
+CA-2023-11487,2024-04-24,2024-04-27,Jennifer Lee,East,New Jersey,Furniture,Chairs,Task Chair Armless,509.96,5,0.15,187.48
+CA-2023-11488,2024-09-20,2024-09-22,Nicole Garcia,West,California,Technology,Smartphones,Google Pixel 8,2099.97,3,0.0,906.25
+CA-2026-11489,2024-07-16,2024-07-21,Robert Thompson,West,Nevada,Technology,Laptops,HP Spectre x360,11999.9,10,0.0,5355.95
+CA-2026-11490,2023-11-22,2023-11-23,Ashley White,South,Florida,Furniture,Tables,Side Table Wooden,85.49,1,0.05,36.43
+CA-2026-11491,2024-11-14,2024-11-16,Sarah Davis,West,Nevada,Furniture,Chairs,Ergonomic Executive Mesh Chair,239.99,1,0.2,78.98
+CA-2024-11492,2023-08-07,2023-08-12,Jason Stewart,West,Arizona,Technology,Accessories,Sony WH-1000XM5,2659.93,7,0.05,789.36
+CA-2024-11493,2023-07-25,2023-07-30,Robert Thompson,South,Virginia,Office Supplies,Binders,"Zipper Binder 3""",24.99,1,0.0,10.17
+CA-2025-11494,2025-08-03,2025-08-04,Ashley White,Central,Illinois,Technology,Laptops,Lenovo ThinkPad X1,779.99,1,0.4,-38.08
+CA-2024-11495,2025-12-16,2025-12-17,Helen Mitchell,Central,Illinois,Technology,Accessories,Sony WH-1000XM5,379.99,1,0.05,127.16
+CA-2025-11496,2026-05-09,2026-05-12,Jason Stewart,South,Florida,Furniture,Chairs,Ergonomic Executive Mesh Chair,1019.97,4,0.15,371.38
+CA-2026-11497,2025-09-09,2025-09-10,Brian Martinez,South,Florida,Technology,Accessories,Anker USB-C Hub,84.98,2,0.15,24.2
+CA-2025-11498,2024-10-26,2024-10-28,Nicole Garcia,West,Oregon,Technology,Smartphones,iPhone 15 Pro,699.99,1,0.3,31.17
+CA-2026-11499,2024-01-10,2024-01-15,Daniel Harris,South,North Carolina,Furniture,Furnishings,Anti-Fatigue Floor Mat,39.99,1,0.0,16.36
+CA-2023-11500,2024-12-02,2024-12-07,Michael Smith,South,North Carolina,Technology,Smartphones,Google Pixel 8,2099.97,3,0.0,892.94

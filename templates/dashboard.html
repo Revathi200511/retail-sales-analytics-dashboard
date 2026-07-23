@@ -1,0 +1,221 @@
+{% extends "base.html" %}
+
+{% block title %}Dashboard - Retail Sales Analytics{% endblock %}
+{% block page_title %}Analytics Dashboard{% endblock %}
+{% block page_subtitle %}Executive overview of sales, margins, product metrics, and regional performance{% endblock %}
+
+{% block content %}
+<div id="dashboardPage">
+    <!-- Filter Controls Bar -->
+    <div class="filter-bar">
+        <div class="filter-grid">
+            <div class="form-group">
+                <label for="startDate"><i class="fa-solid fa-calendar-days"></i> Start Date</label>
+                <input type="date" id="startDate" class="form-control filter-input">
+            </div>
+
+            <div class="form-group">
+                <label for="endDate"><i class="fa-solid fa-calendar-days"></i> End Date</label>
+                <input type="date" id="endDate" class="form-control filter-input">
+            </div>
+
+            <div class="form-group">
+                <label for="filterRegion"><i class="fa-solid fa-earth-americas"></i> Region</label>
+                <select id="filterRegion" class="form-select filter-input">
+                    <option value="All">All Regions</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="filterState"><i class="fa-solid fa-location-dot"></i> State</label>
+                <select id="filterState" class="form-select filter-input">
+                    <option value="All">All States</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="filterCategory"><i class="fa-solid fa-layer-group"></i> Category</label>
+                <select id="filterCategory" class="form-select filter-input">
+                    <option value="All">All Categories</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="filterSubCategory"><i class="fa-solid fa-tags"></i> Sub-Category</label>
+                <select id="filterSubCategory" class="form-select filter-input">
+                    <option value="All">All Sub-Categories</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="filterCustomer"><i class="fa-solid fa-users"></i> Customer</label>
+                <select id="filterCustomer" class="form-select filter-input">
+                    <option value="All">All Customers</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="filterYear"><i class="fa-solid fa-calendar"></i> Year</label>
+                <select id="filterYear" class="form-select filter-input">
+                    <option value="All">All Years</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <button id="resetFiltersBtn" class="btn btn-secondary">
+                    <i class="fa-solid fa-rotate-left"></i> Reset
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Key Performance Indicators (KPIs) -->
+    <div class="kpi-grid">
+        <div class="kpi-card kpi-primary">
+            <div class="kpi-top">
+                <span class="kpi-label">Total Sales</span>
+                <div class="kpi-icon"><i class="fa-solid fa-dollar-sign"></i></div>
+            </div>
+            <div class="kpi-value" id="kpiTotalSales">$0.00</div>
+            <div class="kpi-subtext">Gross Revenue</div>
+        </div>
+
+        <div class="kpi-card kpi-success">
+            <div class="kpi-top">
+                <span class="kpi-label">Total Profit</span>
+                <div class="kpi-icon"><i class="fa-solid fa-chart-line"></i></div>
+            </div>
+            <div class="kpi-value" id="kpiTotalProfit">$0.00</div>
+            <div class="kpi-subtext">Net Earnings</div>
+        </div>
+
+        <div class="kpi-card kpi-info">
+            <div class="kpi-top">
+                <span class="kpi-label">Total Orders</span>
+                <div class="kpi-icon"><i class="fa-solid fa-cart-shopping"></i></div>
+            </div>
+            <div class="kpi-value" id="kpiTotalOrders">0</div>
+            <div class="kpi-subtext">Completed Orders</div>
+        </div>
+
+        <div class="kpi-card kpi-warning">
+            <div class="kpi-top">
+                <span class="kpi-label">Avg Order Value</span>
+                <div class="kpi-icon"><i class="fa-solid fa-receipt"></i></div>
+            </div>
+            <div class="kpi-value" id="kpiAvgOrderValue">$0.00</div>
+            <div class="kpi-subtext">Revenue per Order</div>
+        </div>
+
+        <div class="kpi-card kpi-danger">
+            <div class="kpi-top">
+                <span class="kpi-label">Profit Margin</span>
+                <div class="kpi-icon"><i class="fa-solid fa-percent"></i></div>
+            </div>
+            <div class="kpi-value" id="kpiProfitMargin">0.0%</div>
+            <div class="kpi-subtext">Net Profit Share</div>
+        </div>
+    </div>
+
+    <!-- Charts Section: Grid Row 1 (Trends & Region) -->
+    <div class="charts-grid-2">
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title"><i class="fa-solid fa-chart-area"></i> Monthly Sales & Profit Trend</h3>
+            </div>
+            <div class="chart-container">
+                <canvas id="chartMonthlySalesLine"></canvas>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title"><i class="fa-solid fa-chart-pie"></i> Sales by Region</h3>
+            </div>
+            <div class="chart-container">
+                <canvas id="chartSalesByRegion"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <!-- Charts Section: Grid Row 2 (Category Analysis) -->
+    <div class="charts-grid-2">
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title"><i class="fa-solid fa-chart-bar"></i> Sales by Category</h3>
+            </div>
+            <div class="chart-container">
+                <canvas id="chartSalesByCategory"></canvas>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title"><i class="fa-solid fa-layer-group"></i> Profit vs Revenue by Category</h3>
+            </div>
+            <div class="chart-container">
+                <canvas id="chartProfitByCategory"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <!-- Charts Section: Grid Row 3 (Top Rankings & State) -->
+    <div class="charts-grid-3">
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title"><i class="fa-solid fa-trophy"></i> Top 10 Best Products</h3>
+            </div>
+            <div class="chart-container">
+                <canvas id="chartTop10Products"></canvas>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title"><i class="fa-solid fa-user-check"></i> Top Customers</h3>
+            </div>
+            <div class="chart-container">
+                <canvas id="chartTopCustomers"></canvas>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title"><i class="fa-solid fa-map-location-dot"></i> Top States by Sales</h3>
+            </div>
+            <div class="chart-container">
+                <canvas id="chartSalesByState"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <!-- Charts Section: Grid Row 4 (Deep Dive Matrix & Scatter) -->
+    <div class="charts-grid-2">
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title"><i class="fa-solid fa-circle-nodes"></i> Discount vs Profit Correlation</h3>
+            </div>
+            <div class="chart-container" id="chartDiscountVsProfit"></div>
+        </div>
+
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title"><i class="fa-solid fa-border-all"></i> Regional Profitability Heatmap</h3>
+            </div>
+            <div class="chart-container" id="chartProfitHeatmap"></div>
+        </div>
+    </div>
+
+    <!-- Charts Section: Grid Row 5 (Category Share Pie) -->
+    <div class="charts-grid-2">
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title"><i class="fa-solid fa-chart-pie"></i> Category Share Breakdown</h3>
+            </div>
+            <div class="chart-container">
+                <canvas id="chartCategoryPie"></canvas>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

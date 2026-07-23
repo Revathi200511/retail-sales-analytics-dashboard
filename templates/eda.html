@@ -1,0 +1,124 @@
+{% extends "base.html" %}
+
+{% block title %}Exploratory Data Analysis - Retail Analytics{% endblock %}
+{% block page_title %}Exploratory Data Analysis (EDA){% endblock %}
+{% block page_subtitle %}Deep dive into data quality, statistics, correlations, outliers, and distributions{% endblock %}
+
+{% block content %}
+<div id="edaPage">
+    <!-- Data Quality Overview Cards -->
+    <div class="kpi-grid">
+        <div class="kpi-card kpi-primary">
+            <div class="kpi-top">
+                <span class="kpi-label">Total Records</span>
+                <div class="kpi-icon"><i class="fa-solid fa-database"></i></div>
+            </div>
+            <div class="kpi-value" id="edaTotalRecords">0</div>
+            <div class="kpi-subtext">Active Dataset Rows</div>
+        </div>
+
+        <div class="kpi-card kpi-info">
+            <div class="kpi-top">
+                <span class="kpi-label">Total Columns</span>
+                <div class="kpi-icon"><i class="fa-solid fa-columns"></i></div>
+            </div>
+            <div class="kpi-value" id="edaTotalCols">0</div>
+            <div class="kpi-subtext">Features & Variables</div>
+        </div>
+
+        <div class="kpi-card kpi-warning">
+            <div class="kpi-top">
+                <span class="kpi-label">Missing Values</span>
+                <div class="kpi-icon"><i class="fa-solid fa-circle-question"></i></div>
+            </div>
+            <div class="kpi-value" id="edaMissingValues">0</div>
+            <div class="kpi-subtext">Null / NaN Cells</div>
+        </div>
+
+        <div class="kpi-card kpi-danger">
+            <div class="kpi-top">
+                <span class="kpi-label">Duplicate Rows</span>
+                <div class="kpi-icon"><i class="fa-solid fa-copy"></i></div>
+            </div>
+            <div class="kpi-value" id="edaDuplicateRows">0</div>
+            <div class="kpi-subtext">Identical Data Entries</div>
+        </div>
+    </div>
+
+    <!-- Summary Statistics Table -->
+    <div class="card" style="margin-bottom: 28px;">
+        <div class="card-header">
+            <h3 class="card-title"><i class="fa-solid fa-calculator"></i> Summary Statistics (Numeric Variables)</h3>
+        </div>
+        <div class="table-responsive">
+            <table class="custom-table">
+                <thead>
+                    <tr>
+                        <th>Metric Variable</th>
+                        <th>Count</th>
+                        <th>Mean</th>
+                        <th>Std Dev</th>
+                        <th>Min</th>
+                        <th>25th Pct</th>
+                        <th>Median (50%)</th>
+                        <th>75th Pct</th>
+                        <th>Max</th>
+                    </tr>
+                </thead>
+                <tbody id="edaStatsTableBody">
+                    <!-- Populated dynamically -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <!-- Correlation Matrix & Outlier Analysis -->
+    <div class="charts-grid-2">
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title"><i class="fa-solid fa-diagram-project"></i> Pearson Correlation Matrix</h3>
+            </div>
+            <div class="chart-container" id="edaCorrHeatmap"></div>
+        </div>
+
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title"><i class="fa-solid fa-filter-circle-xmark"></i> Outlier Detection (IQR Method)</h3>
+            </div>
+            <div id="edaOutliersContainer" class="kpi-grid" style="grid-template-columns: 1fr 1fr; gap: 16px;">
+                <!-- Populated dynamically -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Feature Distributions -->
+    <div class="charts-grid-3">
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title"><i class="fa-solid fa-chart-column"></i> Sales Distribution</h3>
+            </div>
+            <div class="chart-container">
+                <canvas id="edaSalesDist"></canvas>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title"><i class="fa-solid fa-chart-column"></i> Profit Distribution</h3>
+            </div>
+            <div class="chart-container">
+                <canvas id="edaProfitDist"></canvas>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title"><i class="fa-solid fa-chart-column"></i> Discount Distribution</h3>
+            </div>
+            <div class="chart-container">
+                <canvas id="edaDiscountDist"></canvas>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

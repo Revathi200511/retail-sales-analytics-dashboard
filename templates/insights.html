@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+
+{% block title %}Business Insights - Retail Analytics{% endblock %}
+{% block page_title %}Automated Business Insights{% endblock %}
+{% block page_subtitle %}AI-driven automated intelligence on performance anomalies, top earners, and risk flags{% endblock %}
+
+{% block content %}
+<div id="insightsPage">
+    <div style="margin-bottom: 28px;">
+        <h2 style="font-size: 1.25rem; font-weight: 700; margin-bottom: 16px;">Key Strategic Findings</h2>
+        <div class="insights-grid" id="insightsContainer">
+            <!-- Dynamic Insights Cards populated by JS -->
+        </div>
+    </div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', async () => {
+    try {
+        const response = await fetch('/api/insights');
+        const data = await response.json();
+        
+        const container = document.getElementById('insightsContainer');
+        if (!container || !data.insights) return;
+
+        container.innerHTML = '';
+        data.insights.forEach(item => {
+            const card = document.createElement('div');
+            card.className = 'insight-card card';
+            card.innerHTML = `
+                <div class="insight-icon ${item.type}">
+                    <i class="fa-solid ${item.icon}"></i>
+                </div>
+                <div class="insight-content">
+                    <span style="font-size: 0.75rem; font-weight: 700; text-transform: uppercase; color: var(--text-secondary);">${item.title}</span>
+                    <h3 style="color: var(--text-primary); margin: 4px 0 6px;">${item.value}</h3>
+                    <p style="font-size: 0.88rem; color: var(--text-secondary);">${item.detail}</p>
+                </div>
+            `;
+            container.appendChild(card);
+        });
+    } catch (err) {
+        console.error('Failed to load insights:', err);
+    }
+});
+</script>
+{% endblock %}

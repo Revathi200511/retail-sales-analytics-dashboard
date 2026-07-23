@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Retail Sales Analytics Dashboard{% endblock %}</title>
+    
+    <!-- Google Fonts & FontAwesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    
+    <!-- Chart.js & Plotly CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+
+    {% if session.get('user_id') %}
+    <div class="app-wrapper">
+        <!-- Sidebar Navigation -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <a href="{{ url_for('dashboard_view') }}" class="brand-logo">
+                    <div class="brand-icon">
+                        <i class="fa-solid fa-chart-pie"></i>
+                    </div>
+                    <span>RetailPulse</span>
+                </a>
+            </div>
+
+            <ul class="sidebar-menu">
+                <li class="menu-label">Main Analytics</li>
+                <li class="sidebar-item {% if active_page == 'dashboard' %}active{% endif %}">
+                    <a href="{{ url_for('dashboard_view') }}"><i class="fa-solid fa-table-columns"></i> <span>Dashboard</span></a>
+                </li>
+                <li class="sidebar-item {% if active_page == 'eda' %}active{% endif %}">
+                    <a href="{{ url_for('eda_view') }}"><i class="fa-solid fa-magnifying-glass-chart"></i> <span>Exploratory Data</span></a>
+                </li>
+                <li class="sidebar-item {% if active_page == 'insights' %}active{% endif %}">
+                    <a href="{{ url_for('insights_view') }}"><i class="fa-solid fa-lightbulb"></i> <span>Business Insights</span></a>
+                </li>
+                <li class="sidebar-item {% if active_page == 'prediction' %}active{% endif %}">
+                    <a href="{{ url_for('prediction_view') }}"><i class="fa-solid fa-brain"></i> <span>Sales Prediction</span></a>
+                </li>
+
+                <li class="menu-label">Exports & Admin</li>
+                <li class="sidebar-item {% if active_page == 'reports' %}active{% endif %}">
+                    <a href="{{ url_for('reports_view') }}"><i class="fa-solid fa-file-pdf"></i> <span>Reports & Exports</span></a>
+                </li>
+                {% if session.get('role') == 'admin' %}
+                <li class="sidebar-item {% if active_page == 'admin' %}active{% endif %}">
+                    <a href="{{ url_for('admin_view') }}"><i class="fa-solid fa-sliders"></i> <span>Admin Panel</span></a>
+                </li>
+                {% endif %}
+            </ul>
+
+            <div class="sidebar-footer">
+                <div class="user-badge">
+                    <div class="avatar">{{ session.get('username', 'U')[0].upper() }}</div>
+                    <div class="user-info">
+                        <span class="user-name">{{ session.get('username') }}</span>
+                        <span class="user-role">{{ session.get('role', 'user') }}</span>
+                    </div>
+                </div>
+                <a href="{{ url_for('logout') }}" class="btn btn-secondary" style="width: 100%; margin-top: 12px; font-size: 0.8rem;">
+                    <i class="fa-solid fa-right-from-bracket"></i> Logout
+                </a>
+            </div>
+        </aside>
+
+        <!-- Main Content View -->
+        <main class="main-content">
+            <!-- Topbar Header -->
+            <header class="topbar">
+                <div class="topbar-left">
+                    <button class="toggle-sidebar-btn" id="toggleSidebarBtn">
+                        <i class="fa-solid fa-bars"></i>
+                    </button>
+                    <div class="page-title-group">
+                        <h1>{% block page_title %}Dashboard{% endblock %}</h1>
+                        <p>{% block page_subtitle %}Real-time retail performance analytics & forecasting{% endblock %}</p>
+                    </div>
+                </div>
+
+                <div class="topbar-right">
+                    <button class="theme-toggle-btn" id="themeToggleBtn" title="Toggle Theme">
+                        <i class="fa-solid fa-sun" id="themeIcon"></i>
+                    </button>
+                </div>
+            </header>
+
+            <!-- Flash Alerts -->
+            <div class="toast-container">
+                {% with messages = get_flashed_messages(with_categories=true) %}
+                {% if messages %}
+                    {% for category, message in messages %}
+                    <div class="toast toast-{{ category }}">
+                        <i class="fa-solid fa-circle-info"></i>
+                        <span>{{ message }}</span>
+                    </div>
+                    {% endfor %}
+                {% endif %}
+                {% endwith %}
+            </div>
+
+            <!-- Page Body Content -->
+            <div class="content-body">
+                {% block content %}{% endblock %}
+            </div>
+        </main>
+    </div>
+    {% else %}
+        <!-- Auth Layout -->
+        {% block auth_content %}{% endblock %}
+    {% endif %}
+
+    <!-- Scripts -->
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/dashboard.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/eda.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/prediction.js') }}"></script>
+</body>
+</html>

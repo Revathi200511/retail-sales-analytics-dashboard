@@ -1,0 +1,78 @@
+{% extends "base.html" %}
+
+{% block title %}Sales Forecasting - Retail Analytics{% endblock %}
+{% block page_title %}Machine Learning Sales Prediction{% endblock %}
+{% block page_subtitle %}Predict future monthly revenue trends using Scikit-Learn Linear Regression{% endblock %}
+
+{% block content %}
+<div id="predictionPage">
+    <!-- Controls & Model Metrics -->
+    <div class="filter-bar">
+        <div class="filter-grid" style="grid-template-columns: 240px 1fr; align-items: center;">
+            <div class="form-group">
+                <label for="forecastHorizon"><i class="fa-solid fa-clock-rotate-left"></i> Forecast Horizon</label>
+                <select id="forecastHorizon" class="form-select">
+                    <option value="3">Next 3 Months</option>
+                    <option value="6" selected>Next 6 Months</option>
+                    <option value="9">Next 9 Months</option>
+                    <option value="12">Next 12 Months</option>
+                </select>
+            </div>
+            <div>
+                <p style="font-size: 0.88rem; color: var(--text-secondary);">
+                    Model fitted on aggregated monthly sales history using Ordinary Least Squares (OLS) Linear Regression.
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Model Performance Evaluation KPIs -->
+    <div class="kpi-grid">
+        <div class="kpi-card kpi-primary">
+            <div class="kpi-top">
+                <span class="kpi-label">R² Score (Goodness of Fit)</span>
+                <div class="kpi-icon"><i class="fa-solid fa-bullseye"></i></div>
+            </div>
+            <div class="kpi-value" id="metricR2">0.00</div>
+            <div class="kpi-subtext">1.0 = Perfect Linear Fit</div>
+        </div>
+
+        <div class="kpi-card kpi-info">
+            <div class="kpi-top">
+                <span class="kpi-label">Mean Absolute Error (MAE)</span>
+                <div class="kpi-icon"><i class="fa-solid fa-calculator"></i></div>
+            </div>
+            <div class="kpi-value" id="metricMAE">$0.00</div>
+            <div class="kpi-subtext">Average absolute deviation</div>
+        </div>
+
+        <div class="kpi-card kpi-warning">
+            <div class="kpi-top">
+                <span class="kpi-label">Root Mean Sq Error (RMSE)</span>
+                <div class="kpi-icon"><i class="fa-solid fa-square-root-variable"></i></div>
+            </div>
+            <div class="kpi-value" id="metricRMSE">$0.00</div>
+            <div class="kpi-subtext">Penalizes large errors</div>
+        </div>
+
+        <div class="kpi-card kpi-success">
+            <div class="kpi-top">
+                <span class="kpi-label">Monthly Growth Velocity</span>
+                <div class="kpi-icon"><i class="fa-solid fa-arrow-trend-up"></i></div>
+            </div>
+            <div class="kpi-value" id="metricSlope">$0.00 / mo</div>
+            <div class="kpi-subtext">Average monthly slope coefficient</div>
+        </div>
+    </div>
+
+    <!-- Interactive Prediction Chart -->
+    <div class="card">
+        <div class="card-header">
+            <h3 class="card-title"><i class="fa-solid fa-chart-line"></i> Historical Actual vs Fitted & Future Sales Projection</h3>
+        </div>
+        <div class="chart-container" style="min-height: 420px;">
+            <canvas id="chartSalesPrediction"></canvas>
+        </div>
+    </div>
+</div>
+{% endblock %}

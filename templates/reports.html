@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+
+{% block title %}Reports & Exports - Retail Analytics{% endblock %}
+{% block page_title %}Reports & Data Export{% endblock %}
+{% block page_subtitle %}Generate executive PDF documentation and export raw or filtered dataset records to CSV{% endblock %}
+
+{% block content %}
+<div id="reportsPage">
+    <div class="charts-grid-2">
+        <!-- PDF Export Card -->
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title"><i class="fa-solid fa-file-pdf"></i> Download PDF Executive Report</h3>
+            </div>
+            <p style="font-size: 0.88rem; color: var(--text-secondary); margin-bottom: 20px;">
+                Generates a clean, professionally formatted PDF summary report containing executive KPIs, regional performance tables, category breakdowns, and top product lists based on current filter selections.
+            </p>
+            <a href="{{ url_for('export_pdf') }}" class="btn btn-primary" style="padding: 12px 24px;">
+                <i class="fa-solid fa-download"></i> Download Executive PDF Report
+            </a>
+        </div>
+
+        <!-- CSV Export Card -->
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title"><i class="fa-solid fa-file-csv"></i> Export Filtered Dataset (CSV)</h3>
+            </div>
+            <p style="font-size: 0.88rem; color: var(--text-secondary); margin-bottom: 20px;">
+                Export the currently filtered subset of retail sales data directly as a standard UTF-8 Comma-Separated Values (CSV) file for further external analysis in Excel, Tableau, or PowerBI.
+            </p>
+            <a href="{{ url_for('export_csv') }}" class="btn btn-success" style="padding: 12px 24px;">
+                <i class="fa-solid fa-file-export"></i> Export CSV Data File
+            </a>
+        </div>
+    </div>
+</div>
+{% endblock %}
